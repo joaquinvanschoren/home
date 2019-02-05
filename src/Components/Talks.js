@@ -33,7 +33,7 @@ class Talks extends Component {
           </div>
           <h6>{talks.title}</h6>
           <p>{talks.description}
-             {talks.type == "video" && <a href={talks.slides} className="pull-right"><i className="fa fa-desktop"></i> Slides</a>}</p>
+             {talks.type === "video" && <a href={talks.slides} className="pull-right"><i className="fa fa-desktop"></i> Slides</a>}</p>
         </div>
       })
     }

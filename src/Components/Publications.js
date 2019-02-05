@@ -41,24 +41,24 @@ class Publications extends Component {
 
       this.publist = []
       for(let i=0; i< this.pubtypes.length; i++){
-        var t = this.pubtypes[i];
+        var ty = this.pubtypes[i];
         this.publist.push(
-          <div className="row" key={t}>
+          <div className="row" key={ty}>
           <div className="two columns header-col">
-             <h1><span>{t}</span></h1>
+             <h1><span>{ty}</span></h1>
           </div>
           <div className="ten columns main-col">
              <div className="row item">
                 <div className="twelve columns">
-                  {pubs[t]}
+                  {pubs[ty]}
                 </div>
              </div>
           </div>
 
           <div className="ten columns main-col pubmore">
-             <a onClick={this.show_more} value={t}
-             className={this.state[t+'_allShown'] ? 'hide' : 'show'}>
-             <i className='fa fa-2x fa-angle-double-down'></i> { this.state[t+'_count'] - this.state[t+'_shown']} More</a>
+             <a onClick={this.show_more} value={ty}
+             className={this.state[ty+'_allShown'] ? 'hide' : 'show'}>
+             <i className='fa fa-2x fa-angle-double-down'></i> { this.state[ty+'_count'] - this.state[ty+'_shown']} More</a>
           </div>
           </div>
         )
@@ -70,8 +70,9 @@ class Publications extends Component {
 
       <div className="row separated">
       <h2>Publications</h2>
-      <div className="toplink">Publications ordered by type and date (newest first), linked to PDFs. For citations, see <a href="http://scholar.google.nl/citations?user=HhDsD9UAAAAJ&hl=en&oi=ao">Google Scholar</a><br />
-      Preprints are listed on <a href="https://arxiv.org/search/?query=joaquin+vanschoren&searchtype=all&abstracts=show&order=-announced_date_first&size=50">Arxiv</a>.</div>
+      <div className="toplink">Publications ordered by type and date (newest first), linked to PDFs.<br />
+      Preprints are listed on <a href="https://arxiv.org/search/?query=joaquin+vanschoren&searchtype=all&abstracts=show&order=-announced_date_first&size=50">Arxiv</a>.
+      For citations, see <a href="http://scholar.google.nl/citations?user=HhDsD9UAAAAJ&hl=en&oi=ao">Google Scholar</a>.</div>
 
       <div>
       {this.publist}

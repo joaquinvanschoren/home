@@ -5,8 +5,6 @@ class Header extends Component {
 
     if(this.props.data){
       var name = this.props.data.name;
-      var occupation= this.props.data.occupation;
-      var description= this.props.data.description;
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
@@ -21,7 +19,7 @@ class Header extends Component {
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
          <ul id="nav" className="nav">
-            <li className="current"><a className="smoothscroll" href="#home">Joaquin Vanschoren</a></li>
+            <li className="current"><a className="smoothscroll" href="#home">{name}</a></li>
             <li className="hidesmall"><a>|</a></li>
             <li><a className="smoothscroll" href="#about">About</a></li>
             <li><a className="smoothscroll" href="#news">News</a></li>
