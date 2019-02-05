@@ -11,7 +11,7 @@ class Software extends Component {
          </div>
          <div className="nine columns main-col">
             <h2>OpenML</h2>
-            <p>I am the founder and a core developer of <a href="https://www.openml.org">OpenML.org</a>, an online platform for sharing data, code, models and experiments in an open and reproducible way, so that we can all learn from our collective past experience and build ever-better learning systems.</p>
+            <p>I founded <a href="https://www.openml.org">OpenML.org</a>, an online platform for sharing data, code, models and experiments in an open and reproducible way, so that we can all learn from our collective past experience and build ever-better learning systems.</p>
             <p>OpenML is being developed and maintained by <a href="https://www.openml.org/contact">an awesome team</a> of researchers and software developers. <b><i>Join us!</i></b></p>
             <a href="https://www.github.com/openml" className="button pull-right"><i className="fab fa-github"></i> OpenML on GitHub</a><br />
 

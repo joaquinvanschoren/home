@@ -70,8 +70,8 @@ class Publications extends Component {
 
       <div className="row separated">
       <h2>Publications</h2>
-      <div className="toplink">Publications ordered by type and date (newest first). For citations, see <a href="http://scholar.google.nl/citations?user=HhDsD9UAAAAJ&hl=en&oi=ao">Google Scholar</a><br />
-      All links lead to an open access PDF of the paper. Additional resources are added were available.</div>
+      <div className="toplink">Publications ordered by type and date (newest first), linked to PDFs. For citations, see <a href="http://scholar.google.nl/citations?user=HhDsD9UAAAAJ&hl=en&oi=ao">Google Scholar</a><br />
+      Preprints are listed on <a href="https://arxiv.org/search/?query=joaquin+vanschoren&searchtype=all&abstracts=show&order=-announced_date_first&size=50">Arxiv</a>.</div>
 
       <div>
       {this.publist}
