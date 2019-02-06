@@ -69,6 +69,7 @@ class Publications extends Component {
       <section id="pubs">
 
       <div className="row separated">
+      <div className="twelve columns">
       <h2>Publications</h2>
       <div className="toplink">Publications ordered by type and date (newest first), linked to PDFs.<br />
       Preprints are listed on <a href="https://arxiv.org/search/?query=joaquin+vanschoren&searchtype=all&abstracts=show&order=-announced_date_first&size=50">Arxiv</a>.
@@ -78,6 +79,7 @@ class Publications extends Component {
       {this.publist}
       </div>
 
+      </div>
       </div>
       </section>
     );
