@@ -266,6 +266,12 @@
         "picture":"bilge.jpeg"
       },
       {
+        "name":"Sahithya Ravi",
+        "role":"Research Software Engineer",
+        "topic":"OpenML Core Development",
+        "picture":"sahithya.jpeg"
+      },
+      {
         "name":"Chao Zhang",
         "role":"PhD student",
         "topic":"e-Coaching and habit formation (co-supervisor)",
