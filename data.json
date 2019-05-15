@@ -441,12 +441,6 @@
           },
           {
             "type":"Internship / MSc thesis",
-            "title":"Machine learning on temporal location data (Philips)",
-            "description":"Description will follow",
-            "url":""
-          },
-          {
-            "type":"Internship / MSc thesis",
             "title":"Embedded deep learning (Philips)",
             "description":"Deep learning models are often hard to embed into low-power devices because they consume too much memory of compute. Techniques such as low precision neural networks or sparse neural networks can be used to address this. Your challenge is to use these in specific applications.",
             "url":""
@@ -485,12 +479,6 @@
           },
           {
             "type":"MSc thesis",
-            "title":"A Tensorflow binding for OpenML",
-            "description":"OpenML is a platform for sharing machine learning models, and already has bindings for many Python libraries, such as scikit-learn and Keras. Recent improvements in TensorFlow make it interesting to share TensorFlow pipelines on OpenML as well. This work combines engineering with deep knowledge of machine learning models and systems.",
-            "url":"#"
-          },
-          {
-            "type":"MSc thesis",
             "title":"Defense against overfitting",
             "description":"There exist many approaches to avoid overfitting, such as early stopping, variance reduction, and reusable holdouts. They all have their benefits and drawbacks but there doesn't exists a lot of work on choosing between them. It is often an art rather than a science. Your challenge is to study this problem in depth and to recommend the best approaches for different scenarios.",
             "url":"#"
@@ -506,6 +494,10 @@
   },
   "publications":{
     	"journal papers": [
+    	{ "authors":"Gijsbers, P. Vanschoren, J.",
+    	  "url":"http://joss.theoj.org/papers/10.21105/joss.01132",
+    	  "title":"GAMA: Genetic Automated Machine learning Assistant.",
+    	  "reference":"Journal of Open Source Software, 4 (33), 1-2, 2019"},
     	{ "authors":"van Rijn, J.N., Holmes, G., Pfahringer, B., Vanschoren, J.",
     	  "url":"https://link.springer.com/content/pdf/10.1007%2Fs10994-017-5686-9.pdf",
     	  "title":"The online performance estimation framework: Heterogeneous Ensemble Learning for Data Streams.",
