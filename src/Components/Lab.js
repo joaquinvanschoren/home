@@ -118,14 +118,17 @@ class Lab extends Component {
 
             <div className="row">
                <div className="columns main-col">
-                  <h2 id="topics">New MSc research topics</h2>
+                  <h2 id="topics">MSc research topics</h2>
+                  <p>Below is a selection of ideas for MSc thesis topics (or Capita Selecta projects). I also welcome your own ideas along these lines. Note that, in principle, I tend to only accept students that received 80% or higher on a machine-learning related course or the data mining seminar.</p>
+                  <p>Due to time constraints, I typically do not supervise industry internships.</p>
+               
                   <h5>Scientific topics</h5>
                   <a onClick={this.showScienceTopics} className={this.state.showScience ? 'hide' : 'show'}> <i className='fa fa fa-angle-double-right'></i> See descriptions</a>
                   <ul className="topic-list">
                       {topics_academic}
                   </ul>
 
-                  <h5>Industry topics and internships</h5>
+                  <h5>Industry topics</h5>
                   <a onClick={this.showIndustryTopics} className={this.state.showIndustry ? 'hide' : 'show'}> <i className='fa fa fa-angle-double-right'></i> See descriptions</a>
                   <ul className="topic-list">
                       {topics_industry}
