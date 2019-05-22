@@ -36,7 +36,7 @@ class About extends Component {
                   <p className="address">
                   I try to dedicate my time to current projects, students and family. As such, I use email sparingly. A few tips to make both our lives easier:<br />
                   <span><b>- PhD positions</b>: Check for <a href="#open">available opportunities</a>.</span><br />
-                  <span><b>- MSc Students</b>: Check <a href="#topics">MSc research topics</a>. Use Canvas for course-related questions.</span><br />
+                  <span><b>- MSc Students</b>: Check <a href="#topics">MSc research topics</a>. Use Canvas for course-related questions.  I typically do not supervise industry internships.</span><br />
                   <span><b>- Meetings</b>: Book a time slot via Jose, our friendly secretary, at wsinfsys@tue.nl.</span><br />
                   <span><b>- Unsolicited job offers</b>: No thank you (unless it's truly amazing :))</span><br /><br />
                   <span>Otherwise, if you have a topic that you think will really really interest me, you can contact me at j.vanschoren <i className="fas fa-at"></i> tue.nl. Thanks!</span>
