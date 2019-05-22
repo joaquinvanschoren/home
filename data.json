@@ -429,20 +429,8 @@
         "industry": [
           {
             "type":"MSc thesis",
-            "title":"Deep reinforcement learning for bin packing (Vanderlande)",
-            "description":"Bin packing is a challenging optimization problem that thus far has not yet been addressed by reinforcement learning. You need to set up a simulation environment in OpenAI Gym and develop new reinforcement learning algorithms to solve it.",
-            "url":"https://careers.vanderlande.com/vacancy/graduation-developing-a-reinforcement-learning-solution-for-a-bin-packing-problem-1016062"
-          },
-          {
-            "type":"MSc thesis",
             "title":"Machine learning for vertical farming (Philips)",
             "description":"In vertical farming, plants are grown under ideal controlled conditions. Machine learning is needed to track plant growth and define the optimal conditions. Possible techniques are reinforment learning, deep meta-learning, or recurrent neural nets.",
-            "url":""
-          },
-          {
-            "type":"Internship / MSc thesis",
-            "title":"Embedded deep learning (Philips)",
-            "description":"Deep learning models are often hard to embed into low-power devices because they consume too much memory of compute. Techniques such as low precision neural networks or sparse neural networks can be used to address this. Your challenge is to use these in specific applications.",
             "url":""
           }
         ],
@@ -487,6 +475,12 @@
             "type":"MSc thesis",
             "title":"Frugal learning",
             "description":"Imagine that you want to develop a smartwatch app that does machine learning for a privacy-sensitive application (e.g. health tracking). It is often impossible to collect large amounts of data, nor are there large related datasets, e.g. because of privacy concerns. This severely limits your options about which algorithms to use. Your goal is to develop intelligent metrics and methods for building models under these conditions. You can also test them in smart watches.",
+            "url":"#"
+          },
+          {
+            "type":"MSc thesis",
+            "title":"Web of training data",
+            "description":"Automatically discover datasets online that are useful to machine learning. You can mine arXiv papers, Google Dataset Search, dataset repositories,... for datasets that we can use to build machine learning systems. Currently, such data is scattered, unorganized, and often impossible to find and use. Ideally, we can build a system to automatically find these, show where they are used, and make them easy to find and use (e.g. on OpenML).",
             "url":"#"
           }
         ]
