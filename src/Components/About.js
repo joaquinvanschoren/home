@@ -38,7 +38,6 @@ class About extends Component {
                   <span><b>- PhD positions</b>: Check for <a href="#open">available opportunities</a>.</span><br />
                   <span><b>- MSc Students</b>: Check <a href="#topics">MSc thesis topics and internships</a>. Use Canvas or Blackboard for courses.</span><br />
                   <span><b>- Meetings</b>: Book a time slot via Jose, our friendly secretary, at wsinfsys@tue.nl.</span><br />
-                  <span><b>- Calls</b>: Send a direct request <a href="https://calendly.com/joaquin-vanschoren">via Calendly</a>.</span><br />
                   <span><b>- Unsolicited job offers</b>: No thank you (unless it's truly amazing :))</span><br /><br />
                   <span>Otherwise, if you have a topic that you think will really interest me, you can contact me at j.vanschoren <i className="fas fa-at"></i> tue.nl. Thanks!</span>
                   </p>
