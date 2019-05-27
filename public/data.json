@@ -85,6 +85,12 @@
     ],
     "invited":[
       {
+        "title":"Speaker at the UN Global Summit on AI for Good",
+        "link":"https://aiforgood.itu.int/",
+        "time":"May 2019",
+        "description":"On how OpenML can be used to democratize machine learning and enable new large-scale collaborations to do good in this world."
+      },
+      {
         "title":"NeurIPS 2018 Open-source Machine Learning Workshop",
         "link":"https://2018.mloss.org/%22",
         "time":"December 2018",
