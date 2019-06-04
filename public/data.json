@@ -494,6 +494,10 @@
   },
   "publications":{
     	"journal papers": [
+      { "authors":"Mantovani, R.G., Rossi, A.L.D., Alcobaca, E., Vanschoren, J., Carvalho, A.C.P.L.F.",
+    	  "url":"https://www.sciencedirect.com/science/article/pii/S002002551930533X?via%3Dihub",
+    	  "title":"A meta-learning recommender system for hyperparameter tuning: predicting when tuning improves SVM classifiers.",
+    	  "reference":"Information Sciences, Available online (in press), 2019"},
     	{ "authors":"Gijsbers, P. Vanschoren, J.",
     	  "url":"http://joss.theoj.org/papers/10.21105/joss.01132",
     	  "title":"GAMA: Genetic Automated Machine learning Assistant.",
@@ -618,8 +622,16 @@
     	  "reference":"Proceedings of ECMLPKDD 2007, Lecture Notes in Computer Science 4702, 6-17"}
     	],
     	"workshop papers": [
+      { "authors":"Ledell, E., Gijsbers, P., Vanschoren, J., Thomas, J., Bischl, B., Poirier, S.",
+    	  "url":"https://openml.github.io/automlbenchmark",
+    	  "title":"An Open Source AutoML Benchmark",
+    	  "reference":"Automated Machine Learning workshop @ ICML 2019."},
+      { "authors":"van Rijn, J. N., Pfisterer, F., Thomas, J., Mueller, A., Bischl, B., Vanschoren, J.",
+    	  "url":"http://metalearning.ml/2018/papers/metalearn2018_paper70.pdf",
+    	  "title":"Meta learning for defaults: symbolic defaults.",
+    	  "reference":"Meta-learning Workshop @ NeurIPS 2018."},
     	{ "authors":"van Rijn, J. N., Pfisterer, F., Thomas, J., Mueller, A., Bischl, B., Vanschoren, J.",
-    	  "url":"",
+    	  "url":"http://metalearning.ml/2018/papers/metalearn2018_paper70.pdf",
     	  "title":"Meta learning for defaults: symbolic defaults.",
     	  "reference":"Meta-learning Workshop @ NeurIPS 2018."},
     	{ "authors":"Zhu, Y., Aoun, M., Krijn, M., Vanschoren, J.",
