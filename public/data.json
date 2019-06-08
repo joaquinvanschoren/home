@@ -544,6 +544,10 @@
     	  "reference":"Machine Learning, 87(2), 127-158, 2012"}
       ],
       "conference papers": [
+    	{ "authors":"Grootendorst, M., Vanschoren, J.",
+    	  "url":"",
+    	  "title":"Beyond Bag-of-Concepts: Vectors of Locally Aggregated Concepts",
+    	  "reference":"Proceedings of ECMLPKDD 2019"},
     	{ "authors":"van Rijn, J.N., Holmes, G., Pfahringer, B., Vanschoren, J.",
     	  "url":"https://www.researchgate.net/publication/289252355",
     	  "title":"Having a Blast: Meta-Learning and Heterogeneous Ensembles for Data Streams",
@@ -626,10 +630,6 @@
     	  "url":"https://openml.github.io/automlbenchmark",
     	  "title":"An Open Source AutoML Benchmark",
     	  "reference":"Automated Machine Learning workshop @ ICML 2019."},
-      { "authors":"van Rijn, J. N., Pfisterer, F., Thomas, J., Mueller, A., Bischl, B., Vanschoren, J.",
-    	  "url":"http://metalearning.ml/2018/papers/metalearn2018_paper70.pdf",
-    	  "title":"Meta learning for defaults: symbolic defaults.",
-    	  "reference":"Meta-learning Workshop @ NeurIPS 2018."},
     	{ "authors":"van Rijn, J. N., Pfisterer, F., Thomas, J., Mueller, A., Bischl, B., Vanschoren, J.",
     	  "url":"http://metalearning.ml/2018/papers/metalearn2018_paper70.pdf",
     	  "title":"Meta learning for defaults: symbolic defaults.",
