@@ -85,6 +85,12 @@
     ],
     "invited":[
       {
+        "title":"Speaker at the UN Global Summit on AI for Good",
+        "link":"https://aiforgood.itu.int/",
+        "time":"May 2019",
+        "description":"On how OpenML can be used to democratize machine learning and enable new large-scale collaborations to do good in this world. Special thanks to Trent and Masha McConaghy!"
+      },
+      {
         "title":"NeurIPS 2018 Open-source Machine Learning Workshop",
         "link":"https://2018.mloss.org/%22",
         "time":"December 2018",
@@ -272,6 +278,12 @@
         "picture":"sahithya.jpeg"
       },
       {
+        "name":"Prabhant Singh",
+        "role":"Research Software Engineer",
+        "topic":"OpenML Core Development",
+        "picture":"prabhant.jpg"
+      },
+      {
         "name":"Chao Zhang",
         "role":"PhD student",
         "topic":"e-Coaching and habit formation (co-supervisor)",
@@ -410,18 +422,8 @@
           "picture":"faceholder.png"
         },
         {
-          "name":"Research Software Engineer",
-          "topic":"OpenML.org core development","year":"data analytics",
-          "picture":"faceholder.png"
-        },
-        {
-          "name":"PhD",
-          "topic":"Fast deep learning by slow meta-learning",
-          "picture":"faceholder.png"
-        },
-        {
           "name":"PhD-TA",
-          "topic":"Topic to be determined",
+          "topic":"PhD + Teaching assistant. Topic to be determined.",
           "picture":"faceholder.png"
         }
       ],
@@ -429,20 +431,8 @@
         "industry": [
           {
             "type":"MSc thesis",
-            "title":"Deep reinforcement learning for bin packing (Vanderlande)",
-            "description":"Bin packing is a challenging optimization problem that thus far has not yet been addressed by reinforcement learning. You need to set up a simulation environment in OpenAI Gym and develop new reinforcement learning algorithms to solve it.",
-            "url":"https://careers.vanderlande.com/vacancy/graduation-developing-a-reinforcement-learning-solution-for-a-bin-packing-problem-1016062"
-          },
-          {
-            "type":"MSc thesis",
             "title":"Machine learning for vertical farming (Philips)",
             "description":"In vertical farming, plants are grown under ideal controlled conditions. Machine learning is needed to track plant growth and define the optimal conditions. Possible techniques are reinforment learning, deep meta-learning, or recurrent neural nets.",
-            "url":""
-          },
-          {
-            "type":"Internship / MSc thesis",
-            "title":"Embedded deep learning (Philips)",
-            "description":"Deep learning models are often hard to embed into low-power devices because they consume too much memory of compute. Techniques such as low precision neural networks or sparse neural networks can be used to address this. Your challenge is to use these in specific applications.",
             "url":""
           }
         ],
@@ -488,13 +478,23 @@
             "title":"Frugal learning",
             "description":"Imagine that you want to develop a smartwatch app that does machine learning for a privacy-sensitive application (e.g. health tracking). It is often impossible to collect large amounts of data, nor are there large related datasets, e.g. because of privacy concerns. This severely limits your options about which algorithms to use. Your goal is to develop intelligent metrics and methods for building models under these conditions. You can also test them in smart watches.",
             "url":"#"
+          },
+          {
+            "type":"MSc thesis",
+            "title":"Web of training data",
+            "description":"Automatically discover datasets online that are useful to machine learning. You can mine arXiv papers, Google Dataset Search, dataset repositories,... for datasets that we can use to build machine learning systems. Currently, such data is scattered, unorganized, and often impossible to find and use. Ideally, we can build a system to automatically find these, show where they are used, and make them easy to find and use (e.g. on OpenML).",
+            "url":"#"
           }
         ]
       }
   },
   "publications":{
     	"journal papers": [
-      { "authors":"Gijsbers, P. Vanschoren, J.",
+      { "authors":"Mantovani, R.G., Rossi, A.L.D., Alcobaca, E., Vanschoren, J., Carvalho, A.C.P.L.F.",
+    	  "url":"https://www.sciencedirect.com/science/article/pii/S002002551930533X?via%3Dihub",
+    	  "title":"A meta-learning recommender system for hyperparameter tuning: predicting when tuning improves SVM classifiers.",
+    	  "reference":"Information Sciences, Available online (in press), 2019"},
+    	{ "authors":"Gijsbers, P. Vanschoren, J.",
     	  "url":"http://joss.theoj.org/papers/10.21105/joss.01132",
     	  "title":"GAMA: Genetic Automated Machine learning Assistant.",
     	  "reference":"Journal of Open Source Software, 4 (33), 1-2, 2019"},
@@ -540,6 +540,10 @@
     	  "reference":"Machine Learning, 87(2), 127-158, 2012"}
       ],
       "conference papers": [
+    	{ "authors":"Grootendorst, M., Vanschoren, J.",
+    	  "url":"",
+    	  "title":"Beyond Bag-of-Concepts: Vectors of Locally Aggregated Concepts",
+    	  "reference":"Proceedings of ECMLPKDD 2019"},
     	{ "authors":"van Rijn, J.N., Holmes, G., Pfahringer, B., Vanschoren, J.",
     	  "url":"https://www.researchgate.net/publication/289252355",
     	  "title":"Having a Blast: Meta-Learning and Heterogeneous Ensembles for Data Streams",
@@ -618,8 +622,12 @@
     	  "reference":"Proceedings of ECMLPKDD 2007, Lecture Notes in Computer Science 4702, 6-17"}
     	],
     	"workshop papers": [
+      { "authors":"Gijsbers, P., Ledell, E., Thomas, J., Poirier, S., Bischl, B., Vanschoren, J.",
+    	  "url":"https://openml.github.io/automlbenchmark",
+    	  "title":"An Open Source AutoML Benchmark",
+    	  "reference":"Automated Machine Learning workshop @ ICML 2019."},
     	{ "authors":"van Rijn, J. N., Pfisterer, F., Thomas, J., Mueller, A., Bischl, B., Vanschoren, J.",
-    	  "url":"",
+    	  "url":"http://metalearning.ml/2018/papers/metalearn2018_paper70.pdf",
     	  "title":"Meta learning for defaults: symbolic defaults.",
     	  "reference":"Meta-learning Workshop @ NeurIPS 2018."},
     	{ "authors":"Zhu, Y., Aoun, M., Krijn, M., Vanschoren, J.",
