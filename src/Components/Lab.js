@@ -40,7 +40,7 @@ class Lab extends Component {
               <img className="profile-pic" src={openImage} alt="Profile Pic" />
           </div>
           <h5>{open.name}</h5>
-          <p>{open.topic}</p>
+          <p>{open.topic} {open.url && <a href={open.url}>Apply now.</a>}</p>
         </div>
       });
       var former = this.props.data.former.map(function(former){
@@ -120,7 +120,7 @@ class Lab extends Component {
                <div className="columns main-col">
                   <h2 id="topics">MSc research topics</h2>
                   <p>Below is a selection of <b>ideas for MSc thesis topics (or Capita Selecta projects)</b>. I also welcome your own ideas along these lines. Note that, in principle, <b>I tend to only accept students that received 80% or higher</b> on a machine-learning related course or the data mining seminar. Due to time constraints, I typically <b>do not supervise industry internships</b>.</p>
-               
+
                   <h5>Scientific topics</h5>
                   <a onClick={this.showScienceTopics} className={this.state.showScience ? 'hide' : 'show'}> <i className='fa fa fa-angle-double-right'></i> See descriptions</a>
                   <ul className="topic-list">
