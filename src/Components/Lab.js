@@ -40,7 +40,7 @@ class Lab extends Component {
               <img className="profile-pic" src={openImage} alt="Profile Pic" />
           </div>
           <h5>{open.name}</h5>
-          <p>{open.topic} {open.url && <a href={open.url}>Apply now.</a>}</p>
+          <p>{open.topic} {open.url !== 'undefined' && <a href={open.url}>Apply now.</a>}</p>
         </div>
       });
       var former = this.props.data.former.map(function(former){
