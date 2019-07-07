@@ -278,6 +278,12 @@
         "picture":"sahithya.jpeg"
       },
       {
+        "name":"Prabhant Singh",
+        "role":"Research Software Engineer",
+        "topic":"OpenML Core Development",
+        "picture":"prabhant.jpg"
+      },
+      {
         "name":"Chao Zhang",
         "role":"PhD student",
         "topic":"e-Coaching and habit formation (co-supervisor)",
@@ -416,18 +422,8 @@
           "picture":"faceholder.png"
         },
         {
-          "name":"Research Software Engineer",
-          "topic":"OpenML.org core development","year":"data analytics",
-          "picture":"faceholder.png"
-        },
-        {
-          "name":"PhD",
-          "topic":"Fast deep learning by slow meta-learning",
-          "picture":"faceholder.png"
-        },
-        {
           "name":"PhD-TA",
-          "topic":"Topic to be determined",
+          "topic":"PhD + Teaching assistant. Topic to be determined.",
           "picture":"faceholder.png"
         }
       ],
@@ -626,7 +622,7 @@
     	  "reference":"Proceedings of ECMLPKDD 2007, Lecture Notes in Computer Science 4702, 6-17"}
     	],
     	"workshop papers": [
-      { "authors":"Ledell, E., Gijsbers, P., Vanschoren, J., Thomas, J., Bischl, B., Poirier, S.",
+      { "authors":"Gijsbers, P., Ledell, E., Thomas, J., Poirier, S., Bischl, B., Vanschoren, J.",
     	  "url":"https://openml.github.io/automlbenchmark",
     	  "title":"An Open Source AutoML Benchmark",
     	  "reference":"Automated Machine Learning workshop @ ICML 2019."},
