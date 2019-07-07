@@ -418,8 +418,9 @@
       "open":[
         {
           "name":"PostDoc",
-          "topic":"The AutoML Gym: an online environment for training AutoML systems. <a href='https://jobs.tue.nl/en/vacancy/postdoctoral-fellow-on-automatic-machine-learning-661204.html'>Apply now.</a>",
-          "picture":"faceholder.png"
+          "topic":"The AutoML Gym: an online environment for training AutoML systems.",
+          "picture":"faceholder.png",
+          "url":"https://jobs.tue.nl/en/vacancy/postdoctoral-fellow-on-automatic-machine-learning-661204.html"
         },
         {
           "name":"PhD-TA",
