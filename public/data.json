@@ -186,6 +186,20 @@
   "talks": [
       {
         "type":"slideshare",
+        "title":"Automatic Machine Learning",
+        "description":"A 3-lecture course on Automatic Machine Learning (ACDL 2019 Advanced Summer Course)",
+        "image":"AutoML-ACDL.jpg",
+        "url":"//www.slideshare.net/slideshow/embed_code/key/scn95cTegOUriT"
+      },
+      {
+        "type":"slideshare",
+        "title":"OpenML",
+        "description":"Introduction to OpenML (UN Global Summit on AI for Good 2019)",
+        "image":"OpenML4Good.jpeg",
+        "url":"//www.slideshare.net/slideshow/embed_code/key/kcl5WUGD4QEOcT"
+      },
+      {
+        "type":"slideshare",
         "title":"Learning how to learn",
         "description":"On the state of the art and future of meta-learning (Berlin ML Meetup 2019)",
         "image":"Meta-learning.jpeg",
