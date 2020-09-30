@@ -432,14 +432,15 @@
       "open":[
         {
           "name":"PostDoc",
-          "topic":"The AutoML Gym: an online environment for training AutoML systems.",
+          "topic":"Automatic Machine Learning",
           "picture":"faceholder.png",
-          "url":"https://jobs.tue.nl/en/vacancy/postdoctoral-fellow-on-automatic-machine-learning-661204.html"
+          "url":"https://jobs.tue.nl/nl/vacature/postdoctoral-fellow-on-automatic-machine-learning-861567.html"
         },
         {
-          "name":"PhD-TA",
-          "topic":"PhD + Teaching assistant. Topic to be determined.",
-          "picture":"faceholder.png"
+          "name":"PhD",
+          "topic":"PhD position on Deep learning for plant growth.",
+          "picture":"faceholder.png",
+          "url":"https://jobs.tue.nl/nl/vacature/phd-position-on-deep-learning-for-plant-growth-861555.html"
         }
       ],
       "topics": {
