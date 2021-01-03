@@ -29,6 +29,24 @@
   "news":{
     "news":[
       {
+        "title":"Tutorial Speaker @ AAAI 2021",
+        "link":"https://aaai.org/Conferences/AAAI-21/aaai21tutorials/",
+        "time":"February 2021",
+        "description":"Me and Iddo Drori will give a tutorial on meta-learning at AAAI 2021. Join us (virtually)!"
+      },
+      {
+        "title":"Meta-learning workshop @ NeurIPS 2020",
+        "link":"https://meta-learn.github.io/2020/",
+        "time":"December 2020",
+        "description":"We are organizing the NeurIPS meta-learning workshop for the 4th year in a row. Together with Jeff Clune (OpenAI), Erin Grant (Berkeley), and Jonathan Schwarz, Francesco Visin, and Jane Wang (DeepMind). Join us or check the talks and paper online."
+      },
+      {
+        "title":"2 new PhD and 1 PostDoc openings in my research group",
+        "link":"https://jobs.tue.nl/en/vacancies.html",
+        "time":"October 2020",
+        "description":"We'll be working on exciting new projects that include deep learning, meta-learning, and AutoML."
+      },
+      {
         "title":"Amazon Research Award",
         "link":"https://ara.amazon-ml.com/recipients/#2018",
         "time":"January 2019",
