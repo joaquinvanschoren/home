@@ -35,6 +35,12 @@
         "description":"Me and Iddo Drori will give a tutorial on meta-learning at AAAI 2021. Join us (virtually)!"
       },
       {
+        "title":"Florence Nightingale Colloquium",
+        "link":"https://www.universiteitleiden.nl/en/events/series/florence-nightingale-colloquium",
+        "time":"January 2021",
+        "description":"I will be speaking about how we could learn to automatically design learning algorithms based on prior experience."
+      },
+      {
         "title":"Meta-learning workshop @ NeurIPS 2020",
         "link":"https://meta-learn.github.io/2020/",
         "time":"December 2020",
@@ -45,6 +51,24 @@
         "link":"https://jobs.tue.nl/en/vacancies.html",
         "time":"October 2020",
         "description":"We'll be working on exciting new projects that include deep learning, meta-learning, and AutoML."
+      },
+      {
+        "title":"JMLR editorial board",
+        "link":"https://jmlr.org/editorial-board.html,
+        "time":"September 2020",
+        "description":"I'm happy to have joined the JMLR editorial board as action editor."
+      }, 
+      {
+        "title":"UCI Symposium on Reproducibility in Machine Learning",
+        "link":"https://www.youtube.com/watch?v=SuoxTFD-RBM,
+        "time":"September 2020",
+        "description":"Join us to discuss the state-of-the-art and open challenges in reprodicible ML, or watch the video :)."
+      },
+      {
+        "title":"Two NeurIPS workshop talks",
+        "link":"https://nehzux.github.io/NewInML2019/",
+        "time":"December 2019",
+        "description":"We'll present new work on meta-reinforcement learning for Neural Architecture Search and meta-learning for Bayesian Optimization. Looking forward to seeing you there!"
       },
       {
         "title":"Amazon Research Award",
