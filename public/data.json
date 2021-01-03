@@ -65,10 +65,10 @@
         "description":"Join us to discuss the state-of-the-art and open challenges in reprodicible ML, or watch the video :)."
       },
       {
-        "title":"Two NeurIPS workshop talks",
+        "title":"Two NeurIPS workshop talks on meta-learning",
         "link":"https://nehzux.github.io/NewInML2019/",
         "time":"December 2019",
-        "description":"We'll present new work on meta-reinforcement learning for Neural Architecture Search and meta-learning for Bayesian Optimization. Looking forward to seeing you there!"
+        "description":"We'll present new work on meta-reinforcement learning for Neural Architecture Search (with Jorge Robles) and meta-learning for Bayesian Optimization (with Georgiana Manolache). Looking forward to seeing you there!"
       },
       {
         "title":"Amazon Research Award",
@@ -226,6 +226,13 @@
     ]
   },
   "talks": [
+      {
+        "type":"video",
+        "title":"Reproducible Machine Learning with OpenML",
+        "description":"Talk and panel discussion at the UCI Symposium for Reproducibility in Machine Learning.",
+        "image":"#",
+        "url":"https://www.youtube.com/watch?v=SuoxTFD-RBM"
+      },
       {
         "type":"slideshare",
         "title":"Automatic Machine Learning",
