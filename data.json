@@ -29,6 +29,48 @@
   "news":{
     "news":[
       {
+        "title":"Tutorial Speaker @ AAAI 2021",
+        "link":"https://aaai.org/Conferences/AAAI-21/aaai21tutorials/",
+        "time":"February 2021",
+        "description":"Me and Iddo Drori will give a tutorial on meta-learning at AAAI 2021. Join us (virtually)!"
+      },
+      {
+        "title":"Florence Nightingale Colloquium",
+        "link":"https://www.universiteitleiden.nl/en/events/series/florence-nightingale-colloquium",
+        "time":"January 2021",
+        "description":"I will be speaking about how we could learn to automatically design learning algorithms based on prior experience."
+      },
+      {
+        "title":"Meta-learning workshop @ NeurIPS 2020",
+        "link":"https://meta-learn.github.io/2020/",
+        "time":"December 2020",
+        "description":"We are organizing the NeurIPS meta-learning workshop for the 4th year in a row. Together with Jeff Clune (OpenAI), Erin Grant (Berkeley), and Jonathan Schwarz, Francesco Visin, and Jane Wang (DeepMind). Join us or check the talks and paper online."
+      },
+      {
+        "title":"2 new PhD and 1 PostDoc openings in my research group",
+        "link":"https://jobs.tue.nl/en/vacancies.html",
+        "time":"October 2020",
+        "description":"We'll be working on exciting new projects that include deep learning, meta-learning, and AutoML."
+      },
+      {
+        "title":"JMLR editorial board",
+        "link":"https://jmlr.org/editorial-board.html",
+        "time":"September 2020",
+        "description":"I'm happy to have joined the JMLR editorial board as action editor."
+      }, 
+      {
+        "title":"UCI Symposium on Reproducibility in Machine Learning",
+        "link":"https://www.youtube.com/watch?v=SuoxTFD-RBM",
+        "time":"September 2020",
+        "description":"Join us to discuss the state-of-the-art and open challenges in reprodicible ML, or watch the video :)."
+      },
+      {
+        "title":"Two NeurIPS workshop talks on meta-learning",
+        "link":"https://nehzux.github.io/NewInML2019/",
+        "time":"December 2019",
+        "description":"We'll present new work on meta-reinforcement learning for Neural Architecture Search (with Jorge Robles) and meta-learning for Bayesian Optimization (with Georgiana Manolache). Looking forward to seeing you there!"
+      },
+      {
         "title":"Amazon Research Award",
         "link":"https://ara.amazon-ml.com/recipients/#2018",
         "time":"January 2019",
@@ -184,6 +226,13 @@
     ]
   },
   "talks": [
+      {
+        "type":"video",
+        "title":"Reproducible Machine Learning",
+        "description":"Talk @ UCI Symposium for Reproducibility in Machine Learning, 2020.",
+        "image":"#",
+        "url":"https://www.youtube.com/embed/SuoxTFD-RBM"
+      },
       {
         "type":"slideshare",
         "title":"Automatic Machine Learning",
@@ -432,14 +481,15 @@
       "open":[
         {
           "name":"PostDoc",
-          "topic":"The AutoML Gym: an online environment for training AutoML systems.",
+          "topic":"Automatic Machine Learning in the wild and Ever-learning AutoML.",
           "picture":"faceholder.png",
-          "url":"https://jobs.tue.nl/en/vacancy/postdoctoral-fellow-on-automatic-machine-learning-661204.html"
+          "url":"https://jobs.tue.nl/nl/vacature/postdoctoral-fellow-on-automatic-machine-learning-861567.html"
         },
         {
-          "name":"PhD-TA",
-          "topic":"PhD + Teaching assistant. Topic to be determined.",
-          "picture":"faceholder.png"
+          "name":"PhD",
+          "topic":"PhD position on Deep learning for plant growth.",
+          "picture":"faceholder.png",
+          "url":"https://jobs.tue.nl/nl/vacature/phd-position-on-deep-learning-for-plant-growth-861555.html"
         }
       ],
       "topics": {
