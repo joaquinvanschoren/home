@@ -29,13 +29,13 @@
   "news": {
     "news": [
       {
-        "title": "Tutorial Speaker @ AAAI 2021",
+        "title": "Meta-learning Tutorial @ AAAI 2021",
         "link": "https://aaai.org/Conferences/AAAI-21/aaai21tutorials/",
         "time": "February 2021",
         "description": "Me and Iddo Drori (MIT) will give a half-day tutorial on meta-learning at AAAI 2021. Join us (virtually)!"
       },
       {
-        "title": "Meta-learning workshop @ NeurIPS 2020",
+        "title": "Meta-learning Workshop @ NeurIPS 2020",
         "link": "https://meta-learn.github.io/2020/",
         "time": "December 2020",
         "description": "We are organizing the NeurIPS meta-learning workshop for the 4th year in a row. Together with Jeff Clune (OpenAI), Erin Grant (Berkeley), and Jonathan Schwarz, Francesco Visin, and Jane Wang (DeepMind). Join us or check the talks and paper online."
@@ -124,7 +124,7 @@
         "title": "Florence Nightingale Colloquium",
         "link": "https://www.universiteitleiden.nl/en/events/series/florence-nightingale-colloquium",
         "time": "January 2021",
-        "description": "I will be speaking about how we could learn to automatically design learning algorithms based on prior experience."
+        "description": "I will be speaking about how we could learn to automatically design learning algorithms based on prior experience. Thanks to Marcello Bonsangue and Jan van Rijn!"
       },
       {
         "title": "International FAIR Convergence Symposium",
@@ -255,7 +255,8 @@
       "title": "Reproducible Machine Learning",
       "description": "Talk @ UCI Symposium for Reproducibility in Machine Learning, 2020.",
       "image": "#",
-      "url": "https://www.youtube.com/embed/SuoxTFD-RBM"
+      "url": "https://www.youtube.com/embed/SuoxTFD-RBM",
+      "slides": "https://uci-ml-repo.github.io/assets/files/reprod_symp20/jvanschoren-slides.pdf"
     },
     {
       "type": "slideshare",

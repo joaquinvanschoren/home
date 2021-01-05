@@ -162,7 +162,7 @@ class Lab extends Component {
               <div className="columns main-col">
                 <h2>Master students</h2>
                 <p>
-                  The full texts of the theses (from 2014 or later) are usually
+                  The full texts of the theses (2014 and later) are usually
                   available in the{" "}
                   <a
                     target="_blank"
