@@ -231,21 +231,6 @@ class Lab extends Component {
                 <ul className="topic-list">{topics_industry}</ul>
               </div>
             </div>
-
-            <div className="row">
-              <div className="columns main-col">
-                <h2>Teaching</h2>
-                <p>
-                  I teach several master-level courses on machine learning. Most
-                  of my materials are{" "}
-                  <a href="https://joaquinvanschoren.github.io/ML-course/">
-                    publicly available on Canvas
-                  </a>
-                  . Other materials are available to students on{" "}
-                  <a href="https://canvas.tue.nl/">Canvas</a>.
-                </p>
-              </div>
-            </div>
           </div>
         </div>
       </section>
