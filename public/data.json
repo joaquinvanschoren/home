@@ -371,6 +371,12 @@
         "picture": "prabhant.jpg"
       },
       {
+        "name": "Marcos De Paula Bueno",
+        "role": "Post-doctoral fellow",
+        "topic": "AutoML",
+        "picture": "marcos.jpg"
+      },
+      {
         "name": "Andrei Simion-Constantinescu",
         "role": "PhD student",
         "topic": "Deep learning and self-supervised learning for plant growth",
@@ -542,7 +548,8 @@
       {
         "name": "Yesi Zhu",
         "topic": "Deep Learning for Image-based Plant Growth Stage Detection",
-        "year": "2018"
+        "year": "2018",
+        "paper": "http://bmvc2018.org/contents/workshops/cvppp2018/0014.pdf"
       },
       {
         "name": "Tim Beishuizen",
@@ -632,11 +639,6 @@
       {
         "name": "Anton den Hoed",
         "topic": "MapReduce Algorithms for Time Series Data",
-        "year": "2012"
-      },
-      {
-        "name": "Mohammed Alaeikhanehshir",
-        "topic": "Data mining to improve customer service",
         "year": "2012"
       },
       {
