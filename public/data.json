@@ -679,14 +679,7 @@
       }
     ],
     "topics": {
-      "industry": [
-        {
-          "type": "MSc thesis",
-          "title": "Machine learning for vertical farming (Philips)",
-          "description": "In vertical farming, plants are grown under ideal controlled conditions. Machine learning is needed to track plant growth and define the optimal conditions. Possible techniques are reinforment learning, deep meta-learning, or recurrent neural nets.",
-          "url": ""
-        }
-      ],
+      "industry": [],
       "academic": [
         {
           "type": "MSc thesis",
@@ -696,14 +689,20 @@
         },
         {
           "type": "MSc thesis",
-          "title": "Meta-learning for automated data preprocessing",
-          "description": "Data preprocessing is a general term for all operations that have to be done before training a predictive model. Current techniques to automate this often focus on defining experimentally what's best for the given data. However, as humans we build an understanding of what generally works (or not) on certain types of data. Your challenge is to build meta-models or meta-learning systems that learn across tasks to more intelligently choose which preprocessing techniques to try on a given dataset.",
+          "title": "Task similarity and embeddings",
+          "description": "A hot topic in transfer learning and meta-learning is how to measure the similarity between two tasks, so that we can predict from which prior models, pipelines, or neural architectures we can transfer information from. Possible options are learning embeddings via probing networks, metric learning, leveraging geometric properties, etc. Cracking this problem will have significant impact, and radically improve transfer learning applications.",
           "url": "#"
         },
         {
           "type": "MSc thesis",
           "title": "Active Meta-learning",
-          "description": "In meta-learning, we build models about the behavior of learning algorithms, so that we can predict which algorithms (or neural architectures) to use for specific problems. It is often expensive to gather training data for these models (each data point requires fully training a new model). Your challenge is to use active learning to only experiment with those models that we can learn most from. This is a necessary step towards building efficient meta-learning systems.",
+          "description": "In meta-learning, we often aim to predict which algorithms (or neural architectures, or weights) to use for specific problems. It is often expensive to gather training data for these models (each data point requires fully training a new model). Active learning (or other clever techniques) could select the most interesting experiments. This can be done for deep learning, architecture search, pipeline generation,... depending on your preference.",
+          "url": "#"
+        },
+        {
+          "type": "MSc thesis",
+          "title": "Meta-reinforcement learning for AutoML",
+          "description": "Train a reinforcement learning agent to build neural nets, and train it on many task to get increasingly better at this.",
           "url": "#"
         },
         {
@@ -722,12 +721,6 @@
           "type": "MSc thesis",
           "title": "Defense against overfitting",
           "description": "There exist many approaches to avoid overfitting, such as early stopping, variance reduction, and reusable holdouts. They all have their benefits and drawbacks but there doesn't exists a lot of work on choosing between them. It is often an art rather than a science. Your challenge is to study this problem in depth and to recommend the best approaches for different scenarios.",
-          "url": "#"
-        },
-        {
-          "type": "MSc thesis",
-          "title": "Frugal learning",
-          "description": "Imagine that you want to develop a smartwatch app that does machine learning for a privacy-sensitive application (e.g. health tracking). It is often impossible to collect large amounts of data, nor are there large related datasets, e.g. because of privacy concerns. This severely limits your options about which algorithms to use. Your goal is to develop intelligent metrics and methods for building models under these conditions. You can also test them in smart watches.",
           "url": "#"
         },
         {

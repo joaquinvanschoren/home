@@ -170,6 +170,7 @@ class Lab extends Component {
                   >
                     TU/e archive
                   </a>
+                  . Works published elsewhere are linked below.
                 </p>
                 <ul className="student-list">{msc}</ul>
               </div>
@@ -193,8 +194,12 @@ class Lab extends Component {
                   <b>
                     ideas for MSc thesis topics (or Capita Selecta projects)
                   </b>
-                  . I also welcome your own ideas along these lines. Note that,
-                  in principle,{" "}
+                  . Also check{" "}
+                  <a href="https://docs.google.com/presentation/d/13kqPh0FHPOjiuQpxkUewqzQNpbGdv2KSJHgNJU9j4Mg/edit#slide=id.ga9bbe41e00_2_126">
+                    this presentation
+                  </a>{" "}
+                  for more ideas. I do welcome your own ideas along these lines.
+                  Note that, in principle,{" "}
                   <b>
                     I tend to only accept students that received 80% or higher
                   </b>{" "}
