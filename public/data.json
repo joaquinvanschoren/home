@@ -35,12 +35,6 @@
         "description": "Me and Iddo Drori (MIT) will give a half-day tutorial on meta-learning at AAAI 2021. Join us (virtually)!"
       },
       {
-        "title": "Florence Nightingale Colloquium",
-        "link": "https://www.universiteitleiden.nl/en/events/series/florence-nightingale-colloquium",
-        "time": "January 2021",
-        "description": "I will be speaking about how we could learn to automatically design learning algorithms based on prior experience."
-      },
-      {
         "title": "Meta-learning workshop @ NeurIPS 2020",
         "link": "https://meta-learn.github.io/2020/",
         "time": "December 2020",
@@ -127,10 +121,10 @@
     ],
     "invited": [
       {
-        "title": "Florence Nightingale Symposium",
-        "link": "https://www.universiteitleiden.nl/en/events/2021/01/florence-nightingale-colloquium-presents-joaquin-vanschoren",
+        "title": "Florence Nightingale Colloquium",
+        "link": "https://www.universiteitleiden.nl/en/events/series/florence-nightingale-colloquium",
         "time": "January 2021",
-        "description": "On how we can learn how to design machine learning models from experience with many prior tasks. Thanks to Marcello Bonsangue and Jan van Rijn!"
+        "description": "I will be speaking about how we could learn to automatically design learning algorithms based on prior experience."
       },
       {
         "title": "International FAIR Convergence Symposium",
@@ -355,7 +349,7 @@
       {
         "name": "Pieter Gijsbers",
         "role": "PhD student",
-        "topic": "A Genetic Automatic Machine learning Assistant (GAMA)",
+        "topic": "A General Automatic Machine learning Assistant (GAMA)",
         "picture": "pieter.jpeg"
       },
       {
@@ -377,19 +371,32 @@
         "picture": "prabhant.jpg"
       },
       {
-        "name": "Chao Zhang",
+        "name": "Andrei Simion-Constantinescu",
         "role": "PhD student",
-        "topic": "e-Coaching and habit formation (co-supervisor)",
-        "picture": "chao.jpeg"
+        "topic": "Deep learning and self-supervised learning for plant growth",
+        "picture": "andrei.jpg"
       },
       {
-        "name": "Yandre Lozano",
-        "role": "PDEng student",
-        "topic": "Predictive maintenance in dynamic environments",
-        "picture": "yandre.jpg"
+        "name": "Manu Agarwal",
+        "role": "PhD student",
+        "topic": "Deep learning for animal behavior recognition",
+        "picture": "manu.png"
+      }
+    ],
+    "open": [
+      {
+        "name": "PhD",
+        "topic": "PhD position on Local AI for personalized health modeling.",
+        "picture": "faceholder.png",
+        "url": "https://jobs.tue.nl/nl/vacature/phd-position-on-deep-learning-for-plant-growth-861555.html"
       }
     ],
     "former": [
+      {
+        "name": "Chao Zhang",
+        "topic": "e-Coaching and habit formation. Currently Researcher at Utrecht University",
+        "picture": "chao.jpeg"
+      },
       {
         "name": "Jan van Rijn",
         "topic": "Massively Collaborative Machine Learning. Currently Assistant Professor at the University of Leiden.",
@@ -401,6 +408,11 @@
         "picture": "Rafael.jpg"
       },
       {
+        "name": "Yandre Lozano",
+        "topic": "Predictive maintenance in dynamic environments.",
+        "picture": "yandre.jpg"
+      },
+      {
         "name": "Karthik Srinivasan",
         "topic": "Burglary prediction from multiple data sources",
         "picture": "karthik.png"
@@ -408,8 +420,108 @@
     ],
     "msc": [
       {
+        "name": "Luuk Schragen",
+        "topic": "Variational Task Encoders for Model-Agnostic Meta-Learning with Uncertainty over Task Distributions",
+        "year": "2021"
+      },
+      {
+        "name": "Matej Grobelnik",
+        "topic": "Warm-starting DARTS using transfer learning",
+        "year": "2021"
+      },
+      {
+        "name": "Sarah Coopmans",
+        "topic": "Towards Intelligent Semi-Automated Data Pre-Processing",
+        "year": "2020"
+      },
+      {
+        "name": "Abhishek Raju",
+        "topic": "Analyzing Policy Gradient approaches towards Rapid Policy Transfer",
+        "year": "2020"
+      },
+      {
+        "name": "Michael Heffels",
+        "topic": "Aerial Imagery Pixel Level Segmentation",
+        "year": "2020"
+      },
+      {
+        "name": "Natarajan Chidambaran",
+        "topic": "Decision Support System for Crop Growth Using Reinforcement Learning",
+        "year": "2020"
+      },
+      {
+        "name": "Francisco Losada de la Rosa",
+        "topic": "GO!GAN: Grasping Objects with Generative Adversarial Networks",
+        "year": "2020"
+      },
+      {
+        "name": "Jelle Oostveen",
+        "topic": "Warm-started hyperparameter tuning using TPE",
+        "year": "2020"
+      },
+      {
+        "name": "Fabrice Toussaint",
+        "topic": "Meta-Learning for the Automatic Recommendation of Machine Learning",
+        "year": "2020"
+      },
+      {
+        "name": "Jelmer Wilhelm",
+        "topic": "FashionDesc - Generating Shop-Level Descriptions of Fashion Articles based on Images",
+        "year": "2020"
+      },
+      {
+        "name": "Kevin Chang",
+        "topic": "Human segmentation and tracking with a single static top-view depth camera",
+        "year": "2020"
+      },
+      {
+        "name": "Rumjana Romanova",
+        "topic": "Localization Stability of Weakly Supervised Deep Neural Networks",
+        "year": "2020"
+      },
+      {
+        "name": "Sjoerd Brood",
+        "topic": "Saving energy by incorporating human dimensions in energy and comfort models",
+        "year": "2020"
+      },
+      {
+        "name": "Georgiana Manolache",
+        "topic": "Learning Across Tasks with Surrogate Model Ensembles for Algorithm and Hyperparameter Optimization Selection",
+        "year": "2019"
+      },
+      {
+        "name": "Jorge Gomez Robles",
+        "topic": "Learning to reinforcement learn for Neural Architecture Search",
+        "year": "2019"
+      },
+      {
+        "name": "Rishab Goyal",
+        "topic": "Fixed-point Quantization of Convolutional Neural Networks for Quantized Inference on Embedded Platforms",
+        "year": "2019"
+      },
+      {
+        "name": "Jose Luis Diaz Mendoza",
+        "topic": "Autoregressive Neural Networks to model Electroencephalography signals",
+        "year": "2019"
+      },
+      {
+        "name": "Bensu Ucar",
+        "topic": "Synthetic Image Generation with Anomalies by Learning from Few Data Points",
+        "year": "2019"
+      },
+      {
+        "name": "Carlos Lopez Gomez",
+        "topic": "Deep Active Learning for Instance Segmentation",
+        "year": "2019"
+      },
+      {
         "name": "Maurice Houben",
         "topic": "Warm-starting differentiable architecture search",
+        "year": "2019"
+      },
+      {
+        "name": "Maarten Grootendorst",
+        "topic": "Beyond Bag-of-Concepts: Vectors of Locally Aggregated Concepts",
         "year": "2019"
       },
       {
@@ -556,20 +668,6 @@
         "name": "Anton Dries",
         "topic": "DM_square: Analysis of Data Mining Results Through Data Mining",
         "year": "2006"
-      }
-    ],
-    "open": [
-      {
-        "name": "PostDoc",
-        "topic": "Automatic Machine Learning in the wild and Ever-learning AutoML.",
-        "picture": "faceholder.png",
-        "url": "https://jobs.tue.nl/nl/vacature/postdoctoral-fellow-on-automatic-machine-learning-861567.html"
-      },
-      {
-        "name": "PhD",
-        "topic": "PhD position on Deep learning for plant growth.",
-        "picture": "faceholder.png",
-        "url": "https://jobs.tue.nl/nl/vacature/phd-position-on-deep-learning-for-plant-growth-861555.html"
       }
     ],
     "topics": {
