@@ -399,27 +399,27 @@
     ],
     "former": [
       {
-        "name": "Chao Zhang",
+        "name": "Chao Zhang, PhD",
         "topic": "e-Coaching and habit formation. Currently Researcher at Utrecht University",
         "picture": "chao.jpeg"
       },
       {
-        "name": "Jan van Rijn",
+        "name": "Jan van Rijn, PhD",
         "topic": "Massively Collaborative Machine Learning. Currently Assistant Professor at the University of Leiden.",
         "picture": "jan.png"
       },
       {
-        "name": "Rafael Mantovani",
+        "name": "Rafael Mantovani, PhD",
         "topic": "Meta-learning for hyperparameter optimization. Currently Assistant Professor at University of Londrina",
         "picture": "Rafael.jpg"
       },
       {
-        "name": "Yandre Lozano",
+        "name": "Yandre Lozano, PDEng",
         "topic": "Predictive maintenance in dynamic environments.",
         "picture": "yandre.jpg"
       },
       {
-        "name": "Karthik Srinivasan",
+        "name": "Karthik Srinivasan, PDEng",
         "topic": "Burglary prediction from multiple data sources",
         "picture": "karthik.png"
       }
