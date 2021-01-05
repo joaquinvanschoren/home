@@ -5,6 +5,9 @@ class Software extends Component {
     return (
       <section id="software">
         <div className="row">
+          <div className="twelve columns">
+            <h1>Software</h1>
+          </div>
           <div className="three columns">
             <img
               className="profile-pic"
