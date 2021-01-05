@@ -345,6 +345,25 @@
       "source": "https://www.automl.org/book"
     }
   ],
+  "courses": [
+    {
+      "title": "Machine Learning Engineering",
+      "subtitle": "Master-level course, build on Jupyter Notebooks",
+      "description": "This course covers both the mathematics and engineering aspects of machine learning. With complete code and interactive examples in Jupyter notebooks. These materials are used in master courses 2AMM15 and JM0150 at TU/e.",
+      "image": "MLE.png",
+      "url": "https://ml-course.github.io/master/",
+      "video": "https://www.youtube.com/playlist?list=PLl4kuMJ32K2r2CUKkZSVVxDnjB4NM335-",
+      "source": "https://github.com/ML-course/master"
+    },
+    {
+      "title": "Automatic Machine Learning and meta-learning",
+      "subtitle": "PhD-level course",
+      "description": "PhD-level course on AutoML and meta-learning. Includes materials from the ACDL 2019 summer school.",
+      "image": "automl.png",
+      "url": "https://ml-course.github.io/automl/",
+      "source": "https://github.com/ML-course/automl"
+    }
+  ],
   "lab": {
     "people": [
       {
