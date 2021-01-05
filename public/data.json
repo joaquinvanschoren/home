@@ -525,12 +525,14 @@
       {
         "name": "Maarten Grootendorst",
         "topic": "Beyond Bag-of-Concepts: Vectors of Locally Aggregated Concepts",
-        "year": "2019"
+        "year": "2019",
+        "paper": "https://ecmlpkdd2019.org/downloads/paper/489.pdf"
       },
       {
         "name": "Jeroen van Hoof",
         "topic": "Automated machine learning with gradient boosting and meta-learning",
-        "year": "2018"
+        "year": "2018",
+        "paper": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2019%2FFINAL%20PAPERS%2FNO%2DLNCS%2FADS%5F2019%5Fpaper%5F33%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2019%2FFINAL%20PAPERS%2FNO%2DLNCS&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVFaQUtmMlNfdkpLc3dMTWc3U2pjdDBCVzJ3bFZYZVpPak5US1pOLWJidFA5QT9ydGltZT1SSUZBUlhxeDJFZw"
       },
       {
         "name": "Jiawen Wang",
