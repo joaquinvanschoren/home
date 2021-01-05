@@ -488,12 +488,14 @@
       {
         "name": "Georgiana Manolache",
         "topic": "Learning Across Tasks with Surrogate Model Ensembles for Algorithm and Hyperparameter Optimization Selection",
-        "year": "2019"
+        "year": "2019",
+        "paper": "http://metalearning.ml/2019/papers/metalearn2019-manolache.pdf"
       },
       {
         "name": "Jorge Gomez Robles",
         "topic": "Learning to reinforcement learn for Neural Architecture Search",
-        "year": "2019"
+        "year": "2019",
+        "paper": "https://arxiv.org/abs/1911.03769"
       },
       {
         "name": "Rishab Goyal",
