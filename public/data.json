@@ -442,7 +442,8 @@
       {
         "name": "Michael Heffels",
         "topic": "Aerial Imagery Pixel Level Segmentation",
-        "year": "2020"
+        "year": "2020",
+        "paper": "https://arxiv.org/abs/2012.02024"
       },
       {
         "name": "Natarajan Chidambaran",
