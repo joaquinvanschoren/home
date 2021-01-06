@@ -91,10 +91,9 @@ class Software extends Component {
             <h2>AutoML Benchmark</h2>
             <p>
               The AutoML benchmark is a joint initiative to evaluate
-              state-of-the-art AutoML systems. It is currently the de-facto
-              standard benchmark. It is an open, continuous and extensible
-              benchmark, being repeated regularly and open to include any open
-              source AutoML system.
+              state-of-the-art AutoML systems. It is an open, continuous and
+              extensible benchmark, being repeated regularly and open to include
+              any open source AutoML system.
             </p>
             <p>
               Check out results on the{" "}

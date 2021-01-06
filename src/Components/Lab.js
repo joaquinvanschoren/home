@@ -117,9 +117,9 @@ class Lab extends Component {
             <h1>Learning to Learn Lab @ TU/e</h1>
 
             <p>
-              I’m fortunate to work with amazing PhD and Master students. We are
-              working together to automate and better understand machine
-              learning, and use it in novel applications. We are part of the{" "}
+              I’m fortunate to work with an amazing team. We are working
+              together to automate and better understand machine learning, and
+              use it in novel applications. We are part of the{" "}
               <a href="https://www.tue.nl/en/research/research-groups/data-science/artificial-intelligence/data-mining/">
                 TU/e Artificial Intelligence Cluster
               </a>
