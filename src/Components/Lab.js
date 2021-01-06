@@ -162,15 +162,16 @@ class Lab extends Component {
               <div className="columns main-col">
                 <h2>Master students</h2>
                 <p>
-                  The full texts of the theses (2014 and later) are usually
-                  available in the{" "}
+                  It was a pleasure to have worked with these talented master
+                  students. The full texts of the theses (2014 and later) are
+                  usually available in the{" "}
                   <a
                     target="_blank"
                     href="https://research.tue.nl/nl/studentTheses"
                   >
                     TU/e archive
                   </a>
-                  . Works published elsewhere are linked below.
+                  . Works that were also published elsewhere are linked below.
                 </p>
                 <ul className="student-list">{msc}</ul>
               </div>
@@ -190,21 +191,15 @@ class Lab extends Component {
               <div className="columns main-col">
                 <h2 id="topics">MSc research topics</h2>
                 <p>
-                  Below is a selection of{" "}
-                  <b>
-                    ideas for MSc thesis topics (or Capita Selecta projects)
-                  </b>
-                  . Also check{" "}
+                  Below is a selection of ideas for MSc thesis topics, research
+                  internships, or Capita Selecta projects. Also check{" "}
                   <a href="https://docs.google.com/presentation/d/13kqPh0FHPOjiuQpxkUewqzQNpbGdv2KSJHgNJU9j4Mg/edit#slide=id.ga9bbe41e00_2_126">
                     this presentation
                   </a>{" "}
                   for more ideas. I do welcome your own ideas along these lines.
-                  Note that, in principle,{" "}
-                  <b>
-                    I tend to only accept students that received 80% or higher
-                  </b>{" "}
-                  on a machine-learning related course or the data mining
-                  seminar. Due to time constraints, I typically{" "}
+                  Note that, in principle, I tend to only accept students that
+                  received <b>80% or higher</b> on a machine-learning related
+                  course or seminar. Due to time constraints, I typically{" "}
                   <b>do not supervise industry internships</b>.
                 </p>
 
