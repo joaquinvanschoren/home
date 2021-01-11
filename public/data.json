@@ -981,7 +981,7 @@
       },
       {
         "authors": "van Hoof, J., Vanschoren, J.",
-        "url": "https://arxiv.org/abs/1911.03769",
+        "url": "https://arxiv.org/pdf/2101.02289.pdf",
         "title": "HyperBoost: Hyperparameter Optimization by Gradient Boosting surrogate models.",
         "reference": "Workshop on Automating Data Science @ ECMLPKDD 2019."
       },
