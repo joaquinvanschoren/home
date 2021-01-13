@@ -1294,6 +1294,24 @@
     ],
     "preprints": [
       {
+        "authors": "Balázs, C., van Beekveld, M., Caron, S., Dillon, B.M., Farmer, B., Fowlie, A., Handley, W., Hendriks, L., Jóhannesson, G., Leinweber, A., Mamužić, J., Martinez, G.D., Scott, P., Garrido-Merchán, E.C., Ruiz de Austri, R., Searle, Z., Stienen, B., Vanschoren, J., White, M.",
+        "url": "https://arxiv.org/abs/2101.04525",
+        "title": "A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications",
+        "reference": "arXiv:2101.04525, 2021"
+      },
+      {
+        "authors": "van Hoof,  J.,  Vanschoren,  J.",
+        "url": "https://arxiv.org/abs/2101.02289",
+        "title": "Hyperboost: Hyperparameter Optimization by Gradient Boosting surrogate models",
+        "reference": "arXiv2:101.02289, 2021"
+      },
+      {
+        "authors": "Zhang, C., Vanschoren, J., van Wissen, A., Lakens, D., de Ruyter, B., IJsselsteijn, W.A.",
+        "url": "https://arxiv.org/abs/2101.01637",
+        "title": "Theory-based Habit Modeling for Enhancing Behavior Prediction",
+        "reference": "arXiv:2101.01637, 2021"
+      },
+      {
         "authors": "Celik,  B.,  Vanschoren,  J.",
         "url": "https://arxiv.org/pdf/2006.06480.pdf",
         "title": "Adaptation  Strategies  for  Automated  Machine  Learning  on  Evolving Data",
