@@ -73,7 +73,8 @@ class About extends Component {
                     <b>- MSc Students</b>: Check{" "}
                     <a href="#topics">MSc research topics</a>. Use Canvas for
                     course-related questions. I typically do not supervise
-                    industry internships.
+                    industry internships, please contact Stiven (s.schwanz.dias{" "}
+                    <i className="fas fa-at"></i> tue.nl) to help find a supervisor.
                   </span>
                   <br />
                   <span>
