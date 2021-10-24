@@ -29,6 +29,42 @@
   "news": {
     "news": [
       {
+        "title": "NeurIPS paper on OpenML-based benchmarking suites",
+        "link": "https://openreview.net/forum?id=OCrD8ycKjG",
+        "time": "December 2021",
+        "description": "Our work on OpenML-based benchmarking suites was accepted to the NeurIPS 2021 Datasets and Benchmarks Track! It was a lot of work, together with Bernd Bischl, Giuseppe Casalicchio, Matthias Feurer, Pieter Gijsbers, Frank Hutter, Michel Lang, Rafael Mantovani, and Jan van Rijn."
+      },
+      {
+        "title": "Two NeurIPS workshop talks on meta-learning",
+        "link": "https://meta-learn.github.io/2021/",
+        "time": "December 2021",
+        "description": "We'll present new work on Open-ended meta-reinforcement learning (with Fangqin Zhou) and Bayesian meta-learning (with Luuk Schagen). Looking forward to seeing you there!"
+      },
+      {
+        "title": "PNAS paper on learning how to learn from many related scientific problems",
+        "link": "https://www.pnas.org/",
+        "time": "November 2021",
+        "description": "More information soon :). Together with Ross D. King (Cambridge), Larisa N. Soldatova (Goldsmiths), Ivan Olier (Liverpool), Oghenejokpeme I Orhobor (Cambridge), Andy Davis (AstraZeneca) and Tirtharaj Dash (BITS)."
+      },
+      {
+        "title": "Data-Centric AI event with Andrew Ng",
+        "link": "https://www.youtube.com/watch?v=Yqj7Kyjznh4",
+        "time": "August 2021",
+        "description": "Very fortunate to participate in this event on Data-Centric AI together with Andrew Ng, Alex Ratner, and other excellent speakers. I'll talk about how OpenML and AutoML can help with data-centric AI."
+      },
+      {
+        "title": "Meta-learning and Data-Centric AI Workshops @ NeurIPS 2021",
+        "link": "https://datacentricai.org/",
+        "time": "August 2021",
+        "description": "I'm co-organizing the 5th workshop on meta-learning as well as the first ever workshop on Data-Centric AI at NeurIPS. Together with Erin Grant (Berkeley), Jonathan Schwarz, Francesco Visin, and Jane Wang (DeepMind), Frank Hutter (U Freiburg), Andrew Ng and Greg Diamos (Landing AI), Lora Aroyo (Google), Cody Coleman and Sharon Zhou (Stanford), Carole-Jean Wu (Facebook), and Vijay Janapa Reddi (Harvard)."
+      },
+      {
+        "title": "NeurIPS 2021 Datasets and Benchmarks Track",
+        "link": "https://blog.neurips.cc/2021/04/07/announcing-the-neurips-2021-datasets-and-benchmarks-track/",
+        "time": "April 2021",
+        "description": "Serena Yeung (Stanford) and me will chair the first ever NeurIPS track on Datasets and Benchmarks. Thanks to the NeurIPS board, the general chair Marc'Aurelio Ranzato, and the advisory committee (Neil Lawrence, Isabelle Guyon, Olga Russakovsky, and Sergio Escalera) for all the support!"
+      },
+      {
         "title": "Meta-learning Tutorial @ AAAI 2021",
         "link": "https://aaai.org/Conferences/AAAI-21/aaai21tutorials/",
         "time": "February 2021",
@@ -120,6 +156,18 @@
       }
     ],
     "invited": [
+      {
+        "title": "OECD Workshop on AI and the productivity of science.",
+        "link": "https://www.oecd.org/sti/inno/ai-productivity-of-science.htm",
+        "time": "November 2021",
+        "description": "I'll speak about the role of AutoML in accellerating progress in science. Thanks to Alistan Nolan and Ross King!"
+      },
+      {
+        "title": "IDEAL 2021",
+        "link": "https://ideal-conf.com/ideal2021",
+        "time": "November 2021",
+        "description": "I will be speaking about OpenML and how it accellerates Automated (Machine) Learning. Thanks to Richard Allmendinger!"
+      },
       {
         "title": "Florence Nightingale Colloquium",
         "link": "https://www.universiteitleiden.nl/en/events/series/florence-nightingale-colloquium",
