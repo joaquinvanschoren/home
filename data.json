@@ -29,6 +29,42 @@
   "news": {
     "news": [
       {
+        "title": "NeurIPS paper on OpenML-based benchmarking suites",
+        "link": "https://openreview.net/forum?id=OCrD8ycKjG",
+        "time": "December 2021",
+        "description": "Our work on OpenML-based benchmarking suites was accepted to the NeurIPS 2021 Datasets and Benchmarks Track!"
+      },
+      {
+        "title": "Two NeurIPS workshop talks on meta-learning",
+        "link": "https://meta-learn.github.io/2021/",
+        "time": "December 2021",
+        "description": "We'll present new work on Open-ended meta-reinforcement learning (with Fangqin Zhou) and Bayesian meta-learning (with Luuk Schagen). Looking forward to seeing you there!"
+      },
+      {
+        "title": "PNAS: Learning how to learn from many related scientific problems",
+        "link": "https://www.pnas.org/",
+        "time": "November 2021",
+        "description": "New paper in PNAS, together with a great team led by Ross D. King (Cambridge). More information soon :)."
+      },
+      {
+        "title": "Data-Centric AI event with Andrew Ng",
+        "link": "https://www.youtube.com/watch?v=Yqj7Kyjznh4",
+        "time": "August 2021",
+        "description": "Very fortunate to participate in this event on Data-Centric AI together with Andrew Ng, Alex Ratner, and other excellent speakers. I'll talk about how OpenML and AutoML can help with data-centric AI."
+      },
+      {
+        "title": "Meta-learning and Data-Centric AI Workshops @ NeurIPS 2021",
+        "link": "https://datacentricai.org/",
+        "time": "August 2021", 
+        "description": "I'm co-organizing the 5th workshop on meta-learning as well as the first ever workshop on Data-Centric AI at NeurIPS. Together with Erin Grant, Jonathan Schwarz, Francesco Visin, Frank Hutter, Andrew Ng, Greg Diamos, Lora Aroyo, Cody Coleman, Sharon Zhou, Carole-Jean Wu, and Vijay Janapa Reddi."
+      },
+      {
+        "title": "NeurIPS 2021 Datasets and Benchmarks Track",
+        "link": "https://blog.neurips.cc/2021/04/07/announcing-the-neurips-2021-datasets-and-benchmarks-track/",
+        "time": "April 2021",
+        "description": "Serena Yeung (Stanford) and me will chair the first ever NeurIPS track on Datasets and Benchmarks. Thanks to the NeurIPS board, the general chair Marc'Aurelio Ranzato, and the advisory committee (Neil Lawrence, Isabelle Guyon, Olga Russakovsky, and Sergio Escalera) for all the support!"
+      },
+      {
         "title": "Meta-learning Tutorial @ AAAI 2021",
         "link": "https://aaai.org/Conferences/AAAI-21/aaai21tutorials/",
         "time": "February 2021",
@@ -120,6 +156,18 @@
       }
     ],
     "invited": [
+      {
+        "title": "OECD Workshop on AI and the productivity of science.",
+        "link": "https://www.oecd.org/sti/inno/ai-productivity-of-science.htm",
+        "time": "November 2021",
+        "description": "I'll speak about the role of AutoML in accellerating progress in science. Thanks to Alistan Nolan and Ross King!"
+      },
+      {
+        "title": "IDEAL 2021",
+        "link": "https://ideal-conf.com/ideal2021",
+        "time": "November 2021",
+        "description": "I will be speaking about OpenML and how it accellerates Automated (Machine) Learning. Thanks to Richard Allmendinger!"
+      },
       {
         "title": "Florence Nightingale Colloquium",
         "link": "https://www.universiteitleiden.nl/en/events/series/florence-nightingale-colloquium",
@@ -252,6 +300,28 @@
   "talks": [
     {
       "type": "video",
+      "title": "Data-centric AI",
+      "description": "Talk and panel discussion in a Data-centric AI event hosted by Andrew Ng, 2021.",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/Yqj7Kyjznh4"
+    },
+    {
+      "type": "slideshare",
+      "title": "Meta-Learning Tutorial",
+      "description": "A 2-lecture course on Meta-Learning (ACDL 2021 Advanced Course)",
+      "image": "AutoML-ACDL.jpg",
+      "url": "//www.slideshare.net/slideshow/embed_code/key/D0AnXKJVkG6eWN"
+    },
+    {
+      "type": "video",
+      "title": "Meta-Learning Tutorial",
+      "description": "Presented at AAAI 2021 by Iddo Drori and myself.",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/1VXH2fMv1U4",
+      "slides": "https://sites.google.com/mit.edu/aaai2021metalearningtutorial/home"
+    },
+    {
+      "type": "video",
       "title": "Reproducible Machine Learning",
       "description": "Talk @ UCI Symposium for Reproducibility in Machine Learning, 2020.",
       "image": "#",
@@ -316,14 +386,6 @@
       "image": "OpenMLSheffield.jpeg",
       "url": "https://www.youtube.com/embed/J84Eg-0RlCk",
       "slides": "https://www.slideshare.net/JoaquinVanschoren/openml-tutorial-networked-science"
-    },
-    {
-      "type": "video",
-      "title": "Designed Serendipity",
-      "description": "Short talk on designed serendipity in science (inspired by M. Nielsen).",
-      "image": "OpenMLSheffield.jpeg",
-      "url": "https://www.youtube.com/embed/JX5ko6sZkm0",
-      "slides": "https://www.slideshare.net/JoaquinVanschoren/designed-serendipity"
     },
     {
       "type": "video",
@@ -414,7 +476,7 @@
         "name": "PhD",
         "topic": "PhD position on Local AI for personalized health modeling.",
         "picture": "faceholder.png",
-        "url": "https://jobs.tue.nl/nl/vacature/phd-position-on-deep-learning-for-plant-growth-861555.html"
+        "url": "https://jobs.tue.nl/nl/vacature/2-phd-positions-on-the-itea-project-inno4health-869436.html"
       }
     ],
     "former": [
@@ -981,7 +1043,7 @@
       },
       {
         "authors": "van Hoof, J., Vanschoren, J.",
-        "url": "https://arxiv.org/abs/1911.03769",
+        "url": "https://arxiv.org/pdf/2101.02289.pdf",
         "title": "HyperBoost: Hyperparameter Optimization by Gradient Boosting surrogate models.",
         "reference": "Workshop on Automating Data Science @ ECMLPKDD 2019."
       },
@@ -1293,6 +1355,24 @@
       }
     ],
     "preprints": [
+      {
+        "authors": "Balázs, C., van Beekveld, M., Caron, S., Dillon, B.M., Farmer, B., Fowlie, A., Handley, W., Hendriks, L., Jóhannesson, G., Leinweber, A., Mamužić, J., Martinez, G.D., Scott, P., Garrido-Merchán, E.C., Ruiz de Austri, R., Searle, Z., Stienen, B., Vanschoren, J., White, M.",
+        "url": "https://arxiv.org/abs/2101.04525",
+        "title": "A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications",
+        "reference": "arXiv:2101.04525, 2021"
+      },
+      {
+        "authors": "van Hoof,  J.,  Vanschoren,  J.",
+        "url": "https://arxiv.org/abs/2101.02289",
+        "title": "Hyperboost: Hyperparameter Optimization by Gradient Boosting surrogate models",
+        "reference": "arXiv2:101.02289, 2021"
+      },
+      {
+        "authors": "Zhang, C., Vanschoren, J., van Wissen, A., Lakens, D., de Ruyter, B., IJsselsteijn, W.A.",
+        "url": "https://arxiv.org/abs/2101.01637",
+        "title": "Theory-based Habit Modeling for Enhancing Behavior Prediction",
+        "reference": "arXiv:2101.01637, 2021"
+      },
       {
         "authors": "Celik,  B.,  Vanschoren,  J.",
         "url": "https://arxiv.org/pdf/2006.06480.pdf",
