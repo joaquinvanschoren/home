@@ -13,6 +13,7 @@ class Software extends Component {
               className="profile-pic"
               src="images/expdblogo2.png"
               alt="Profile Pic"
+              style={{borderRadius: 0}}
             />
           </div>
           <div className="nine columns main-col">
@@ -49,6 +50,7 @@ class Software extends Component {
               className="profile-pic"
               src="images/gama.png"
               alt="Profile Pic"
+              style={{borderRadius: 0}}
             />
           </div>
           <div className="nine columns main-col">
@@ -85,6 +87,7 @@ class Software extends Component {
               className="profile-pic"
               src="images/AutoMLbench.png"
               alt="Profile Pic"
+              style={{borderRadius: 0}}
             />
           </div>
           <div className="nine columns main-col">
