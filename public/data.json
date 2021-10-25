@@ -300,6 +300,28 @@
   "talks": [
     {
       "type": "video",
+      "title": "Data-centric AI",
+      "description": "Talk and panel discussion in a Data-centric AI event hosted by Andrew Ng, 2021.",
+      "image": "#",
+      "url": "https://youtu.be/Yqj7Kyjznh4?t=1829",
+      "slides": "https://uci-ml-repo.github.io/assets/files/reprod_symp20/jvanschoren-slides.pdf"
+    },
+    {
+      "type": "slideshare",
+      "title": "Meta-Learning Tutorial",
+      "description": "A 2-lecture course on Meta-Learning (ACDL 2021 Advanced Course)",
+      "image": "AutoML-ACDL.jpg",
+      "url": "//www.slideshare.net/slideshow/embed_code/key/D0AnXKJVkG6eWN"
+    },
+    {
+      "type": "video",
+      "title": "Meta-Learning Tutorial",
+      "description": "Presented at AAAI 2021 by Iddo Drori and myself.",
+      "image": "#",
+      "url": "https://www.youtube.com/watch?v=1VXH2fMv1U4"
+    },
+    {
+      "type": "video",
       "title": "Reproducible Machine Learning",
       "description": "Talk @ UCI Symposium for Reproducibility in Machine Learning, 2020.",
       "image": "#",
@@ -364,14 +386,6 @@
       "image": "OpenMLSheffield.jpeg",
       "url": "https://www.youtube.com/embed/J84Eg-0RlCk",
       "slides": "https://www.slideshare.net/JoaquinVanschoren/openml-tutorial-networked-science"
-    },
-    {
-      "type": "video",
-      "title": "Designed Serendipity",
-      "description": "Short talk on designed serendipity in science (inspired by M. Nielsen).",
-      "image": "OpenMLSheffield.jpeg",
-      "url": "https://www.youtube.com/embed/JX5ko6sZkm0",
-      "slides": "https://www.slideshare.net/JoaquinVanschoren/designed-serendipity"
     },
     {
       "type": "video",

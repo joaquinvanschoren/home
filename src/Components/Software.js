@@ -23,7 +23,7 @@ class Software extends Component {
               experiments in an open and reproducible way, so that we can all
               learn from our collective past experience and build ever-better
               learning systems. It also offers AI-ready datasets and benchmarks
-              via convenient interfaces to more than 150.000 users.
+              via convenient interfaces to more than 250.000 users.
             </p>
             <p>
               OpenML is being developed and maintained by{" "}
