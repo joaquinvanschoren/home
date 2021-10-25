@@ -47,7 +47,7 @@ class Software extends Component {
           <div className="three columns">
             <img
               className="profile-pic"
-              src="images/software_placeholder.png"
+              src="images/gama.png"
               alt="Profile Pic"
             />
           </div>

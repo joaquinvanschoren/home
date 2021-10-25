@@ -32,7 +32,7 @@
         "title": "NeurIPS paper on OpenML-based benchmarking suites",
         "link": "https://openreview.net/forum?id=OCrD8ycKjG",
         "time": "December 2021",
-        "description": "Our work on OpenML-based benchmarking suites was accepted to the NeurIPS 2021 Datasets and Benchmarks Track! It was a lot of work, together with Bernd Bischl, Giuseppe Casalicchio, Matthias Feurer, Pieter Gijsbers, Frank Hutter, Michel Lang, Rafael Mantovani, and Jan van Rijn."
+        "description": "Our work on OpenML-based benchmarking suites was accepted to the NeurIPS 2021 Datasets and Benchmarks Track!"
       },
       {
         "title": "Two NeurIPS workshop talks on meta-learning",
@@ -41,10 +41,10 @@
         "description": "We'll present new work on Open-ended meta-reinforcement learning (with Fangqin Zhou) and Bayesian meta-learning (with Luuk Schagen). Looking forward to seeing you there!"
       },
       {
-        "title": "PNAS paper on learning how to learn from many related scientific problems",
+        "title": "PNAS: Learning how to learn from many related scientific problems",
         "link": "https://www.pnas.org/",
         "time": "November 2021",
-        "description": "More information soon :). Together with Ross D. King (Cambridge), Larisa N. Soldatova (Goldsmiths), Ivan Olier (Liverpool), Oghenejokpeme I Orhobor (Cambridge), Andy Davis (AstraZeneca) and Tirtharaj Dash (BITS)."
+        "description": "New paper in PNAS, together with a great team led by Ross D. King (Cambridge). More information soon :)."
       },
       {
         "title": "Data-Centric AI event with Andrew Ng",
@@ -55,8 +55,8 @@
       {
         "title": "Meta-learning and Data-Centric AI Workshops @ NeurIPS 2021",
         "link": "https://datacentricai.org/",
-        "time": "August 2021",
-        "description": "I'm co-organizing the 5th workshop on meta-learning as well as the first ever workshop on Data-Centric AI at NeurIPS. Together with Erin Grant (Berkeley), Jonathan Schwarz, Francesco Visin, and Jane Wang (DeepMind), Frank Hutter (U Freiburg), Andrew Ng and Greg Diamos (Landing AI), Lora Aroyo (Google), Cody Coleman and Sharon Zhou (Stanford), Carole-Jean Wu (Facebook), and Vijay Janapa Reddi (Harvard)."
+        "time": "August 2021", 
+        "description": "I'm co-organizing the 5th workshop on meta-learning as well as the first ever workshop on Data-Centric AI at NeurIPS. Together with Erin Grant, Jonathan Schwarz, Francesco Visin, Frank Hutter, Andrew Ng, Greg Diamos, Lora Aroyo, Cody Coleman, Sharon Zhou, Carole-Jean Wu, and Vijay Janapa Reddi."
       },
       {
         "title": "NeurIPS 2021 Datasets and Benchmarks Track",
