@@ -69,10 +69,10 @@ class Software extends Component {
                 JOSS paper
               </a>{" "}
               and the{" "}
-              <a href="https://pgijsbers.github.io/gama/">documentation</a>.
+              <a href="https://openml-labs.github.io/gama/master/">documentation</a>.
             </p>
             <a
-              href="https://github.com/PGijsbers/gama"
+              href="https://github.com/openml-labs/gama"
               className="button pull-right"
             >
               <i className="fab fa-github"></i> GAMA on GitHub
