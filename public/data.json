@@ -303,7 +303,7 @@
       "title": "Data-centric AI",
       "description": "Talk and panel discussion in a Data-centric AI event hosted by Andrew Ng, 2021.",
       "image": "#",
-      "url": "https://youtu.be/Yqj7Kyjznh4?t=1829",
+      "url": "https://www.youtube.com/embed/Yqj7Kyjznh4",
       "slides": "https://uci-ml-repo.github.io/assets/files/reprod_symp20/jvanschoren-slides.pdf"
     },
     {
@@ -318,7 +318,7 @@
       "title": "Meta-Learning Tutorial",
       "description": "Presented at AAAI 2021 by Iddo Drori and myself.",
       "image": "#",
-      "url": "https://www.youtube.com/watch?v=1VXH2fMv1U4"
+      "url": "https://www.youtube.com/embed/1VXH2fMv1U4"
     },
     {
       "type": "video",
