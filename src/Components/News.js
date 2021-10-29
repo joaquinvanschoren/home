@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 
 class News extends Component {
 
-  state = { newsShown: 3,
+  state = { newsShown: 5,
     allNewsShown: false,
-    invitedShown: 3,
+    invitedShown: 5,
     allInvitedShown: false
   }
 
