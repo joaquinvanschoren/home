@@ -29,7 +29,7 @@
   "news": {
     "news": [
       {
-        "title": "OpenML-based benchmarking suites @ NeurIPS 2021",
+        "title": "Paper on OpenML-based benchmarking @ NeurIPS 2021",
         "link": "https://openreview.net/forum?id=OCrD8ycKjG",
         "time": "December 2021",
         "description": "Curated, standardized, and easy benchmarking by the OpenML team. Join us in the NeurIPS 2021 Datasets and Benchmarks Track!"
@@ -41,10 +41,10 @@
         "description": "We'll present new work on Open-ended meta-reinforcement learning (with Fangqin Zhou) and Bayesian meta-learning (with Luuk Schagen). Looking forward to seeing you there!"
       },
       {
-        "title": "PNAS: Learning to learn from many related scientific problems",
+        "title": "PNAS paper on meta-learning across many scientific problems",
         "link": "https://www.pnas.org/",
         "time": "November 2021",
-        "description": "New paper in PNAS, together with a great team led by Ross D. King (Cambridge). More information soon :)."
+        "description": "Together with a great team led by Ross D. King (Cambridge). More information soon :)."
       },
       {
         "title": "Data-Centric AI event with Andrew Ng",
@@ -56,7 +56,7 @@
         "title": "NeurIPS 2021 Datasets and Benchmarks Track",
         "link": "https://blog.neurips.cc/2021/04/07/announcing-the-neurips-2021-datasets-and-benchmarks-track/",
         "time": "April 2021",
-        "description": "Serena Yeung (Stanford) and me will chair the first ever NeurIPS track on Datasets and Benchmarks. Thanks to the NeurIPS board, general chair Marc'aurelio Ranzato, and the advisory committee (Neil Lawrence, Isabelle Guyon, Olga Russakovsky, and Sergio Escalera) for all the support!"
+        "description": "Serena Yeung and me will chair a new NeurIPS track on Datasets and Benchmarks. Thanks to the NeurIPS board and Marc'aurelio Ranzato, Neil Lawrence, Isabelle Guyon, Olga Russakovsky, and Sergio Escalera for all the support!"
       },
       {
         "title": "Meta-learning Tutorial @ AAAI 2021",
