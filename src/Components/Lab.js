@@ -120,7 +120,7 @@ class Lab extends Component {
               I’m fortunate to work with an amazing team. We are working
               together to automate and better understand machine learning, and
               use it in novel applications. We are part of the{" "}
-              <a href="https://www.tue.nl/en/research/research-groups/data-science/artificial-intelligence/data-mining/">
+              <a href="https://www.tue.nl/en/research/research-groups/artificial-intelligence/">
                 TU/e Artificial Intelligence Cluster
               </a>
               .

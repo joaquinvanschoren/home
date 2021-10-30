@@ -65,16 +65,16 @@ class About extends Component {
                   both our lives easier:
                   <br />
                   <span>
-                    <b>- PhD positions</b>: Check for{" "}
+                    <b>- PhD or PostDoc positions</b>: Check for{" "}
                     <a href="#open">available opportunities</a>.
                   </span>
                   <br />
                   <span>
                     <b>- MSc Students</b>: Check{" "}
-                    <a href="#topics">MSc research topics</a>. Use Canvas for
-                    course-related questions. I typically do not supervise
-                    industry internships, please contact Stiven (s.schwanz.dias{" "}
-                    <i className="fas fa-at"></i> tue.nl) to help find a supervisor.
+                    <a href="#topics">thesis topics here</a>. Use Canvas for
+                    course-related questions. For industry internships, please contact 
+                    Stiven (s.schwanz.dias{" "} <i className="fas fa-at"></i> tue.nl) 
+                    to help find a supervisor.
                   </span>
                   <br />
                   <span>
