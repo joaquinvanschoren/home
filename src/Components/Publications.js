@@ -19,7 +19,7 @@ class Publications extends Component {
 
     for (let i = 0; i < this.pubtypes.length; i++) {
       var type = this.pubtypes[i];
-      this.state[type + "_shown"] = 3;
+      this.state[type + "_shown"] = this.state.sort_year ? 100 : 3;
       this.state[type + "_allShown"] = false;
     }
   }
@@ -38,7 +38,6 @@ class Publications extends Component {
     evt.preventDefault();
     this.setState({ sort_year: !this.state.sort_year });
   }
-
 
   render() {
     if (this.props.data) {
@@ -62,8 +61,26 @@ class Publications extends Component {
       }
 
       this.publist = [];
-      for (let i = 0; i < this.pubtypes.length; i++) {
-        var ty = this.pubtypes[i];
+      var headers = this.pubtypes;
+      if (this.state.sort_year){
+        var current_year = new Date().getFullYear();
+        headers = Array(current_year - 2006 + 1).fill().map((_, idx) => current_year - idx)
+      }
+      for (let i = 0; i < headers.length; i++) {
+        var ty = headers[i];
+        var papers = []
+        if (this.state.sort_year){
+          for (let j = 0; j < this.pubtypes.length; j++) {
+            var subpapers = pubs[this.pubtypes[j]]
+            for (let k = 0; k < subpapers.length; k++) {
+              if (subpapers[k].year === ty){
+                papers.push(subpapers[k]);
+              }
+            }
+          }
+        } else {
+          papers = pubs[ty];
+        }
         this.publist.push(
           <div className="row" key={ty}>
             <div className="two columns header-col">
@@ -73,7 +90,7 @@ class Publications extends Component {
             </div>
             <div className="ten columns main-col">
               <div className="row item">
-                <div className="twelve columns">{pubs[ty]}</div>
+                <div className="twelve columns">{papers}</div>
               </div>
             </div>
 
@@ -97,7 +114,7 @@ class Publications extends Component {
           <div className="twelve columns">
             <h2>Publications</h2>
             <div className="toplink">
-              Publications ordered by {this.state.sort_year ? "year" : "type and date"} (newest first), linked to
+              Publications ordered by {this.state.sort_year ? "year" : "publication type and date"} (newest first), linked to
               PDFs. <a href="#" onClick={this.toggleSwitch}>Sort by {this.state.sort_year ? "type and date" : "year"}</a>
               <br />
               Preprints are listed on{" "}
