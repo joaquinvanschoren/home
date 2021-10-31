@@ -971,6 +971,12 @@
         "reference": "Proceedings of ECMLPKDD 2020. Lecture Notes in Computer Science, 12461 (2021). p560-564"
       },
       {
+        "authors": "Gijsbers, P., Pfisterer, F., van Rijn, J.N., Bischl, B., Vanschoren, J.",
+        "url": "https://arxiv.org/pdf/2007.04911.pdf",
+        "title": "Meta-Learning for Symbolic Hyperparameter Defaults",
+        "reference": "Genetic and Evolutionary Computation Conference (GECCO) Companion, 2021"
+      },
+      {
         "authors": "Grootendorst, M., Vanschoren, J.",
         "url": "",
         "title": "Beyond Bag-of-Concepts: Vectors of Locally Aggregated Concepts",
@@ -1092,6 +1098,24 @@
       }
     ],
     "workshop papers": [
+      {
+        "authors": "Zhou, F., Vanschoren, J.",
+        "title": "Open-Ended Learning Strategies for Learning Complex Locomotion Skills",
+        "reference": "Workshop on Meta-Learning @ NeurIPS 2021",
+        "url": "https://openreview.net/forum?id=l8c9NYgA4Lw"
+      }
+      {
+        "authors": "Schragen, L., Vanschoren, J.",
+        "topic": "Variational Task Encoders for Model-Agnostic Meta-Learning with Uncertainty over Task Distributions",
+        "reference": "Workshop on Meta-Learning @ NeurIPS 2021",
+        "paper": "https://openreview.net/forum?id=dfYhf5IuMPE"
+      },
+      {
+        "authors": "van Lith, J., Vanschoren, J.",
+        "topic": "From strings to data science: a practical framework for automated string handling",
+        "reference": "Workshop on Automated Data Science @ ECMLPKDD 2021",
+        "paper": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers%2Fautods2021%5Fpaper%5F12%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVJNYjRYWDJ0UXhMbjdIMFFidGxWSDBCRTVSMjM2OER0VGQtdVlZMGVZekYyQT9ydGltZT1zZ2dyMHhxYjJVZw"
+      },
       {
         "authors": "El Baz, A., Guyon, I., Lui, Z., van Rijn, JN, Treguer, S., Vanschoren, J.",
         "url": "http://proceedings.mlr.press/v140/el-baz21a/el-baz21a.pdf",
@@ -1431,10 +1455,34 @@
     ],
     "preprints": [
       {
+        "authors": "van den Brandt, I., Fok, F., Mulders, B., Vanschoren, J., Cheplygina, V.",
+        "url": "https://arxiv.org/pdf/2107.05940.pdf",
+        "title": "Cats, not CAT scans: a study of dataset similarity in transfer learning for 2D medical image classification",
+        "reference": "arXiv preprint arXiv:2107.05940, 2021"
+      },
+      {
+        "authors": "Ullah, I., Vu, P.A., Sun, H., Huisman, M., Mohr, F., van Rijn, J.N., Plaat, A., El Baz, A>, Liu, Z., Vanschoren, J., Guyon, I.",
+        "url": "https://openreview.net/pdf?id=7DEE3XXOUBd",
+        "title": "Meta-Album: Multi-domain Benchmark for Few-Shot Image Classification",
+        "reference": "openreview:7DEE3XXOUBd, 2021"
+      },
+      {
+        "authors": "Beishuizen, T. P., Vanschoren, J., Hilbers, P. A., & Bošnački, D.",
+        "url": "https://assets.researchsquare.com/files/rs-563410/v1_covered.pdf?c=1634050550",
+        "title": "Automated Feature Selection and Classification for High-Dimensional Biomedical Data",
+        "reference": "ResearchSquare, 2021"
+      },
+      {
+        "authors": "Goyal, R., Vanschoren, J., Van Acht, V., & Nijssen, S.",
+        "url": "https://arxiv.org/pdf/2102.02147.pdf",
+        "title": "Fixed-point Quantization of Convolutional Neural Networks for Quantized Inference on Embedded Platforms",
+        "reference": "arXiv preprint arXiv:2102.02147"
+      },
+      {
         "authors": "van Hoof,  J.,  Vanschoren,  J.",
         "url": "https://arxiv.org/abs/2101.02289",
         "title": "Hyperboost: Hyperparameter Optimization by Gradient Boosting surrogate models",
-        "reference": "arXiv2:101.02289, 2021"
+        "reference": "arXiv:101.02289, 2021"
       },
       {
         "authors": "Zhang, C., Vanschoren, J., van Wissen, A., Lakens, D., de Ruyter, B., IJsselsteijn, W.A.",
