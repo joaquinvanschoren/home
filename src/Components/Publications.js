@@ -97,8 +97,8 @@ class Publications extends Component {
           <div className="twelve columns">
             <h2>Publications</h2>
             <div className="toplink">
-              Publications ordered by {this.sort_year ? "year" : "type and date"} (newest first), linked to
-              PDFs. <a href="#" onClick={this.toggleSwitch}>Sort by {this.sort_year ? "type and date" : "year"}</a>
+              Publications ordered by {this.state.sort_year ? "year" : "type and date"} (newest first), linked to
+              PDFs. <a href="#" onClick={this.toggleSwitch}>Sort by {this.state.sort_year ? "type and date" : "year"}</a>
               <br />
               Preprints are listed on{" "}
               <a href="https://arxiv.org/search/?query=joaquin+vanschoren&searchtype=all&abstracts=show&order=-announced_date_first&size=50">
