@@ -10,8 +10,9 @@ class Publications extends Component {
     "dissertations",
     "preprints"
   ];
-  state = {};
+  state = {sort_year: false};
   publist = [];
+  years = [];
 
   constructor(props) {
     super();
@@ -31,6 +32,13 @@ class Publications extends Component {
       [t + "_allShown"]: true
     }));
   };
+
+  toggleSwitch = evt => {
+    evt.persist();
+    evt.preventDefault();
+    this.setState({ sort_year: !this.state.sort_year });
+  }
+
 
   render() {
     if (this.props.data) {
@@ -89,8 +97,8 @@ class Publications extends Component {
           <div className="twelve columns">
             <h2>Publications</h2>
             <div className="toplink">
-              Publications ordered by type and date (newest first), linked to
-              PDFs.
+              Publications ordered by {this.sort_year ? "year" : "type and date"} (newest first), linked to
+              PDFs. <a href="#" onClick={this.toggleSwitch}>Sort by {this.sort_year ? "type and date" : "year"}</a>
               <br />
               Preprints are listed on{" "}
               <a href="https://arxiv.org/search/?query=joaquin+vanschoren&searchtype=all&abstracts=show&order=-announced_date_first&size=50">
