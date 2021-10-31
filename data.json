@@ -29,7 +29,7 @@
   "news": {
     "news": [
       {
-        "title": "OpenML-based benchmarking suites @ NeurIPS 2021",
+        "title": "Paper on OpenML-based benchmarking @ NeurIPS 2021",
         "link": "https://openreview.net/forum?id=OCrD8ycKjG",
         "time": "December 2021",
         "description": "Curated, standardized, and easy benchmarking by the OpenML team. Join us in the NeurIPS 2021 Datasets and Benchmarks Track!"
@@ -41,10 +41,10 @@
         "description": "We'll present new work on Open-ended meta-reinforcement learning (with Fangqin Zhou) and Bayesian meta-learning (with Luuk Schagen). Looking forward to seeing you there!"
       },
       {
-        "title": "PNAS: Learning to learn from many related scientific problems",
+        "title": "PNAS paper on metalearning across many scientific problems",
         "link": "https://www.pnas.org/",
         "time": "November 2021",
-        "description": "New paper in PNAS, together with a great team led by Ross D. King (Cambridge). More information soon :)."
+        "description": "Together with a great team led by Ross D. King (Cambridge). More information soon :)."
       },
       {
         "title": "Data-Centric AI event with Andrew Ng",
@@ -56,7 +56,7 @@
         "title": "NeurIPS 2021 Datasets and Benchmarks Track",
         "link": "https://blog.neurips.cc/2021/04/07/announcing-the-neurips-2021-datasets-and-benchmarks-track/",
         "time": "April 2021",
-        "description": "Serena Yeung (Stanford) and me will chair the first ever NeurIPS track on Datasets and Benchmarks. Thanks to the NeurIPS board, general chair Marc'aurelio Ranzato, and the advisory committee (Neil Lawrence, Isabelle Guyon, Olga Russakovsky, and Sergio Escalera) for all the support!"
+        "description": "Serena Yeung and me will chair a new NeurIPS track on Datasets and Benchmarks. Thanks to the NeurIPS board and Marc'aurelio Ranzato, Neil Lawrence, Isabelle Guyon, Olga Russakovsky, and Sergio Escalera for all the support!"
       },
       {
         "title": "Meta-learning Tutorial @ AAAI 2021",
@@ -855,6 +855,30 @@
   "publications": {
     "journal papers": [
       {
+        "authors": "Olier, I., Oghenejokpeme, I.O., Dash, T., Davis, A., Soldatova, L.N., Vanschoren, J., King, R.D.",
+        "url": "https://arxiv.org/pdf/1811.03392.pdf",
+        "title": "Transformational Machine Learning: Learning how to learn from many related scientific problems.",
+        "reference": "Proceedings of the National Academy of Sciences, in press."
+      },
+      {
+        "authors": "Feurer,  M.,  van  Rijn,  J.N.,  Kadra,  A.,  Gijsbers,  P.,  Mallik,  N.,  Ravi,  S.,  Mueller,  A.,  Vanschoren,  J., Hutter, F.",
+        "url": "https://www.jmlr.org/papers/volume22/19-920/19-920.pdf",
+        "title": "OpenML-Python:  an extensible Python API for OpenML",
+        "reference": "Journal of Machine Learning Research 22(100):1−5, 2021."
+      },
+      {
+        "authors": "Celik,  B.,  Vanschoren,  J.",
+        "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366792",
+        "title": "Adaptation  Strategies  for  Automated  Machine  Learning  on  Evolving Data",
+        "reference": "IEEE Transactions on Pattern Analysis and Machine Intelligence 43 (9), 2021"
+      },
+      {
+        "authors": "Balázs, C., van Beekveld, M., Caron, S., Dillon, B.M., Farmer, B., Fowlie, A., Handley, W., Hendriks, L., Jóhannesson, G., Leinweber, A., Mamužić, J., Martinez, G.D., Scott, P., Garrido-Merchán, E.C., Ruiz de Austri, R., Searle, Z., Stienen, B., Vanschoren, J., White, M.",
+        "url": "https://arxiv.org/abs/2101.04525",
+        "title": "A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications",
+        "reference": "Journal of High Energy Physics 2021 (5), 1-46, 2021"
+      },
+      {
         "authors": "Sadawi, N., Olier, I., Vanschoren, J. van Rijn, JN., Besnard, J., Bickerton, R., Grosan, C., Soldatova, L., King, R.D",
         "url": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0392-1",
         "title": "Multi-task learning with a natural metric for quantitative structure activity relationship learning.",
@@ -935,14 +959,26 @@
     ],
     "conference papers": [
       {
+        "authors": "Bischl, B., Casalicchio, G., Feurer, M., Hutter, F., Lang, M., Mantovani, R.G., van Rijn, J.N., Vanschoren, J.",
+        "url": "https://openreview.net/forum?id=OCrD8ycKjG",
+        "title": "OpenML benchmarking suites",
+        "reference": "Proceedings of the NeurIPS Track on Datasets and Benchmarks 2021"
+      },
+      {
         "authors": "Gijsbers, P., Vanschoren, J.",
-        "url": "",
+        "url": "https://arxiv.org/pdf/2007.04911.pdf",
         "title": "GAMA: A General Automated Machine learning Assistant",
-        "reference": "Proceedings of ECMLPKDD 2020"
+        "reference": "Proceedings of ECMLPKDD 2020. Lecture Notes in Computer Science, 12461 (2021). p560-564"
+      },
+      {
+        "authors": "Gijsbers, P., Pfisterer, F., van Rijn, J.N., Bischl, B., Vanschoren, J.",
+        "url": "https://arxiv.org/pdf/2007.04911.pdf",
+        "title": "Meta-Learning for Symbolic Hyperparameter Defaults",
+        "reference": "Genetic and Evolutionary Computation Conference (GECCO) Companion, 2021"
       },
       {
         "authors": "Grootendorst, M., Vanschoren, J.",
-        "url": "",
+        "url": "https://ecmlpkdd2019.org/downloads/paper/489.pdf",
         "title": "Beyond Bag-of-Concepts: Vectors of Locally Aggregated Concepts",
         "reference": "Proceedings of ECMLPKDD 2019"
       },
@@ -1062,6 +1098,30 @@
       }
     ],
     "workshop papers": [
+      {
+        "authors": "Zhou, F., Vanschoren, J.",
+        "title": "Open-Ended Learning Strategies for Learning Complex Locomotion Skills",
+        "reference": "Workshop on Meta-Learning @ NeurIPS 2021",
+        "url": "https://openreview.net/forum?id=l8c9NYgA4Lw"
+      },
+      {
+        "authors": "Schragen, L., Vanschoren, J.",
+        "topic": "Variational Task Encoders for Model-Agnostic Meta-Learning with Uncertainty over Task Distributions",
+        "reference": "Workshop on Meta-Learning @ NeurIPS 2021",
+        "url": "https://openreview.net/forum?id=dfYhf5IuMPE"
+      },
+      {
+        "authors": "van Lith, J., Vanschoren, J.",
+        "topic": "From strings to data science: a practical framework for automated string handling",
+        "reference": "Workshop on Automated Data Science @ ECMLPKDD 2021",
+        "url": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers%2Fautods2021%5Fpaper%5F12%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVJNYjRYWDJ0UXhMbjdIMFFidGxWSDBCRTVSMjM2OER0VGQtdVlZMGVZekYyQT9ydGltZT1zZ2dyMHhxYjJVZw"
+      },
+      {
+        "authors": "El Baz, A., Guyon, I., Lui, Z., van Rijn, JN, Treguer, S., Vanschoren, J.",
+        "url": "http://proceedings.mlr.press/v140/el-baz21a/el-baz21a.pdf",
+        "title": "Meta-DeepLearning challenge design and baseline results",
+        "reference": "Workshop on Meta-Learning @ AAAI 2021."
+      },
       {
         "authors": "Robles, J., Vanschoren, J.",
         "url": "https://arxiv.org/abs/1911.03769",
@@ -1395,28 +1455,40 @@
     ],
     "preprints": [
       {
-        "authors": "Balázs, C., van Beekveld, M., Caron, S., Dillon, B.M., Farmer, B., Fowlie, A., Handley, W., Hendriks, L., Jóhannesson, G., Leinweber, A., Mamužić, J., Martinez, G.D., Scott, P., Garrido-Merchán, E.C., Ruiz de Austri, R., Searle, Z., Stienen, B., Vanschoren, J., White, M.",
-        "url": "https://arxiv.org/abs/2101.04525",
-        "title": "A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications",
-        "reference": "arXiv:2101.04525, 2021"
+        "authors": "van den Brandt, I., Fok, F., Mulders, B., Vanschoren, J., Cheplygina, V.",
+        "url": "https://arxiv.org/pdf/2107.05940.pdf",
+        "title": "Cats, not CAT scans: a study of dataset similarity in transfer learning for 2D medical image classification",
+        "reference": "arXiv preprint arXiv:2107.05940, 2021"
+      },
+      {
+        "authors": "Ullah, I., Vu, P.A., Sun, H., Huisman, M., Mohr, F., van Rijn, J.N., Plaat, A., El Baz, A>, Liu, Z., Vanschoren, J., Guyon, I.",
+        "url": "https://openreview.net/pdf?id=7DEE3XXOUBd",
+        "title": "Meta-Album: Multi-domain Benchmark for Few-Shot Image Classification",
+        "reference": "openreview:7DEE3XXOUBd, 2021"
+      },
+      {
+        "authors": "Beishuizen, T. P., Vanschoren, J., Hilbers, P. A., & Bošnački, D.",
+        "url": "https://assets.researchsquare.com/files/rs-563410/v1_covered.pdf?c=1634050550",
+        "title": "Automated Feature Selection and Classification for High-Dimensional Biomedical Data",
+        "reference": "ResearchSquare, 2021"
+      },
+      {
+        "authors": "Goyal, R., Vanschoren, J., Van Acht, V., & Nijssen, S.",
+        "url": "https://arxiv.org/pdf/2102.02147.pdf",
+        "title": "Fixed-point Quantization of Convolutional Neural Networks for Quantized Inference on Embedded Platforms",
+        "reference": "arXiv preprint arXiv:2102.02147"
       },
       {
         "authors": "van Hoof,  J.,  Vanschoren,  J.",
         "url": "https://arxiv.org/abs/2101.02289",
         "title": "Hyperboost: Hyperparameter Optimization by Gradient Boosting surrogate models",
-        "reference": "arXiv2:101.02289, 2021"
+        "reference": "arXiv:101.02289, 2021"
       },
       {
         "authors": "Zhang, C., Vanschoren, J., van Wissen, A., Lakens, D., de Ruyter, B., IJsselsteijn, W.A.",
         "url": "https://arxiv.org/abs/2101.01637",
         "title": "Theory-based Habit Modeling for Enhancing Behavior Prediction",
         "reference": "arXiv:2101.01637, 2021"
-      },
-      {
-        "authors": "Celik,  B.,  Vanschoren,  J.",
-        "url": "https://arxiv.org/pdf/2006.06480.pdf",
-        "title": "Adaptation  Strategies  for  Automated  Machine  Learning  on  Evolving Data",
-        "reference": "arXiv:2006.06480, 2021"
       },
       {
         "authors": "Heffels, M.R., Vanschoren, J.",
@@ -1431,12 +1503,6 @@
         "reference": "arXiv:2007.07588, 2020"
       },
       {
-        "authors": "Feurer,  M.,  van  Rijn,  J.N.,  Kadra,  A.,  Gijsbers,  P.,  Mallik,  N.,  Ravi,  S.,  Mueller,  A.,  Vanschoren,  J., Hutter, F.",
-        "url": "https://arxiv.org/pdf/1911.02490.pdf",
-        "title": "OpenML-Python:  an extensible Python API for OpenML",
-        "reference": "arXiv:1911.02490, 2019"
-      },
-      {
         "authors": "Ratner,  A.,  Alistarh,  D.,  Alonso,  G.,  Andersen,  D.G.,  Bailis,  P.,  Bird,  S.,  Carlini,  N.,  Catanzaro,  B.,Chayes,  J.,  Chung,  E.,  Dally,  B.,  Dean,  J.,  Dhillon  I.S.,  Dimakis,  A.,  Dubey,  P.,  Elkan,  C.,  Fursin,G.,  Ganger,  G.R.,  Getoor,  L.,  Gibbons,  P.B.,  Gibson,  G.A.,  Gonzalez,  J.E.,  Gottschlich,  J.,  Han,  S.,Hazelwood,  K.,  Huang,  F.,  Jaggi,  M.,  Jamieson,  K.,  Jordan,  M.I.,  Joshi,  G.,  Khalaf,  R.,  Knight,  J.,Konen, J., Kraska, T., Kumar, A., Kyrillidis, A., Lakshmiratan, A., Li, J., Madden, S., McMahan, H.B.,Meijer,  E.,  Mitliagkas,  U.,  Monga,  R.,  Murray,  D.,  Olukotun,  K.,  Papailiopoulos,  D.,  Pekhimenko,  G.,Rekatsinas,  T.,  Rostamizadeh,  A.,  R,  C.,  De  Sa,  C.,  Sedghi,  H.,  Sen,  S.,  Smith,  V.,  Smola,  A.,  Song,D.,  Sparks,  E.,  Stoica,  I.,  Sze,  V.,  Udell,  M.,  Vanschoren,  J.,  Venkataraman,  S.,  Vinayak,  R.,  Weimer,M., Wilson, A.G., Xing, E., Zaharia, M., Zhang, C, Talwalkar, A.",
         "url": "https://arxiv.org/pdf/1904.03257.pdf",
         "title": "MLSys:  The New Frontier of Machine Learning Systems",
@@ -1449,22 +1515,10 @@
         "reference": "arXiv:1810.03548, 2018"
       },
       {
-        "authors": "Olier, I., Orhobor, O.I, Vanschoren, J. King, R.D.",
-        "url": "https://arxiv.org/pdf/1811.03392.pdf",
-        "title": "Transformative Machine Learning",
-        "reference": "arXiv:1811.03392, 2019"
-      },
-      {
         "authors": "Rivolli, A., Garcia, L., Soares, C., Vanschoren, J., de Carvalho, A.C.",
         "url": "https://arxiv.org/pdf/1808.10406.pdf",
         "title": "Towards reproducible empirical research in meta-learning",
         "reference": "arXiv:1808.10406, 2018"
-      },
-      {
-        "authors": "Bischl, B., Casalicchio, G., Feurer, M., Hutter, F., Lang, M., Mantovani, R.G., van Rijn, J.N., Vanschoren, J.",
-        "url": "https://arxiv.org/pdf/1708.03731.pdf",
-        "title": "OpenML benchmarking suites",
-        "reference": "arXiv:1708.03731, 2017"
       }
     ]
   }
