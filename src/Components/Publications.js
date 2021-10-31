@@ -12,14 +12,13 @@ class Publications extends Component {
   ];
   state = {sort_year: false};
   publist = [];
-  years = [];
 
   constructor(props) {
     super();
 
     for (let i = 0; i < this.pubtypes.length; i++) {
       var type = this.pubtypes[i];
-      this.state[type + "_shown"] = this.state.sort_year ? 100 : 3;
+      this.state[type + "_shown"] = 3;
       this.state[type + "_allShown"] = false;
     }
   }
@@ -49,7 +48,7 @@ class Publications extends Component {
         if (this.state[t + "_count"] <= this.state[t + "_shown"]) {
           this.state[t + "_allShown"] = true;
         }
-        pubs[t] = d.slice(0, this.state[t + "_shown"]).map(function(pubs) {
+        pubs[t] = d.slice(0, this.state.sort_year ? 100 : this.state[t + "_shown"]).map(function(pubs) {
           return (
             <div className="citation" key={pubs.title}>
               {pubs.authors}
@@ -70,10 +69,12 @@ class Publications extends Component {
         var ty = headers[i];
         var papers = []
         if (this.state.sort_year){
+          this.state[ty + "_allShown"] = true;
           for (let j = 0; j < this.pubtypes.length; j++) {
-            var subpapers = pubs[this.pubtypes[j]]
-            for (let k = 0; k < subpapers.length; k++) {
-              if (subpapers[k].year === ty){
+            var data = this.props.data[this.pubtypes[j]];
+            var subpapers = pubs[this.pubtypes[j]];
+            for (let k = 0; k < data.length; k++) {
+              if (data[k].year === ty){
                 papers.push(subpapers[k]);
               }
             }
