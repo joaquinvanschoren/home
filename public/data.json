@@ -978,7 +978,7 @@
       },
       {
         "authors": "Grootendorst, M., Vanschoren, J.",
-        "url": "",
+        "url": "https://ecmlpkdd2019.org/downloads/paper/489.pdf",
         "title": "Beyond Bag-of-Concepts: Vectors of Locally Aggregated Concepts",
         "reference": "Proceedings of ECMLPKDD 2019"
       },
@@ -1108,13 +1108,13 @@
         "authors": "Schragen, L., Vanschoren, J.",
         "topic": "Variational Task Encoders for Model-Agnostic Meta-Learning with Uncertainty over Task Distributions",
         "reference": "Workshop on Meta-Learning @ NeurIPS 2021",
-        "paper": "https://openreview.net/forum?id=dfYhf5IuMPE"
+        "url": "https://openreview.net/forum?id=dfYhf5IuMPE"
       },
       {
         "authors": "van Lith, J., Vanschoren, J.",
         "topic": "From strings to data science: a practical framework for automated string handling",
         "reference": "Workshop on Automated Data Science @ ECMLPKDD 2021",
-        "paper": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers%2Fautods2021%5Fpaper%5F12%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVJNYjRYWDJ0UXhMbjdIMFFidGxWSDBCRTVSMjM2OER0VGQtdVlZMGVZekYyQT9ydGltZT1zZ2dyMHhxYjJVZw"
+        "url": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers%2Fautods2021%5Fpaper%5F12%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVJNYjRYWDJ0UXhMbjdIMFFidGxWSDBCRTVSMjM2OER0VGQtdVlZMGVZekYyQT9ydGltZT1zZ2dyMHhxYjJVZw"
       },
       {
         "authors": "El Baz, A., Guyon, I., Lui, Z., van Rijn, JN, Treguer, S., Vanschoren, J.",
