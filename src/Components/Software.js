@@ -54,7 +54,7 @@ class Software extends Component {
             />
           </div>
           <div className="nine columns main-col">
-            <h2>GAMA: a flexible AutoML library</h2>
+            <h2>GAMA: a flexible library to accellerate AutoML research</h2>
             <p>
               The General Automated Machine learning Assistant is an
               open-source, modular library for AutoML research. It allows
