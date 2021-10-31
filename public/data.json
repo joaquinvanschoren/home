@@ -1103,7 +1103,7 @@
         "title": "Open-Ended Learning Strategies for Learning Complex Locomotion Skills",
         "reference": "Workshop on Meta-Learning @ NeurIPS 2021",
         "url": "https://openreview.net/forum?id=l8c9NYgA4Lw"
-      }
+      },
       {
         "authors": "Schragen, L., Vanschoren, J.",
         "topic": "Variational Task Encoders for Model-Agnostic Meta-Learning with Uncertainty over Task Distributions",
