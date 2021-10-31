@@ -858,103 +858,120 @@
         "authors": "Olier, I., Oghenejokpeme, I.O., Dash, T., Davis, A., Soldatova, L.N., Vanschoren, J., King, R.D.",
         "url": "https://arxiv.org/pdf/1811.03392.pdf",
         "title": "Transformational Machine Learning: Learning how to learn from many related scientific problems.",
-        "reference": "Proceedings of the National Academy of Sciences, in press."
+        "reference": "Proceedings of the National Academy of Sciences, in press.",
+        "year": 2021
       },
       {
         "authors": "Feurer,  M.,  van  Rijn,  J.N.,  Kadra,  A.,  Gijsbers,  P.,  Mallik,  N.,  Ravi,  S.,  Mueller,  A.,  Vanschoren,  J., Hutter, F.",
         "url": "https://www.jmlr.org/papers/volume22/19-920/19-920.pdf",
         "title": "OpenML-Python:  an extensible Python API for OpenML",
-        "reference": "Journal of Machine Learning Research 22(100):1−5, 2021."
+        "reference": "Journal of Machine Learning Research 22(100):1−5, 2021.",
+        "year": 2021
       },
       {
         "authors": "Celik,  B.,  Vanschoren,  J.",
         "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9366792",
         "title": "Adaptation  Strategies  for  Automated  Machine  Learning  on  Evolving Data",
-        "reference": "IEEE Transactions on Pattern Analysis and Machine Intelligence 43 (9), 2021"
+        "reference": "IEEE Transactions on Pattern Analysis and Machine Intelligence 43 (9), 2021",
+        "year": 2021
       },
       {
         "authors": "Balázs, C., van Beekveld, M., Caron, S., Dillon, B.M., Farmer, B., Fowlie, A., Handley, W., Hendriks, L., Jóhannesson, G., Leinweber, A., Mamužić, J., Martinez, G.D., Scott, P., Garrido-Merchán, E.C., Ruiz de Austri, R., Searle, Z., Stienen, B., Vanschoren, J., White, M.",
         "url": "https://arxiv.org/abs/2101.04525",
         "title": "A comparison of optimisation algorithms for high-dimensional particle and astrophysics applications",
-        "reference": "Journal of High Energy Physics 2021 (5), 1-46, 2021"
+        "reference": "Journal of High Energy Physics 2021 (5), 1-46, 2021",
+        "year": 2021
       },
       {
         "authors": "Sadawi, N., Olier, I., Vanschoren, J. van Rijn, JN., Besnard, J., Bickerton, R., Grosan, C., Soldatova, L., King, R.D",
         "url": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0392-1",
         "title": "Multi-task learning with a natural metric for quantitative structure activity relationship learning.",
-        "reference": "Journal of Cheminformatics 11 (1), Art. 68, 2019"
+        "reference": "Journal of Cheminformatics 11 (1), Art. 68, 2019",
+        "year": 2019
       },
       {
         "authors": "Mantovani, R.G., Rossi, A.L.D., Alcobaca, E., Vanschoren, J., Carvalho, A.C.P.L.F.",
         "url": "https://www.sciencedirect.com/science/article/pii/S002002551930533X?via%3Dihub",
         "title": "A meta-learning recommender system for hyperparameter tuning: predicting when tuning improves SVM classifiers.",
-        "reference": "Information Sciences 501, 193-221, 2019"
+        "reference": "Information Sciences 501, 193-221, 2019",
+        "year": 2019
       },
       {
         "authors": "Gijsbers, P. Vanschoren, J.",
         "url": "http://joss.theoj.org/papers/10.21105/joss.01132",
         "title": "GAMA: Genetic Automated Machine learning Assistant.",
-        "reference": "Journal of Open Source Software, 4 (33), 1-2, 2019"
+        "reference": "Journal of Open Source Software, 4 (33), 1-2, 2019",
+        "year": 2019
       },
       {
         "authors": "van Rijn, J.N., Holmes, G., Pfahringer, B., Vanschoren, J.",
         "url": "https://link.springer.com/content/pdf/10.1007%2Fs10994-017-5686-9.pdf",
         "title": "The online performance estimation framework: Heterogeneous Ensemble Learning for Data Streams.",
-        "reference": "Machine Learning, 107 (1), 149-176, 2018"
+        "reference": "Machine Learning, 107 (1), 149-176, 2018",
+        "year": 2018
       },
       {
         "authors": "Olier, I., Sadawi, N., Bickerton, G.R., Vanschoren, J., Grosan, C., Soldatova, L., King, R.D.",
         "url": "https://link.springer.com/content/pdf/10.1007%2Fs10994-017-5685-x.pdf",
         "title": "Meta-QSAR: learning how to learn QSARs.",
-        "reference": "Machine Learning, 107 (1), 285-311, 2018"
+        "reference": "Machine Learning, 107 (1), 285-311, 2018",
+        "year": 2018
       },
       {
         "authors": "Abdulrahman, S, Brazdil, P., van Rijn, J.N., Vanschoren, J.",
         "url": "",
         "title": "Speeding up Algorithm Selection via Meta-learning and Active Testing.",
-        "reference": "Machine Learning, 107 (1), 79-108, 2018"
+        "reference": "Machine Learning, 107 (1), 79-108, 2018",
+        "year": 2018
       },
       {
         "authors": "Casalicchio, G., Hofner, B., Lang, M., Kirchhoff, D., Kerschke, P., Seibold, H., Bossek, J.,  Vanschoren, J., Bischl, B.",
         "url": "https://arxiv.org/abs/1701.01293",
         "title": "OpenML: An R Package to Connect to the Networked Machine Learning Platform.",
-        "reference": "Computational Statistics, 32 (3), 1-15, 2017"
+        "reference": "Computational Statistics, 32 (3), 1-15, 2017",
+        "year": 2017
       },
       {
         "authors": "Eerikainen, L.M., Vanschoren, J., Rooijakkers, M.J., Vullings, R., Aarts, R.M.",
         "url": "https://www.researchgate.net/publication/305645179",
         "title": "Reduction of false arrhythmia alarms using signal selection and machine learning.",
-        "reference": "Physiological Measurement, 37 (8), 1204- 1216, 2016"
+        "reference": "Physiological Measurement, 37 (8), 1204- 1216, 2016",
+        "year": 2016
       },
       {
         "authors": "Bischl, B., Kerschke, P., Kotthoff, L., Lindauer, M., Malitsky, Y., Frechette, A., Hoos, H., Hutter, F., Leyton-Brown, K., Tierney, K., Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/277958776",
         "title": "ASlib: A Benchmark Library for Algorithm Selection.",
-        "reference": "Artificial Intelligence, 237, 41-58, 2016"
+        "reference": "Artificial Intelligence, 237, 41-58, 2016",
+        "year": 2016
       },
       {
         "authors": "Gao, B., Berendt, B. and Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/307630558",
         "title": "Towards understanding online sentiment expression - An interdisciplinary approach with subgroup comparison and visualization.",
-        "reference": "Social Network Analysis and Mining, 6 (1), 68:1-68:16, 2016"
+        "reference": "Social Network Analysis and Mining, 6 (1), 68:1-68:16, 2016",
+        "year": 2016
       },
       {
         "authors": "Vanschoren, J., van Rijn, J.N., Bischl, B. and Torgo, L.",
         "url": "https://www.researchgate.net/publication/263890323",
         "title": "OpenML: networked science in machine learning.",
-        "reference": "ACM SIGKDD Explorations, 15 (2), 49-60, 2013"
+        "reference": "ACM SIGKDD Explorations, 15 (2), 49-60, 2013",
+        "year": 2013
       },
       {
         "authors": "Serban, F.*, Vanschoren, J.*, Kietz, J.U. and Bernstein, A.",
         "url": "https://www.researchgate.net/publication/262405094",
         "title": "A Survey of Intelligent Assistants for Data Analysis.",
-        "reference": "ACM Computing Surveys, 45 (3), Art. 31, 2013"
+        "reference": "ACM Computing Surveys, 45 (3), Art. 31, 2013",
+        "year": 2013
       },
       {
         "authors": "Vanschoren, J., Blockeel, H., Pfahringer, B. and Holmes, G.",
         "url": "https://www.researchgate.net/publication/257618363",
         "title": "Experiment Databases: A new way to share, organize and learn from experiments.",
-        "reference": "Machine Learning, 87(2), 127-158, 2012"
+        "reference": "Machine Learning, 87(2), 127-158, 2012",
+        "year": 2012
       }
     ],
     "conference papers": [
@@ -962,139 +979,162 @@
         "authors": "Bischl, B., Casalicchio, G., Feurer, M., Hutter, F., Lang, M., Mantovani, R.G., van Rijn, J.N., Vanschoren, J.",
         "url": "https://openreview.net/forum?id=OCrD8ycKjG",
         "title": "OpenML benchmarking suites",
-        "reference": "Proceedings of the NeurIPS Track on Datasets and Benchmarks 2021"
+        "reference": "Proceedings of the NeurIPS Track on Datasets and Benchmarks 2021",
+        "year": 2021
       },
       {
         "authors": "Gijsbers, P., Vanschoren, J.",
         "url": "https://arxiv.org/pdf/2007.04911.pdf",
         "title": "GAMA: A General Automated Machine learning Assistant",
-        "reference": "Proceedings of ECMLPKDD 2020. Lecture Notes in Computer Science, 12461 (2021). p560-564"
+        "reference": "Proceedings of ECMLPKDD 2020. Lecture Notes in Computer Science, 12461 (2021). p560-564",
+        "year": 2021
       },
       {
         "authors": "Gijsbers, P., Pfisterer, F., van Rijn, J.N., Bischl, B., Vanschoren, J.",
         "url": "https://arxiv.org/pdf/2007.04911.pdf",
         "title": "Meta-Learning for Symbolic Hyperparameter Defaults",
-        "reference": "Genetic and Evolutionary Computation Conference (GECCO) Companion, 2021"
+        "reference": "Genetic and Evolutionary Computation Conference (GECCO) Companion, 2021",
+        "year": 2021
       },
       {
         "authors": "Grootendorst, M., Vanschoren, J.",
         "url": "https://ecmlpkdd2019.org/downloads/paper/489.pdf",
         "title": "Beyond Bag-of-Concepts: Vectors of Locally Aggregated Concepts",
-        "reference": "Proceedings of ECMLPKDD 2019"
+        "reference": "Proceedings of ECMLPKDD 2019",
+        "year": 2019
       },
       {
         "authors": "van Rijn, J.N., Holmes, G., Pfahringer, B., Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/289252355",
         "title": "Having a Blast: Meta-Learning and Heterogeneous Ensembles for Data Streams",
-        "reference": "IEEE Proceedings of ICDM 2015"
+        "reference": "IEEE Proceedings of ICDM 2015",
+        "year": 2015
       },
       {
         "authors": "Vanschoren, J., Bischl, B., Hutter, F., Sebag, M., Kegl, B., Schmid, M., Napolitano, G., Wolstencroft, K., Williams, A.R, Lawrence, N",
         "url": "https://www.researchgate.net/publication/289828607",
         "title": "Towards a Data Science Collaboratory",
-        "reference": "Advances in Intelligent Data Analysis XIV (IDA 2015), Lecture Notes in Computer Science 9385, XIX-XXI"
+        "reference": "Advances in Intelligent Data Analysis XIV (IDA 2015), Lecture Notes in Computer Science 9385, XIX-XXI",
+        "year": 2015
       },
       {
         "authors": "van Rijn, J.N., Abdulrahman, S.M., Brazdil, P. and Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/289380279",
         "title": "Fast Algorithm Selection Using Learning Curves",
-        "reference": "Advances in Intelligent Data Analysis XIV (IDA 2015), Lecture Notes in Computer Science 9385, 298-309"
+        "reference": "Advances in Intelligent Data Analysis XIV (IDA 2015), Lecture Notes in Computer Science 9385, 298-309",
+        "year": 2015
       },
       {
         "authors": "Vanschoren, J,. van Rijn, J.N. and Bischl, B.",
         "url": "https://www.researchgate.net/publication/289253193",
         "title": "Taking machine learning research online with OpenML",
-        "reference": "JMLR Workshop and Conference Proceedings (BigMine 2015), 41, 1-4, 2015"
+        "reference": "JMLR Workshop and Conference Proceedings (BigMine 2015), 41, 1-4, 2015",
+        "year": 2015
       },
       {
         "authors": "Eerikainen, L.M., Vanschoren, J., Rooijakkers, M.J., Vullings, R., Aarts, R.M.",
         "url": "https://www.researchgate.net/publication/289996580",
         "title": "Decreasing the False Alarm Rate of Arrhythmias in Intensive Care Using a Machine Learning Approach",
-        "reference": "IEEE Computing in Cardiology, 42, 293-297, 2015"
+        "reference": "IEEE Computing in Cardiology, 42, 293-297, 2015",
+        "year": 2015
       },
       {
         "authors": "Gao, B., Berendt, B. and Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/289252401",
         "title": "Who is more positive in private? Analyzing sentiment differences across privacy levels and demographic factors in Facebook chats and posts",
-        "reference": "IEEE/ACM Proceedings of ASONAM 2015, 605-610"
+        "reference": "IEEE/ACM Proceedings of ASONAM 2015, 605-610",
+        "year": 2015
       },
       {
         "authors": "Mantovani, R.G., Rossi, A.L.D., Vanschoren, J., Bischl, B. and Carvalho, A.C.P.L.F.",
         "url": "https://www.researchgate.net/publication/275966269",
         "title": "To tune or not to tune: Recommending when to adjust SVM hyper-parameters via meta-learning",
-        "reference": "IEEE Proceedings of IJCNN 2015, 1-8"
+        "reference": "IEEE Proceedings of IJCNN 2015, 1-8",
+        "year": 2015
       },
       {
         "authors": "Mantovani, R.G., Rossi, A.L.D., Vanschoren, J., Bischl, B. and Carvalho, A.C.P.L.F.",
         "url": "https://www.researchgate.net/publication/275966194",
         "title": "Effectiveness of Random Search in SVM hyper-parameter tuning",
-        "reference": "IEEE Proceedings of IJCNN 2015, 1-8"
+        "reference": "IEEE Proceedings of IJCNN 2015, 1-8",
+        "year": 2015
       },
       {
         "authors": "van Rijn, J.N., Holmes, G., Pfahringer, B. and Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/267213201",
         "title": "Algorithm Selection on Data Streams.",
-        "reference": "Proceedings of Discovery Science 2014. Lecture Notes in Computer Science 8777, 325-336."
+        "reference": "Proceedings of Discovery Science 2014. Lecture Notes in Computer Science 8777, 325-336.",
+        "year": 2014
       },
       {
         "authors": "van Rijn, J., Bischl, B., Torgo, L., Gao, B., Umaashankar, V., Fischer, S., Winter, P., Wiswedel, B., Berthold, M.R., and Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/257364389",
         "title": "OpenML: A Collaborative Science Platform.",
-        "reference": "Proceedings of ECMLPKDD 2013, Lecture Notes in Computer Science 8190, 645-649"
+        "reference": "Proceedings of ECMLPKDD 2013, Lecture Notes in Computer Science 8190, 645-649",
+        "year": 2013
       },
       {
         "authors": "Reuttemann, P., Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/260311281",
         "title": "Scientific Workflow Management with ADAMS.",
-        "reference": "Proceedings of ECMLPKDD 2012, Lecture Notes in Computer Science 7524, 833-837"
+        "reference": "Proceedings of ECMLPKDD 2012, Lecture Notes in Computer Science 7524, 833-837",
+        "year": 2012
       },
       {
         "authors": "Vespier, U., Knobbe, A.J., Nijssen, S., Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/260311284",
         "title": "MDL-Based Analysis of Time Series at Multiple Time-Scales.",
-        "reference": "Proceedings of ECMLPKDD 2012, Lecture Notes in Computer Science 7524, 371-386"
+        "reference": "Proceedings of ECMLPKDD 2012, Lecture Notes in Computer Science 7524, 371-386",
+        "year": 2012
       },
       {
         "authors": "Leite, R., Brazdil P., Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/260311386",
         "title": "Selecting Classification Algorithms with Active Testing.",
-        "reference": "Proceedings of MLDM 2012, Lecture Notes in Computer Science 7376, 117-131"
+        "reference": "Proceedings of MLDM 2012, Lecture Notes in Computer Science 7376, 117-131",
+        "year": 2012
       },
       {
         "authors": "Vespier, U., Knobbe, A., Vanschoren, J., Miao, S., Koopman, A., Obladen, B., and Bosma, C.",
         "url": "https://www.researchgate.net/publication/221461028",
         "title": "Traffic Events Modeling for Structural Health Monitoring.",
-        "reference": "Proceedings of IDA 2011, Lecture Notes in Computer Science 7014, 276-387"
+        "reference": "Proceedings of IDA 2011, Lecture Notes in Computer Science 7014, 276-387",
+        "year": 2011
       },
       {
         "authors": "Vanschoren, J., Blockeel, H.",
         "url": "https://www.researchgate.net/publication/220699153",
         "title": "A community-based platform for machine learning experimentation.",
-        "reference": "Proceedings of ECMLPKDD 2009, Lecture Notes In Computer Science 5782, 750-754"
+        "reference": "Proceedings of ECMLPKDD 2009, Lecture Notes In Computer Science 5782, 750-754",
+        "year": 2009
       },
       {
         "authors": "Vanschoren, J., Pfahringer, B., Holmes, G.",
         "url": "https://www.researchgate.net/publication/33051185",
         "title": "Learning from the past with experiment databases.",
-        "reference": "Proceedings of PRICAI 2008, Lecture Notes in Artificial Intelligence 5351, 485-496"
+        "reference": "Proceedings of PRICAI 2008, Lecture Notes in Artificial Intelligence 5351, 485-496",
+        "year": 2008
       },
       {
         "authors": "Vanschoren, J., Blockeel, H., Pfahringer, B., Holmes, G.",
         "url": "https://www.researchgate.net/publication/221430852",
         "title": "Organizing the world's machine learning information.",
-        "reference": "Proceedings of ISOLA 2008, Communications in Computer and Information Science, 17, 693-708"
+        "reference": "Proceedings of ISOLA 2008, Communications in Computer and Information Science, 17, 693-708",
+        "year": 2008
       },
       {
         "authors": "Vanschoren, J., Blockeel, H.",
         "url": "https://www.researchgate.net/publication/221649448",
         "title": "Investigating classifier learning behavior with experiment databases.",
-        "reference": "Proceedings of GfKL 2008, Data Analysis, Machine Learning and Applications, 421-428"
+        "reference": "Proceedings of GfKL 2008, Data Analysis, Machine Learning and Applications, 421-428",
+        "year": 2008
       },
       {
         "authors": "Blockeel, H.*, Vanschoren, J.*",
         "url": "https://www.researchgate.net/publication/220699279",
         "title": "Experiment databases: Towards an improved experimental methodology in machine learning.",
-        "reference": "Proceedings of ECMLPKDD 2007, Lecture Notes in Computer Science 4702, 6-17"
+        "reference": "Proceedings of ECMLPKDD 2007, Lecture Notes in Computer Science 4702, 6-17",
+        "year": 2007
       }
     ],
     "workshop papers": [
@@ -1102,247 +1142,288 @@
         "authors": "Zhou, F., Vanschoren, J.",
         "title": "Open-Ended Learning Strategies for Learning Complex Locomotion Skills",
         "reference": "Workshop on Meta-Learning @ NeurIPS 2021",
-        "url": "https://openreview.net/forum?id=l8c9NYgA4Lw"
+        "url": "https://openreview.net/forum?id=l8c9NYgA4Lw",
+        "year": 2021
       },
       {
         "authors": "Schragen, L., Vanschoren, J.",
         "topic": "Variational Task Encoders for Model-Agnostic Meta-Learning with Uncertainty over Task Distributions",
         "reference": "Workshop on Meta-Learning @ NeurIPS 2021",
-        "url": "https://openreview.net/forum?id=dfYhf5IuMPE"
+        "url": "https://openreview.net/forum?id=dfYhf5IuMPE",
+        "year": 2021
       },
       {
         "authors": "van Lith, J., Vanschoren, J.",
         "topic": "From strings to data science: a practical framework for automated string handling",
         "reference": "Workshop on Automated Data Science @ ECMLPKDD 2021",
-        "url": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers%2Fautods2021%5Fpaper%5F12%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVJNYjRYWDJ0UXhMbjdIMFFidGxWSDBCRTVSMjM2OER0VGQtdVlZMGVZekYyQT9ydGltZT1zZ2dyMHhxYjJVZw"
+        "url": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers%2Fautods2021%5Fpaper%5F12%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVJNYjRYWDJ0UXhMbjdIMFFidGxWSDBCRTVSMjM2OER0VGQtdVlZMGVZekYyQT9ydGltZT1zZ2dyMHhxYjJVZw",
+        "year": 2021
       },
       {
         "authors": "El Baz, A., Guyon, I., Lui, Z., van Rijn, JN, Treguer, S., Vanschoren, J.",
         "url": "http://proceedings.mlr.press/v140/el-baz21a/el-baz21a.pdf",
         "title": "Meta-DeepLearning challenge design and baseline results",
-        "reference": "Workshop on Meta-Learning @ AAAI 2021."
+        "reference": "Workshop on Meta-Learning @ AAAI 2021.",
+        "year": 2021
       },
       {
         "authors": "Robles, J., Vanschoren, J.",
         "url": "https://arxiv.org/abs/1911.03769",
         "title": "Learning to reinforcement learn for Neural Architecture Search.",
-        "reference": "New in ML Symposium @ NeurIPS 2019."
+        "reference": "New in ML Symposium @ NeurIPS 2019.",
+        "year": 2019
       },
       {
         "authors": "Manolache. G., Vanschoren, J.",
         "url": "http://metalearning.ml/2019/papers/metalearn2019-manolache.pdf",
         "title": "Meta-Learning for Algorithm and Hyperparameter Optimization with Surrogate Model Ensembles.",
-        "reference": "Metalearning Workshop @ NeurIPS 2019."
+        "reference": "Metalearning Workshop @ NeurIPS 2019.",
+        "year": 2019
       },
       {
         "authors": "Castelijns, L.A., Maas, Y., Vanschoren, J.",
         "url": "https://pure.tue.nl/admin/files/166684084/BEP_Classifying_Datasets_into_ABC_Bands_LNCS_Version.pdf",
         "title": "The ABC of Data: A Classifying Framework for Data Readiness.",
-        "reference": "Workshop on Automating Data Science @ ECMLPKDD 2019."
+        "reference": "Workshop on Automating Data Science @ ECMLPKDD 2019.",
+        "year": 2019
       },
       {
         "authors": "van Hoof, J., Vanschoren, J.",
         "url": "https://arxiv.org/pdf/2101.02289.pdf",
         "title": "HyperBoost: Hyperparameter Optimization by Gradient Boosting surrogate models.",
-        "reference": "Workshop on Automating Data Science @ ECMLPKDD 2019."
+        "reference": "Workshop on Automating Data Science @ ECMLPKDD 2019.",
+        "year": 2019
       },
       {
         "authors": "Celik, B., Vanschoren, J.",
         "url": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2019%2FFINAL%20PAPERS%2FNO%2DLNCS%2FADS%5F2019%5Fpaper%5F28%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2019%2FFINAL%20PAPERS%2FNO%2DLNCS&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVN5cE5kUTgtQTlFaEtPa2lERXJKcXNCdTk4dl9maDZsdEhRR3RYSGNPSjZDUT9ydGltZT1BRDlBRFpDeTJFZw",
         "title": "Learning to go with the flow: on the adaptability of automated machine learning to evolving data.",
-        "reference": "Workshop on Automating Data Science @ ECMLPKDD 2019."
+        "reference": "Workshop on Automating Data Science @ ECMLPKDD 2019.",
+        "year": 2019
       },
       {
         "authors": "Gijsbers, P., Ledell, E., Thomas, J., Poirier, S., Bischl, B., Vanschoren, J.",
         "url": "https://openml.github.io/automlbenchmark",
         "title": "An Open Source AutoML Benchmark",
-        "reference": "Automated Machine Learning workshop @ ICML 2019."
+        "reference": "Automated Machine Learning workshop @ ICML 2019.",
+        "year": 2019
       },
       {
         "authors": "van Rijn, J. N., Pfisterer, F., Thomas, J., Mueller, A., Bischl, B., Vanschoren, J.",
         "url": "http://metalearning.ml/2018/papers/metalearn2018_paper70.pdf",
         "title": "Meta learning for defaults: symbolic defaults.",
-        "reference": "Meta-learning Workshop @ NeurIPS 2018."
+        "reference": "Meta-learning Workshop @ NeurIPS 2018.",
+        "year": 2018
       },
       {
         "authors": "Zhu, Y., Aoun, M., Krijn, M., Vanschoren, J.",
         "url": "http://bmvc2018.org/contents/workshops/cvppp2018/0014.pdf",
         "title": "Data Augmentation using Conditional Generative Adversarial Networks for Leaf Counting in Arabidopsis Plants.",
-        "reference": "CCCPV Workshop @ BMVC 2018."
+        "reference": "CCCPV Workshop @ BMVC 2018.",
+        "year": 2018
       },
       {
         "authors": "Correa Publio, G., Esteves, D., Ławrynowicz, A., Panov, P., Soldatova, L., Soru, T., Vanschoren, J., Zafar, H.",
         "url": "",
         "title": "ML schema: exposing the semantics of machine learning with schemas and ontologies.",
-        "reference": "ICML 2018 Workshop on Reproducibility in Machine Learning."
+        "reference": "ICML 2018 Workshop on Reproducibility in Machine Learning.",
+        "year": 2018
       },
       {
         "authors": "Gijsbers, P., Vanschoren, J., Olson, R.",
         "url": "",
         "title": "Layered TPOT: Speeding up Tree-based Pipeline Optimization.",
-        "reference": "AutoML Workshop @ ECML 2017. CEUR Workshop Proceedings vol. 1998."
+        "reference": "AutoML Workshop @ ECML 2017. CEUR Workshop Proceedings vol. 1998.",
+        "year": 2017
       },
       {
         "authors": "Lawrynowicz, A., Esteves, D., Panov. P., Soru, T., Dzeroski, S., Vanschoren, J",
         "url": "https://www.researchgate.net/publication/308608405",
         "title": "An Algorithm, Implementation and Execution Ontology Design Pattern.",
-        "reference": "ISWC 2016 Workshop on Ontology and Semantic Web Patterns"
+        "reference": "ISWC 2016 Workshop on Ontology and Semantic Web Patterns",
+        "year": 2016
       },
       {
         "authors": "Mantovani, R.G., Horvath, T., Cerri, R., Carvalho, A.P.L.F., Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/308608633",
         "title": "Hyper-parameter Tuning of a Decision Tree Induction Algorithm.",
-        "reference": "Brazilian Conference on Intelligent Systems (BRACIS 2016)"
+        "reference": "Brazilian Conference on Intelligent Systems (BRACIS 2016)",
+        "year": 2016
       },
       {
         "authors": "Zhang, C., van Wissen, A., Lakens, D., Vanschoren, J., de Ruyter, B.E.R., IJsselsteijn, W.A.",
         "url": "https://www.researchgate.net/publication/305636593",
         "title": "Anticipating habit formation: a psychological computing approach to behavior change support.",
-        "reference": "UbiComp Adjunct, 2016: 1247-1254"
+        "reference": "UbiComp Adjunct, 2016: 1247-1254",
+        "year": 2016
       },
       {
         "authors": "Bischl, B., Bossek, J., Casalicchio, G., Hofner, B., Kerschke, P., Kirchhoff, D., Lang, M., Seibold, H., Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/308608826",
         "title": "Connecting R to the OpenML project for Open Machine Learning.",
-        "reference": "useR Conference 2016"
+        "reference": "useR Conference 2016",
+        "year": 2016
       },
       {
         "authors": "Abdulrahman, S, Brazdil, P., van Rijn, J.N., Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/283559030",
         "title": "Algorithm Selection via Meta-learning and Sample-based Active Testing.",
-        "reference": "MetaSel Workshop @ PKDD/ECML 2015, CEUR Workshop Proceedings 1455, 55-66"
+        "reference": "MetaSel Workshop @ PKDD/ECML 2015, CEUR Workshop Proceedings 1455, 55-66",
+        "year": 2015
       },
       {
         "authors": "Mantovani, R.G., Rossi, A.L.D., Vanschoren, J., Carvalho, A.C.P.L.F.",
         "url": "https://www.researchgate.net/publication/282809201",
         "title": "Meta-learning Recommendation of Default Hyper-parameter Values for SVMs in Classification Tasks",
-        "reference": "MetaSel Workshop @ PKDD/ECML 2015, CEUR Workshop Proceedings 1455, 80-92"
+        "reference": "MetaSel Workshop @ PKDD/ECML 2015, CEUR Workshop Proceedings 1455, 80-92",
+        "year": 2015
       },
       {
         "authors": "van Rijn, J.N., Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/283764352",
         "title": "Sharing RapidMiner Workflows and Experiments with OpenML.",
-        "reference": "MetaSel Workshop @ PKDD/ECML 2015, CEUR Workshop Proceedings 1455, 93-103"
+        "reference": "MetaSel Workshop @ PKDD/ECML 2015, CEUR Workshop Proceedings 1455, 93-103",
+        "year": 2015
       },
       {
         "authors": "Vukicevic, M., Radovanovic, S., Vanschoren, J., Napolitano, G., Delibasic, B.",
         "url": "https://www.researchgate.net/publication/289380566",
         "title": "Towards a Collaborative Platform for Advanced Meta-Learning in Healthcare Predictive Analytics.",
-        "reference": "MetaSel Workshop @ PKDD/ECML 2015, CEUR Workshop Proceedings 1455, 112-114"
+        "reference": "MetaSel Workshop @ PKDD/ECML 2015, CEUR Workshop Proceedings 1455, 112-114",
+        "year": 2015
       },
       {
         "authors": "Knobbe A.J., Meeng M. Vanschoren J., Rees Jones S., Merlo Penning S.",
         "url": "https://www.researchgate.net/publication/275966769",
         "title": "Reconstructing Medieval Social Networks from English and Latin Charters.",
-        "reference": "Population Reconstruction 2014"
+        "reference": "Population Reconstruction 2014",
+        "year": 2014
       },
       {
         "authors": "van Rijn, J.N., Holmes, G., Pfahringer, B. and Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/267213271",
         "title": "Towards Meta-learning on Data Streams.",
-        "publication": "MetaSel Workshop @ ECAI 2014, CEUR Workshop Proceedings, 1201, 37-38"
+        "publication": "MetaSel Workshop @ ECAI 2014, CEUR Workshop Proceedings, 1201, 37-38",
+        "year": 2014
       },
       {
         "authors": "Vanschoren, J., Braun, M. and Ong, C.S.",
         "url": "https://www.researchgate.net/publication/260366696",
         "title": "Open science in machine learning.",
-        "reference": "Proceedings of CLADAG 2013, 462-465."
+        "reference": "Proceedings of CLADAG 2013, 462-465.",
+        "year": 2013
       },
       {
         "authors": "van Rijn, J., Umaashankar, V., Fischer, S., Bischl, B., Torgo, L., Gao, B., Winter, P., Wiswedel, B., Berthold, M.R., and Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/260311444",
         "title": "A RapidMiner extension for Open Machine Learning.",
-        "reference": "Proceedings of RCOMM 2013, 59-70."
+        "reference": "Proceedings of RCOMM 2013, 59-70.",
+        "year": 2013
       },
       {
         "authors": "van Rijn, J. and Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/260311303",
         "title": "OpenML: An Open Science Platform for Machine Learning.",
-        "reference": "Machine Learning Conference of Belgium and The Netherlands 2013, 99-100"
+        "reference": "Machine Learning Conference of Belgium and The Netherlands 2013, 99-100",
+        "year": 2013
       },
       {
         "authors": "Miao S., Vespier U., Vanschoren J. Knobbe A.J., De Gouveia da Costa Cachucho R.E.",
         "url": "https://www.researchgate.net/publication/261623484",
         "title": "Modeling Sensor Dependencies between Multiple Sensor Types.",
-        "reference": "Machine Learning Conference of Belgium and The Netherlands 2013, p. 66-73"
+        "reference": "Machine Learning Conference of Belgium and The Netherlands 2013, p. 66-73",
+        "year": 2013
       },
       {
         "authors": "Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/275967146",
         "title": "The Experiment Database for machine learning.",
-        "reference": "PlanLearn Workshop @ ECAI 2012, CEUR Workshop Proceedings, 950, 30-37"
+        "reference": "PlanLearn Workshop @ ECAI 2012, CEUR Workshop Proceedings, 950, 30-37",
+        "year": 2012
       },
       {
         "authors": "Leite, R., Brazdil P., Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/275966928",
         "title": "Selecting Classification Algorithms with Active Testing on Similar Datasets.",
-        "reference": "PlanLearn Workshop @ ECAI 2012, CEUR Workshop Proceedings, 950, 30-37"
+        "reference": "PlanLearn Workshop @ ECAI 2012, CEUR Workshop Proceedings, 950, 30-37",
+        "year": 2012
       },
       {
         "authors": "Vespier, U., Knobbe, A., Nijssen, S., Vanschoren, S.",
         "url": "https://www.researchgate.net/publication/289380384",
         "title": "MDL-Based Identification of Relevant Temporal Scales in Time Series.",
-        "reference": "Workshop on Information Theoretic Methods in Science and Engineering, WITMSE 2012"
+        "reference": "Workshop on Information Theoretic Methods in Science and Engineering, WITMSE 2012",
+        "year": 2012
       },
       {
         "authors": "Gao, B. and Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/260311308",
         "title": "Visualizations of Machine Learning Behavior with Dimensionality Reduction Techniques.",
-        "reference": "Machine Learning Conference of Belgium and The Netherlands 2011, 35-42."
+        "reference": "Machine Learning Conference of Belgium and The Netherlands 2011, 35-42.",
+        "year": 2011
       },
       {
         "authors": "Miao, S., Knobbe, A., Vanschoren, J., Vespier, U., Koopman, A., Cachucho, R., Chen, X.",
         "url": "https://www.researchgate.net/publication/289380568",
         "title": "A Range of Data Mining Techniques to Correlate Multiple Sensor Types.",
-        "reference": "Dutch-Belgian Database Day 2011, Art.5"
+        "reference": "Dutch-Belgian Database Day 2011, Art.5",
+        "year": 2011
       },
       {
         "authors": "Vanschoren, J., Soldatova, S.",
         "url": "https://www.researchgate.net/publication/228525536",
         "title": "Exposé: An Ontology for Data Mining Experiments.",
-        "reference": "Workshop on Third Generation Data Mining @ ECMLPKDD 2010, 31-46"
+        "reference": "Workshop on Third Generation Data Mining @ ECMLPKDD 2010, 31-46",
+        "year": 2010
       },
       {
         "authors": "Vanschoren, J., Soldatova, S.",
         "url": "https://www.researchgate.net/publication/228346232",
         "title": "Collaborative Meta-Learning.",
-        "reference": "Planning to Learn workshop @ ECAI 2010, 37-46"
+        "reference": "Planning to Learn workshop @ ECAI 2010, 37-46",
+        "year": 2010
       },
       {
         "authors": "Vanschoren, J., Blockeel, H.",
         "url": "https://www.researchgate.net/publication/242142515",
         "title": "Stand on the shoulders of giants: towards a portal for collaborative experimentation in data mining.",
-        "reference": "3rd Generation Data Mining Workshop @ ECMLPKDD 2009, 88-99"
+        "reference": "3rd Generation Data Mining Workshop @ ECMLPKDD 2009, 88-99",
+        "year": 2009
       },
       {
         "authors": "Bauzá, M., Vanschoren, J., Funes, M.P., Barrera, G.M., López De Luise, D.",
         "url": "https://www.researchgate.net/publication/266498517",
         "title": "Sistema de Autentificación Facial.",
-        "reference": "Congreso de Inteligencia Computacional Aplicada (CICA) 2009"
+        "reference": "Congreso de Inteligencia Computacional Aplicada (CICA) 2009",
+        "year": 2009
       },
       {
         "authors": "Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/289380495",
         "title": "Experiment databases for machine learning.",
-        "reference": "NIPS Workshop on Machine Learning Open Source Software @ NIPS 2008"
+        "reference": "NIPS Workshop on Machine Learning Open Source Software @ NIPS 2008",
+        "year": 2008
       },
       {
         "authors": "Vanschoren, J., Blockeel, H., Pfahringer, B., Holmes, G.",
         "url": "https://www.researchgate.net/publication/33051998",
         "title": "Experiment databases: Creating a new platform for meta-learning research.",
-        "reference": "Planning to Learn Workshop @ ICML 2008, 10-15"
+        "reference": "Planning to Learn Workshop @ ICML 2008, 10-15",
+        "year": 2008
       },
       {
         "authors": "Vanschoren, J., Van Assche, A., Vens, C., Blockeel, H.",
         "url": "https://www.researchgate.net/publication/228951137",
         "title": "Meta-learning from experiment databases: An illustration.",
-        "reference": "Machine Learning Conference of Belgium and The Netherlands 2007, 120-127"
+        "reference": "Machine Learning Conference of Belgium and The Netherlands 2007, 120-127",
+        "year": 2007
       },
       {
         "authors": "Vanschoren, J., Blockeel, H.",
         "url": "https://www.researchgate.net/publication/228376299",
         "title": "Towards understanding learning behavior.",
-        "reference": "Machine Learning Conference of Belgium and The Netherlands 2006, 89-96"
+        "reference": "Machine Learning Conference of Belgium and The Netherlands 2006, 89-96",
+        "year": 2006
       }
     ],
     "book chapters": [
@@ -1350,37 +1431,43 @@
         "authors": "Vanschoren, J",
         "url": "https://www.automl.org/wp-content/uploads/2019/05/AutoML_Book_Chapter2.pdf",
         "title": "Meta-Learning",
-        "reference": "In: Automatic Machine Learning: Methods, Systems, Challenges. Springer 2019"
+        "reference": "In: Automatic Machine Learning: Methods, Systems, Challenges. Springer 2019",
+        "year": 2019
       },
       {
         "authors": "Lawrynowicz,  A.,  Esteves,  D.,  Panov.   P.,  Soru,  T.,  Dzeroski,  S.,  Vanschoren,  J",
         "url": "https://www.researchgate.net/publication/308608405",
         "title": "An  Algorithm, Implementation and Execution Ontology Design Pattern",
-        "reference": "In: Studies on the Semantic Web (Hitzler.P., Gangemi, A., Janowicz, K., Krisnadhi, A., Presutti, V., eds.), IOS Press."
+        "reference": "In: Studies on the Semantic Web (Hitzler.P., Gangemi, A., Janowicz, K., Krisnadhi, A., Presutti, V., eds.), IOS Press.",
+        "year": 2016
       },
       {
         "authors": "Vanschoren, J., Vespier, U., Miao, S., Cachucho, R. and Knobbe, A.",
         "url": "https://www.researchgate.net/publication/260311405",
         "title": "Large-scale sensor network analysis.",
-        "reference": "In: Big Data Management, Technologies, and Applications (W-C. Hu, N. Kaabouch, ed.), IGI Global, 2013"
+        "reference": "In: Big Data Management, Technologies, and Applications (W-C. Hu, N. Kaabouch, ed.), IGI Global, 2013",
+        "year": 2013
       },
       {
         "authors": "Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/226597515",
         "title": "Meta-learning architectures.",
-        "reference": "In: Meta-learning in Computational Intelligence (N. Jankowski, W. Duch, K. Grabczewski, ed.), Springer, 2011"
+        "reference": "In: Meta-learning in Computational Intelligence (N. Jankowski, W. Duch, K. Grabczewski, ed.), Springer, 2011",
+        "year": 2011
       },
       {
         "authors": "Berendt, B., Vanschoren, J. and Gao, B.",
         "url": "https://www.researchgate.net/publication/260311541",
         "title": "Datenanalyse und -visualisierung.",
-        "reference": "In: Handbuch Forschungsdatenmanagement (S. Büttner, H-C. Hobohm, L. Müller, ed.), Bock+Herchen, 2011"
+        "reference": "In: Handbuch Forschungsdatenmanagement (S. Büttner, H-C. Hobohm, L. Müller, ed.), Bock+Herchen, 2011",
+        "year": 2011
       },
       {
         "authors": "Vanschoren, J., Blockeel, H.",
         "url": "https://www.researchgate.net/publication/226922608",
         "title": "Experiment Databases.",
-        "publication": "In: Inductive Databases and Constraint-Based Data Mining (S. Dzeroski, B. Goethals, P. Panov, ed.), Springer, 2010"
+        "publication": "In: Inductive Databases and Constraint-Based Data Mining (S. Dzeroski, B. Goethals, P. Panov, ed.), Springer, 2010",
+        "year": 2010
       }
     ],
     "books edited": [
@@ -1388,55 +1475,64 @@
         "authors": "Hutter, F., Kotthoff, L., Vanschoren, J. (Eds.)",
         "url": "https://www.springer.com/us/book/9783030053178",
         "title": "Automatic Machine Learning: Methods, Systems, Challenges.",
-        "reference": "Springer 2019"
+        "reference": "Springer 2019",
+        "year": 2019
       },
       {
         "authors": "Soldatova, L., Vanschoren, J., Papadopoulos, G., Ceci, M. (Eds.)",
         "url": "https://link.springer.com/book/10.1007%2F978-3-030-01771-2",
         "title": "Proceedings of the 21st International Conference on Discovery Science",
-        "reference": "Lecture Notes in Artificial Intelligence 11198, DS 2018"
+        "reference": "Lecture Notes in Artificial Intelligence 11198, DS 2018",
+        "year": 2018
       },
       {
         "authors": "Duivesteijn, W. Pechenizkiy, M., Fletcher, G. H. L., Menkovski, V., Postma, E. J., Vanschoren, J. (Eds.)",
         "url": "https://pure.tue.nl/ws/files/72619856/benelearn_2017.pdf",
         "title": "Proceedings of the Twenty-Sixth Benelux Conference on Machine Learning",
-        "reference": "Eindhoven University of Technology Eindhoven, 2017"
+        "reference": "Eindhoven University of Technology Eindhoven, 2017",
+        "year": 2017
       },
       {
         "authors": "Festa, P., Sellmann, M., Vanschoren, J. (Eds.)",
         "url": "https://www.springer.com/gp/book/9783319503486",
         "title": "Proceedings of the 10th International Conference on Learning and Intelligent Optimization",
-        "reference": "Lecture Notes in Computer Science 10079, LION 2016"
+        "reference": "Lecture Notes in Computer Science 10079, LION 2016",
+        "year": 2016
       },
       {
         "authors": "Vanschoren, J., Brazdil, P., Giraud-Carrier, C.G., Kotthoff, L. (Eds.)",
         "url": "https://www.researchgate.net/publication/289380479",
         "title": "Proceedings of the 2015 International Workshop on Meta-Learning and Algorithm Selection @ ECMLPKDD",
-        "reference": "CEUR Workshop Proceedings 1455, CEUR 2015"
+        "reference": "CEUR Workshop Proceedings 1455, CEUR 2015",
+        "year": 2015
       },
       {
         "authors": "Vanschoren, J., Brazdil, P., Soares, C., Kotthoff, L. (Eds.)",
         "url": "https://www.researchgate.net/publication/275966998",
         "title": "Proceedings of the 2014 International Workshop on Meta-Learning and Algorithm Selection @ ECAI",
-        "reference": "CEUR Workshop Proceedings 1201, CEUR 2014"
+        "reference": "CEUR Workshop Proceedings 1201, CEUR 2014",
+        "year": 2014
       },
       {
         "authors": "Vanschoren, J., Brazdil, P., Kietz, J-U. (Eds.)",
         "url": "https://www.researchgate.net/publication/260311461",
         "title": "Proceedings of the International Workshop on Planning to Learn @ ECAI",
-        "reference": "CEUR Workshop Proceedings 950, CEUR 2012"
+        "reference": "CEUR Workshop Proceedings 950, CEUR 2012",
+        "year": 2012
       },
       {
         "authors": "Vanschoren, J., Duivesteijn, W. (Eds.)",
         "url": "https://www.researchgate.net/publication/260311717",
         "title": "The Silver Lining. Proceedings of the International Workshop on Learning from Unexpected Results @ ECMLPKDD",
-        "reference": "Leiden University"
+        "reference": "Leiden University",
+        "year": 2012
       },
       {
         "authors": "van der Putten, P.H.W, Veenman, C., Vanschoren, J., Israel, M., Blockeel, H. (Eds.)",
         "url": "https://www.researchgate.net/publication/275967042",
         "title": "Proceedings of the 20th Annual Belgian-Dutch Conference on Machine Learning",
-        "reference": "Leiden University, 2011"
+        "reference": "Leiden University, 2011",
+        "year": 2011
       }
     ],
     "dissertations": [
@@ -1444,13 +1540,15 @@
         "authors": "Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/289380311",
         "title": "Understanding Machine Learning Performance with Experiment Databases",
-        "reference": "PhD Thesis, Katholieke Universiteit Leuven, 2010"
+        "reference": "PhD Thesis, Katholieke Universiteit Leuven, 2010",
+        "year": 2010
       },
       {
         "authors": "Vanschoren, J.",
         "url": "https://www.researchgate.net/publication/289380388",
         "title": "A framework for high-level perception",
-        "reference": "MSc Thesis, Katholieke Universiteit Leuven, 2005"
+        "reference": "MSc Thesis, Katholieke Universiteit Leuven, 2005",
+        "year": 2005
       }
     ],
     "preprints": [
@@ -1458,67 +1556,78 @@
         "authors": "van den Brandt, I., Fok, F., Mulders, B., Vanschoren, J., Cheplygina, V.",
         "url": "https://arxiv.org/pdf/2107.05940.pdf",
         "title": "Cats, not CAT scans: a study of dataset similarity in transfer learning for 2D medical image classification",
-        "reference": "arXiv preprint arXiv:2107.05940, 2021"
+        "reference": "arXiv preprint arXiv:2107.05940, 2021",
+        "year": 2021
       },
       {
         "authors": "Ullah, I., Vu, P.A., Sun, H., Huisman, M., Mohr, F., van Rijn, J.N., Plaat, A., El Baz, A>, Liu, Z., Vanschoren, J., Guyon, I.",
         "url": "https://openreview.net/pdf?id=7DEE3XXOUBd",
         "title": "Meta-Album: Multi-domain Benchmark for Few-Shot Image Classification",
-        "reference": "openreview:7DEE3XXOUBd, 2021"
+        "reference": "openreview:7DEE3XXOUBd, 2021",
+        "year": 2021
       },
       {
         "authors": "Beishuizen, T. P., Vanschoren, J., Hilbers, P. A., & Bošnački, D.",
         "url": "https://assets.researchsquare.com/files/rs-563410/v1_covered.pdf?c=1634050550",
         "title": "Automated Feature Selection and Classification for High-Dimensional Biomedical Data",
-        "reference": "ResearchSquare, 2021"
+        "reference": "ResearchSquare, 2021",
+        "year": 2021
       },
       {
         "authors": "Goyal, R., Vanschoren, J., Van Acht, V., & Nijssen, S.",
         "url": "https://arxiv.org/pdf/2102.02147.pdf",
         "title": "Fixed-point Quantization of Convolutional Neural Networks for Quantized Inference on Embedded Platforms",
-        "reference": "arXiv preprint arXiv:2102.02147"
+        "reference": "arXiv preprint arXiv:2102.02147",
+        "year": 2021
       },
       {
         "authors": "van Hoof,  J.,  Vanschoren,  J.",
         "url": "https://arxiv.org/abs/2101.02289",
         "title": "Hyperboost: Hyperparameter Optimization by Gradient Boosting surrogate models",
-        "reference": "arXiv:101.02289, 2021"
+        "reference": "arXiv:101.02289, 2021",
+        "year": 2021
       },
       {
         "authors": "Zhang, C., Vanschoren, J., van Wissen, A., Lakens, D., de Ruyter, B., IJsselsteijn, W.A.",
         "url": "https://arxiv.org/abs/2101.01637",
         "title": "Theory-based Habit Modeling for Enhancing Behavior Prediction",
-        "reference": "arXiv:2101.01637, 2021"
+        "reference": "arXiv:2101.01637, 2021",
+        "year": 2021
       },
       {
         "authors": "Heffels, M.R., Vanschoren, J.",
         "url": "https://arxiv.org/pdf/2012.02024.pdf",
         "title": "Aerial Imagery Pixel-level Segmentation",
-        "reference": "arXiv:2012.02024, 2020"
+        "reference": "arXiv:2012.02024, 2020",
+        "year": 2020
       },
       {
         "authors": "Weerts, H., Mueller, A., Vanschoren, J.",
         "url": "https://arxiv.org/pdf/2007.07588.pdf",
         "title": "Importance of tuning hyperparameters of machine learning algorithms",
-        "reference": "arXiv:2007.07588, 2020"
+        "reference": "arXiv:2007.07588, 2020",
+        "year": 2020
       },
       {
         "authors": "Ratner,  A.,  Alistarh,  D.,  Alonso,  G.,  Andersen,  D.G.,  Bailis,  P.,  Bird,  S.,  Carlini,  N.,  Catanzaro,  B.,Chayes,  J.,  Chung,  E.,  Dally,  B.,  Dean,  J.,  Dhillon  I.S.,  Dimakis,  A.,  Dubey,  P.,  Elkan,  C.,  Fursin,G.,  Ganger,  G.R.,  Getoor,  L.,  Gibbons,  P.B.,  Gibson,  G.A.,  Gonzalez,  J.E.,  Gottschlich,  J.,  Han,  S.,Hazelwood,  K.,  Huang,  F.,  Jaggi,  M.,  Jamieson,  K.,  Jordan,  M.I.,  Joshi,  G.,  Khalaf,  R.,  Knight,  J.,Konen, J., Kraska, T., Kumar, A., Kyrillidis, A., Lakshmiratan, A., Li, J., Madden, S., McMahan, H.B.,Meijer,  E.,  Mitliagkas,  U.,  Monga,  R.,  Murray,  D.,  Olukotun,  K.,  Papailiopoulos,  D.,  Pekhimenko,  G.,Rekatsinas,  T.,  Rostamizadeh,  A.,  R,  C.,  De  Sa,  C.,  Sedghi,  H.,  Sen,  S.,  Smith,  V.,  Smola,  A.,  Song,D.,  Sparks,  E.,  Stoica,  I.,  Sze,  V.,  Udell,  M.,  Vanschoren,  J.,  Venkataraman,  S.,  Vinayak,  R.,  Weimer,M., Wilson, A.G., Xing, E., Zaharia, M., Zhang, C, Talwalkar, A.",
         "url": "https://arxiv.org/pdf/1904.03257.pdf",
         "title": "MLSys:  The New Frontier of Machine Learning Systems",
-        "reference": "arXiv:1904.03257, 2019"
+        "reference": "arXiv:1904.03257, 2019",
+        "year": 2019
       },
       {
         "authors": "Vanschoren, J.",
         "url": "https://arxiv.org/pdf/1810.03548.pdf",
         "title": "Metalearning:  A Survey",
-        "reference": "arXiv:1810.03548, 2018"
+        "reference": "arXiv:1810.03548, 2018",
+        "year": 2018
       },
       {
         "authors": "Rivolli, A., Garcia, L., Soares, C., Vanschoren, J., de Carvalho, A.C.",
         "url": "https://arxiv.org/pdf/1808.10406.pdf",
         "title": "Towards reproducible empirical research in meta-learning",
-        "reference": "arXiv:1808.10406, 2018"
+        "reference": "arXiv:1808.10406, 2018",
+        "year": 2018
       }
     ]
   }
