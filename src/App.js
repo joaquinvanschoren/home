@@ -31,10 +31,10 @@ class App extends Component {
         "https://raw.githubusercontent.com/joaquinvanschoren/home/master/public/data.json",
       dataType: "json",
       cache: false,
-      success: function(data) {
+      success: function( data ) {
         this.setState({ data: data });
       }.bind(this),
-      error: function(xhr, status, err) {
+      error: function( xhr, status, err ) {
         console.log(err);
         alert(err);
       }
