@@ -482,7 +482,7 @@
         "name": "Postdoc",
         "topic": "Postdoctoral fellowship on meta-learning and continual learning.",
         "picture": "faceholder.png",
-        "url": "https://jobs.tue.nl/"
+        "url": "https://jobs.tue.nl/en/vacancy/researcher-postdoc-898950.html"
       }
     ],
     "former": [
@@ -528,7 +528,7 @@
         "name": "John van Lith",
         "topic": "From strings to data science: a practical framework for automated string handling",
         "year": "2021",
-        "paper": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers%2Fautods2021%5Fpaper%5F12%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVJNYjRYWDJ0UXhMbjdIMFFidGxWSDBCRTVSMjM2OER0VGQtdVlZMGVZekYyQT9ydGltZT1zZ2dyMHhxYjJVZw"
+        "paper": "https://arxiv.org/abs/2111.01868"
       },
       {
         "name": "Teun Tanis",
@@ -659,7 +659,7 @@
         "name": "Jeroen van Hoof",
         "topic": "Automated machine learning with gradient boosting and meta-learning",
         "year": "2018",
-        "paper": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2019%2FFINAL%20PAPERS%2FNO%2DLNCS%2FADS%5F2019%5Fpaper%5F33%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2019%2FFINAL%20PAPERS%2FNO%2DLNCS&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVFaQUtmMlNfdkpLc3dMTWc3U2pjdDBCVzJ3bFZYZVpPak5US1pOLWJidFA5QT9ydGltZT1SSUZBUlhxeDJFZw"
+        "paper": "https://arxiv.org/abs/2101.02289"
       },
       {
         "name": "Jiawen Wang",
@@ -986,12 +986,12 @@
         "authors": "Gijsbers, P., Vanschoren, J.",
         "url": "https://arxiv.org/pdf/2007.04911.pdf",
         "title": "GAMA: A General Automated Machine learning Assistant",
-        "reference": "Proceedings of ECMLPKDD 2020. Lecture Notes in Computer Science, 12461 (2021). p560-564",
+        "reference": "Proceedings of ECMLPKDD 2021. Lecture Notes in Computer Science, 12461 (2021). p560-564",
         "year": 2021
       },
       {
         "authors": "Gijsbers, P., Pfisterer, F., van Rijn, J.N., Bischl, B., Vanschoren, J.",
-        "url": "https://arxiv.org/pdf/2007.04911.pdf",
+        "url": "https://arxiv.org/abs/2106.05767",
         "title": "Meta-Learning for Symbolic Hyperparameter Defaults",
         "reference": "Genetic and Evolutionary Computation Conference (GECCO) Companion, 2021",
         "year": 2021
@@ -1156,7 +1156,7 @@
         "authors": "van Lith, J., Vanschoren, J.",
         "title": "From strings to data science: a practical framework for automated string handling",
         "reference": "Workshop on Automated Data Science @ ECMLPKDD 2021",
-        "url": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers%2Fautods2021%5Fpaper%5F12%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVJNYjRYWDJ0UXhMbjdIMFFidGxWSDBCRTVSMjM2OER0VGQtdVlZMGVZekYyQT9ydGltZT1zZ2dyMHhxYjJVZw",
+        "url": "https://arxiv.org/abs/2111.01868",
         "year": 2021
       },
       {
@@ -1196,7 +1196,7 @@
       },
       {
         "authors": "Celik, B., Vanschoren, J.",
-        "url": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2019%2FFINAL%20PAPERS%2FNO%2DLNCS%2FADS%5F2019%5Fpaper%5F28%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2019%2FFINAL%20PAPERS%2FNO%2DLNCS&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVN5cE5kUTgtQTlFaEtPa2lERXJKcXNCdTk4dl9maDZsdEhRR3RYSGNPSjZDUT9ydGltZT1BRDlBRFpDeTJFZw",
+        "url": "https://arxiv.org/abs/2006.06480",
         "title": "Learning to go with the flow: on the adaptability of automated machine learning to evolving data.",
         "reference": "Workshop on Automating Data Science @ ECMLPKDD 2019.",
         "year": 2019
