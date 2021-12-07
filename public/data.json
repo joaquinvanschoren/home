@@ -291,20 +291,21 @@
       }
     ]
   },
-  "talks": [
+  "talks": [ https://www.youtube.com/watch?v=X9JNufe5T98&list=PLOJaJnszeQeY9lK38yUxoMfu9K6QEOA82&index=5
+    {
+      "type": "video",
+      "title": "Meta-Learning Tutorial",
+      "description": "Presented at ACDL 2021 and DSAA 2021",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/X9JNufe5T98"
+      "slides": "https://metalearningacademy.github.io/tutorial/"
+    },        
     {
       "type": "video",
       "title": "Data-centric AI",
       "description": "Talk and panel discussion in a Data-centric AI event hosted by Andrew Ng, 2021.",
       "image": "#",
       "url": "https://www.youtube.com/embed/Yqj7Kyjznh4"
-    },
-    {
-      "type": "slideshare",
-      "title": "Meta-Learning Tutorial",
-      "description": "A 2-lecture course on Meta-Learning (ACDL 2021 Advanced Course)",
-      "image": "AutoML-ACDL.jpg",
-      "url": "//www.slideshare.net/slideshow/embed_code/key/D0AnXKJVkG6eWN"
     },
     {
       "type": "video",
