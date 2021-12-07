@@ -291,7 +291,7 @@
       }
     ]
   },
-  "talks": [ https://www.youtube.com/watch?v=X9JNufe5T98&list=PLOJaJnszeQeY9lK38yUxoMfu9K6QEOA82&index=5
+  "talks": [
     {
       "type": "video",
       "title": "Meta-Learning Tutorial",
