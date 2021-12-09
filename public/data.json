@@ -42,9 +42,9 @@
       },
       {
         "title": "PNAS paper on metalearning across many scientific problems",
-        "link": "https://www.pnas.org/",
+        "link": "https://www.pnas.org/content/118/49/e2108013118",
         "time": "November 2021",
-        "description": "Together with a great team led by Ross D. King (Cambridge). More information soon :)."
+        "description": "We learn new data representations across many related scientific problems and show how this enables better predictions. Together with a great team led by Ross D. King (Cambridge)."
       },
       {
         "title": "Data-Centric AI event with Andrew Ng",
@@ -857,9 +857,9 @@
     "journal papers": [
       {
         "authors": "Olier, I., Oghenejokpeme, I.O., Dash, T., Davis, A., Soldatova, L.N., Vanschoren, J., King, R.D.",
-        "url": "https://arxiv.org/pdf/1811.03392.pdf",
+        "url": "https://www.pnas.org/content/118/49/e2108013118",
         "title": "Transformational Machine Learning: Learning how to learn from many related scientific problems.",
-        "reference": "Proceedings of the National Academy of Sciences, in press.",
+        "reference": "Proceedings of the National Academy of Sciences (PNAS), 118 (49)",
         "year": 2021
       },
       {
