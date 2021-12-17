@@ -294,6 +294,13 @@
   "talks": [
     {
       "type": "video",
+      "title": "Open and Automated Machine Learning",
+      "description": "How OpenML works and how it helps to automate ML.",
+      "image": "#",
+      "url": "https://www.youtube.com/watch?v=xb7LUlWqkwM"
+    },        
+    {
+      "type": "video",
       "title": "Meta-Learning Tutorial",
       "description": "Presented at ACDL 2021 and DSAA 2021",
       "image": "#",
