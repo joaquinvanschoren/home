@@ -298,7 +298,23 @@
       "description": "OECD Workshop on AI and the productivity of Science.",
       "image": "#",
       "url": "https://www.youtube.com/embed/VMplOgKqm1o?start=6895&end=8636"
-    },        
+    },
+    {
+      "type": "video",
+      "title": "Meta-Learning Tutorial",
+      "description": "Presented at AAAI 2021 by Iddo Drori and myself.",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/1VXH2fMv1U4",
+      "slides": "https://sites.google.com/mit.edu/aaai2021metalearningtutorial/home"
+    },
+    {
+      "type": "video",
+      "title": "Tutorial on Automatic Machine Learning",
+      "description": "Presented at NeurIPS 2018 by Frank Hutter and myself.",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/0eBR8a4MQ30?start=4091&end=7079",
+      "slides": "https://www.automl.org/wp-content/uploads/2018/12/AutoML-Tutorial-NeurIPS2018-MetaLearning.pdf"
+    },
     {
       "type": "video",
       "title": "Open and Automated Machine Learning",
@@ -320,14 +336,6 @@
       "description": "Talk and panel discussion in a Data-centric AI event hosted by Andrew Ng, 2021.",
       "image": "#",
       "url": "https://www.youtube.com/embed/Yqj7Kyjznh4"
-    },
-    {
-      "type": "video",
-      "title": "Meta-Learning Tutorial",
-      "description": "Presented at AAAI 2021 by Iddo Drori and myself.",
-      "image": "#",
-      "url": "https://www.youtube.com/embed/1VXH2fMv1U4",
-      "slides": "https://sites.google.com/mit.edu/aaai2021metalearningtutorial/home"
     },
     {
       "type": "video",
@@ -357,14 +365,6 @@
       "description": "On the state of the art and future of meta-learning (Berlin ML Meetup 2019)",
       "image": "Meta-learning.jpeg",
       "url": "//www.slideshare.net/slideshow/embed_code/key/D8jkSZ0IdZEpsi"
-    },
-    {
-      "type": "video",
-      "title": "Tutorial on Automatic Machine Learning",
-      "description": "Presented at NeurIPS 2018 by Frank Hutter and myself.",
-      "image": "#",
-      "url": "https://www.youtube.com/embed/0eBR8a4MQ30",
-      "slides": "https://www.automl.org/wp-content/uploads/2018/12/AutoML-Tutorial-NeurIPS2018-MetaLearning.pdf"
     },
     {
       "type": "slideshare",
