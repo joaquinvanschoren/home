@@ -395,14 +395,6 @@
       "image": "OpenMLSheffield.jpeg",
       "url": "https://www.youtube.com/embed/J84Eg-0RlCk",
       "slides": "https://www.slideshare.net/JoaquinVanschoren/openml-tutorial-networked-science"
-    },
-    {
-      "type": "video",
-      "title": "Exposé",
-      "description": "Explains the Exposé ontology for machine learning experiments",
-      "image": "OpenMLSheffield.jpeg",
-      "url": "https://www.youtube.com/embed/ZUL2R5SkGtE",
-      "slides": "https://www.slideshare.net/JoaquinVanschoren/expos-ontology"
     }
   ],
   "books": [
