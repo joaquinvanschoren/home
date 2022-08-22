@@ -42,9 +42,9 @@
       },
       {
         "title": "PNAS paper on metalearning across many scientific problems",
-        "link": "https://www.pnas.org/",
+        "link": "https://www.pnas.org/content/118/49/e2108013118",
         "time": "November 2021",
-        "description": "Together with a great team led by Ross D. King (Cambridge). More information soon :)."
+        "description": "We learn new data representations across many related scientific problems and show how this enables better predictions. Together with a great team led by Ross D. King (Cambridge)."
       },
       {
         "title": "Data-Centric AI event with Andrew Ng",
@@ -294,17 +294,10 @@
   "talks": [
     {
       "type": "video",
-      "title": "Data-centric AI",
-      "description": "Talk and panel discussion in a Data-centric AI event hosted by Andrew Ng, 2021.",
+      "title": "Spreading good AI practices through AutoML",
+      "description": "OECD Workshop on AI and the productivity of Science.",
       "image": "#",
-      "url": "https://www.youtube.com/embed/Yqj7Kyjznh4"
-    },
-    {
-      "type": "slideshare",
-      "title": "Meta-Learning Tutorial",
-      "description": "A 2-lecture course on Meta-Learning (ACDL 2021 Advanced Course)",
-      "image": "AutoML-ACDL.jpg",
-      "url": "//www.slideshare.net/slideshow/embed_code/key/D0AnXKJVkG6eWN"
+      "url": "https://www.youtube.com/embed/VMplOgKqm1o?start=6895&end=8636"
     },
     {
       "type": "video",
@@ -313,6 +306,36 @@
       "image": "#",
       "url": "https://www.youtube.com/embed/1VXH2fMv1U4",
       "slides": "https://sites.google.com/mit.edu/aaai2021metalearningtutorial/home"
+    },
+    {
+      "type": "video",
+      "title": "Tutorial on Automatic Machine Learning",
+      "description": "Presented at NeurIPS 2018 by Frank Hutter and myself.",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/0eBR8a4MQ30?start=4091&end=7079",
+      "slides": "https://www.automl.org/wp-content/uploads/2018/12/AutoML-Tutorial-NeurIPS2018-MetaLearning.pdf"
+    },
+    {
+      "type": "video",
+      "title": "Open and Automated Machine Learning",
+      "description": "How OpenML works and how it helps to automate ML.",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/xb7LUlWqkwM"
+    },        
+    {
+      "type": "video",
+      "title": "Meta-Learning Tutorial",
+      "description": "Presented at ACDL 2021 and DSAA 2021",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/X9JNufe5T98",
+      "slides": "https://metalearningacademy.github.io/tutorial/"
+    },        
+    {
+      "type": "video",
+      "title": "Data-centric AI",
+      "description": "Talk and panel discussion in a Data-centric AI event hosted by Andrew Ng, 2021.",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/Yqj7Kyjznh4"
     },
     {
       "type": "video",
@@ -344,14 +367,6 @@
       "url": "//www.slideshare.net/slideshow/embed_code/key/D8jkSZ0IdZEpsi"
     },
     {
-      "type": "video",
-      "title": "Tutorial on Automatic Machine Learning",
-      "description": "Presented at NeurIPS 2018 by Frank Hutter and myself.",
-      "image": "#",
-      "url": "https://www.youtube.com/embed/0eBR8a4MQ30",
-      "slides": "https://www.automl.org/wp-content/uploads/2018/12/AutoML-Tutorial-NeurIPS2018-MetaLearning.pdf"
-    },
-    {
       "type": "slideshare",
       "title": "Introduction to OpenML",
       "description": "How OpenML works, how to use it, and the people behind it all. (NeurIPS 2018)",
@@ -380,14 +395,6 @@
       "image": "OpenMLSheffield.jpeg",
       "url": "https://www.youtube.com/embed/J84Eg-0RlCk",
       "slides": "https://www.slideshare.net/JoaquinVanschoren/openml-tutorial-networked-science"
-    },
-    {
-      "type": "video",
-      "title": "Exposé",
-      "description": "Explains the Exposé ontology for machine learning experiments",
-      "image": "OpenMLSheffield.jpeg",
-      "url": "https://www.youtube.com/embed/ZUL2R5SkGtE",
-      "slides": "https://www.slideshare.net/JoaquinVanschoren/expos-ontology"
     }
   ],
   "books": [
@@ -856,9 +863,9 @@
     "journal papers": [
       {
         "authors": "Olier, I., Oghenejokpeme, I.O., Dash, T., Davis, A., Soldatova, L.N., Vanschoren, J., King, R.D.",
-        "url": "https://arxiv.org/pdf/1811.03392.pdf",
+        "url": "https://www.pnas.org/content/118/49/e2108013118",
         "title": "Transformational Machine Learning: Learning how to learn from many related scientific problems.",
-        "reference": "Proceedings of the National Academy of Sciences, in press.",
+        "reference": "Proceedings of the National Academy of Sciences (PNAS), 118 (49)",
         "year": 2021
       },
       {
