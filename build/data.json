@@ -42,9 +42,9 @@
       },
       {
         "title": "PNAS paper on metalearning across many scientific problems",
-        "link": "https://www.pnas.org/",
+        "link": "https://www.pnas.org/content/118/49/e2108013118",
         "time": "November 2021",
-        "description": "Together with a great team led by Ross D. King (Cambridge). More information soon :)."
+        "description": "We learn new data representations across many related scientific problems and show how this enables better predictions. Together with a great team led by Ross D. King (Cambridge)."
       },
       {
         "title": "Data-Centric AI event with Andrew Ng",
@@ -294,17 +294,10 @@
   "talks": [
     {
       "type": "video",
-      "title": "Data-centric AI",
-      "description": "Talk and panel discussion in a Data-centric AI event hosted by Andrew Ng, 2021.",
+      "title": "Spreading good AI practices through AutoML",
+      "description": "OECD Workshop on AI and the productivity of Science.",
       "image": "#",
-      "url": "https://www.youtube.com/embed/Yqj7Kyjznh4"
-    },
-    {
-      "type": "slideshare",
-      "title": "Meta-Learning Tutorial",
-      "description": "A 2-lecture course on Meta-Learning (ACDL 2021 Advanced Course)",
-      "image": "AutoML-ACDL.jpg",
-      "url": "//www.slideshare.net/slideshow/embed_code/key/D0AnXKJVkG6eWN"
+      "url": "https://www.youtube.com/embed/VMplOgKqm1o?start=6895&end=8636"
     },
     {
       "type": "video",
@@ -313,6 +306,36 @@
       "image": "#",
       "url": "https://www.youtube.com/embed/1VXH2fMv1U4",
       "slides": "https://sites.google.com/mit.edu/aaai2021metalearningtutorial/home"
+    },
+    {
+      "type": "video",
+      "title": "Tutorial on Automatic Machine Learning",
+      "description": "Presented at NeurIPS 2018 by Frank Hutter and myself.",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/0eBR8a4MQ30?start=4091&end=7079",
+      "slides": "https://www.automl.org/wp-content/uploads/2018/12/AutoML-Tutorial-NeurIPS2018-MetaLearning.pdf"
+    },
+    {
+      "type": "video",
+      "title": "Open and Automated Machine Learning",
+      "description": "How OpenML works and how it helps to automate ML.",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/xb7LUlWqkwM"
+    },        
+    {
+      "type": "video",
+      "title": "Meta-Learning Tutorial",
+      "description": "Presented at ACDL 2021 and DSAA 2021",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/X9JNufe5T98",
+      "slides": "https://metalearningacademy.github.io/tutorial/"
+    },        
+    {
+      "type": "video",
+      "title": "Data-centric AI",
+      "description": "Talk and panel discussion in a Data-centric AI event hosted by Andrew Ng, 2021.",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/Yqj7Kyjznh4"
     },
     {
       "type": "video",
@@ -344,14 +367,6 @@
       "url": "//www.slideshare.net/slideshow/embed_code/key/D8jkSZ0IdZEpsi"
     },
     {
-      "type": "video",
-      "title": "Tutorial on Automatic Machine Learning",
-      "description": "Presented at NeurIPS 2018 by Frank Hutter and myself.",
-      "image": "#",
-      "url": "https://www.youtube.com/embed/0eBR8a4MQ30",
-      "slides": "https://www.automl.org/wp-content/uploads/2018/12/AutoML-Tutorial-NeurIPS2018-MetaLearning.pdf"
-    },
-    {
       "type": "slideshare",
       "title": "Introduction to OpenML",
       "description": "How OpenML works, how to use it, and the people behind it all. (NeurIPS 2018)",
@@ -380,14 +395,6 @@
       "image": "OpenMLSheffield.jpeg",
       "url": "https://www.youtube.com/embed/J84Eg-0RlCk",
       "slides": "https://www.slideshare.net/JoaquinVanschoren/openml-tutorial-networked-science"
-    },
-    {
-      "type": "video",
-      "title": "Exposé",
-      "description": "Explains the Exposé ontology for machine learning experiments",
-      "image": "OpenMLSheffield.jpeg",
-      "url": "https://www.youtube.com/embed/ZUL2R5SkGtE",
-      "slides": "https://www.slideshare.net/JoaquinVanschoren/expos-ontology"
     }
   ],
   "books": [
@@ -482,7 +489,7 @@
         "name": "Postdoc",
         "topic": "Postdoctoral fellowship on meta-learning and continual learning.",
         "picture": "faceholder.png",
-        "url": "https://jobs.tue.nl/"
+        "url": "https://jobs.tue.nl/en/vacancy/researcher-postdoc-898950.html"
       }
     ],
     "former": [
@@ -528,7 +535,7 @@
         "name": "John van Lith",
         "topic": "From strings to data science: a practical framework for automated string handling",
         "year": "2021",
-        "paper": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers%2Fautods2021%5Fpaper%5F12%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVJNYjRYWDJ0UXhMbjdIMFFidGxWSDBCRTVSMjM2OER0VGQtdVlZMGVZekYyQT9ydGltZT1zZ2dyMHhxYjJVZw"
+        "paper": "https://arxiv.org/abs/2111.01868"
       },
       {
         "name": "Teun Tanis",
@@ -659,7 +666,7 @@
         "name": "Jeroen van Hoof",
         "topic": "Automated machine learning with gradient boosting and meta-learning",
         "year": "2018",
-        "paper": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2019%2FFINAL%20PAPERS%2FNO%2DLNCS%2FADS%5F2019%5Fpaper%5F33%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2019%2FFINAL%20PAPERS%2FNO%2DLNCS&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVFaQUtmMlNfdkpLc3dMTWc3U2pjdDBCVzJ3bFZYZVpPak5US1pOLWJidFA5QT9ydGltZT1SSUZBUlhxeDJFZw"
+        "paper": "https://arxiv.org/abs/2101.02289"
       },
       {
         "name": "Jiawen Wang",
@@ -856,9 +863,9 @@
     "journal papers": [
       {
         "authors": "Olier, I., Oghenejokpeme, I.O., Dash, T., Davis, A., Soldatova, L.N., Vanschoren, J., King, R.D.",
-        "url": "https://arxiv.org/pdf/1811.03392.pdf",
+        "url": "https://www.pnas.org/content/118/49/e2108013118",
         "title": "Transformational Machine Learning: Learning how to learn from many related scientific problems.",
-        "reference": "Proceedings of the National Academy of Sciences, in press.",
+        "reference": "Proceedings of the National Academy of Sciences (PNAS), 118 (49)",
         "year": 2021
       },
       {
@@ -986,12 +993,12 @@
         "authors": "Gijsbers, P., Vanschoren, J.",
         "url": "https://arxiv.org/pdf/2007.04911.pdf",
         "title": "GAMA: A General Automated Machine learning Assistant",
-        "reference": "Proceedings of ECMLPKDD 2020. Lecture Notes in Computer Science, 12461 (2021). p560-564",
+        "reference": "Proceedings of ECMLPKDD 2021. Lecture Notes in Computer Science, 12461 (2021). p560-564",
         "year": 2021
       },
       {
         "authors": "Gijsbers, P., Pfisterer, F., van Rijn, J.N., Bischl, B., Vanschoren, J.",
-        "url": "https://arxiv.org/pdf/2007.04911.pdf",
+        "url": "https://arxiv.org/abs/2106.05767",
         "title": "Meta-Learning for Symbolic Hyperparameter Defaults",
         "reference": "Genetic and Evolutionary Computation Conference (GECCO) Companion, 2021",
         "year": 2021
@@ -1156,7 +1163,7 @@
         "authors": "van Lith, J., Vanschoren, J.",
         "title": "From strings to data science: a practical framework for automated string handling",
         "reference": "Workshop on Automated Data Science @ ECMLPKDD 2021",
-        "url": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers%2Fautods2021%5Fpaper%5F12%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2021%2Fpapers&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVJNYjRYWDJ0UXhMbjdIMFFidGxWSDBCRTVSMjM2OER0VGQtdVlZMGVZekYyQT9ydGltZT1zZ2dyMHhxYjJVZw",
+        "url": "https://arxiv.org/abs/2111.01868",
         "year": 2021
       },
       {
@@ -1196,7 +1203,7 @@
       },
       {
         "authors": "Celik, B., Vanschoren, J.",
-        "url": "https://upvedues-my.sharepoint.com/personal/jorallo_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2019%2FFINAL%20PAPERS%2FNO%2DLNCS%2FADS%5F2019%5Fpaper%5F28%2Epdf&parent=%2Fpersonal%2Fjorallo%5Fupv%5Fedu%5Fes%2FDocuments%2F%5F%5FRESEARCH%2DMISC%2F%5FORGANISED%20%28Ws%2C%20Special%20issues%29%2FAutoDS%40ECML2019%2FFINAL%20PAPERS%2FNO%2DLNCS&originalPath=aHR0cHM6Ly91cHZlZHVlcy1teS5zaGFyZXBvaW50LmNvbS86YjovZy9wZXJzb25hbC9qb3JhbGxvX3Vwdl9lZHVfZXMvRVN5cE5kUTgtQTlFaEtPa2lERXJKcXNCdTk4dl9maDZsdEhRR3RYSGNPSjZDUT9ydGltZT1BRDlBRFpDeTJFZw",
+        "url": "https://arxiv.org/abs/2006.06480",
         "title": "Learning to go with the flow: on the adaptability of automated machine learning to evolving data.",
         "reference": "Workshop on Automating Data Science @ ECMLPKDD 2019.",
         "year": 2019
