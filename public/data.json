@@ -460,28 +460,46 @@
   "lab": {
     "people": [
       {
-        "name": "Pieter Gijsbers",
-        "role": "PhD student",
-        "topic": "Systems for AutoML research",
-        "picture": "pieter.jpeg"
-      },
-      {
         "name": "Bilge Celik",
         "role": "PhD student",
-        "topic": "Automatic machine learning on evolving data",
+        "topic": "Online automatic machine learning",
         "picture": "bilge.jpeg"
       },
       {
-        "name": "Prabhant Singh",
-        "role": "Research Software Engineer",
-        "topic": "OpenML Core Development, AutoML",
-        "picture": "prabhant.jpg"
+        "name": "Elif Ceren Gok",
+        "role": "PhD student",
+        "topic": "Automated continual learning",
+        "picture": "elif.jpeg"
+      },
+      {
+        "name": "Israel Campero Jurado",
+        "role": "PhD student",
+        "topic": "AutoML for healthcare",
+        "picture": "israel.jpg"
+      },
+      {
+        "name": "Pieter Gijsbers",
+        "role": "Research Software Engineer, PostDoc",
+        "topic": "Creator of GAMA and the AutoML Benchmark, OpenML API developer",
+        "picture": "pieter.jpeg"
+      },
+      {
+        "name": "Mert Kilickaya",
+        "role": "PostDoc",
+        "topic": "Continual learning ",
+        "picture": "mert.jpeg"
       },
       {
         "name": "Marcos De Paula Bueno",
         "role": "Post-doctoral fellow",
-        "topic": "AutoML",
+        "topic": "Robust AutoML",
         "picture": "marcos.jpg"
+      },
+      {
+        "name": "Prabhant Singh",
+        "role": "Research Software Engineer",
+        "topic": "OpenML Core Development, AutoML systems developer",
+        "picture": "prabhant.jpg"
       },
       {
         "name": "Andrei Simion-Constantinescu",
@@ -490,36 +508,24 @@
         "picture": "andrei.jpg"
       },
       {
-        "name": "Israel Campero Jurado",
-        "role": "PhD student",
-        "topic": "AutoML and metalearning for time series",
-        "picture": "israel.jpg"
-      },
-      {
-        "name": "Elif Ceren Gok",
-        "role": "PhD student",
-        "topic": "AutoML",
-        "picture": "elif.jpeg"
-      },
-      {
         "name": "Murat Onur Yildirim",
         "role": "PhD student",
-        "topic": "AutoML",
+        "topic": "Efficient and scalable continual learning",
         "picture": "onur.jpeg"
       },
       {
         "name": "Fangqin Zhou",
         "role": "PhD student",
-        "topic": "Meta-reinforcement learning",
+        "topic": "Self-attention for vision and (meta-)reinforcement learning",
         "picture": "fangqin.jpeg"
       }
     ],
     "open": [
       {
-        "name": "Postdoc",
-        "topic": "Postdoctoral fellowship on meta-learning and continual learning.",
+        "name": "Research Software Engineer",
+        "topic": "Join us to build an open platform for AI research, leveraging AI to automatically organize datasets, models, code, run benchmarks, and check data quality.",
         "picture": "faceholder.png",
-        "url": "https://jobs.tue.nl/en/vacancy/researcher-postdoc-898950.html"
+        "url": "https://jobs.tue.nl/en/vacancy/research-engineer-artificial-intelligence-952826.html"
       }
     ],
     "former": [
