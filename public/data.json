@@ -440,7 +440,7 @@
     {
       "title": "Metalearning",
       "subtitle": "Applications to AutoML and data mining",
-      "description": "A comprehensive introduction to metalearning techniques in the contect of automated machine learning (AutoML), covering the basic concepts of algorithm selection, evaluation, hyperparameter optimization, and meta-knowledge organization.",
+      "description": "A comprehensive introduction to metalearning techniques in the context of automated machine learning, covering the basic concepts of algorithm selection, hyperparameter optimization, evaluation, and meta-knowledge organization.",
       "image": "https://m.media-amazon.com/images/I/419Fxr-PWzL.jpg",
       "url": "https://link.springer.com/book/10.1007/978-3-030-67024-5",
       "amazon": "https://www.amazon.com/dp/B09TDN48ZG",
