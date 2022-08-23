@@ -29,6 +29,36 @@
   "news": {
     "news": [
       {
+        "title": "NeurIPS 2022 Datasets and Benchmarks Track",
+        "link": "https://blog.neurips.cc/2022/03/28/call-datasets/",
+        "time": "December 2022",
+        "description": "Deepti Ghadiyaram (FAIR) and me will chair the NeurIPS track on Datasets and Benchmarks. We're looking forward to many new groundbraking datasets and benchmarks!"
+      },
+      {
+        "title": "Meta-learning Workshop @ NeurIPS 2022",
+        "link": "https://meta-learn.github.io/2022/",
+        "time": "December 2022",
+        "description": "We are organizing the NeurIPS meta-learning workshop again! Together with Eleni Triantafillou (Google Brain), Erin Grant (UCL), Frank Hutter (Freiburg), Huaxiu Yao (Stanford), and Qi Lei (Princeton). Join us or check the talks and paper online."
+      },
+      {
+        "title": "A new dataset for meta-learning and continual learning!",
+        "link": "https://meta-album.github.io/",
+        "time": "July 2022",
+        "description": "Meta-Album is a new image classification meta-dataset to push research in few-shot learning, transfer learning, meta-learning, and more! 40 open datasets, from diverse domains, uniformly formatted, and available in 3 versions (Micro - Mini - Extended) for various levels of compute resources."
+      },
+      {
+        "title": "AutoML Conference 2022",
+        "link": "https://automl.cc/",
+        "time": "July 2022",
+        "description": "We have started a new conference on AutoML! I'll be Tutorial chair, and am really looking forward to this exciting new venue!"
+      },
+      {
+        "title": "Best teacher award,
+        "link": "https://ml-course.github.io/master/intro.html",
+        "time": "June 2022",
+        "description": "The Dutch data science student association (DSA Pattern) surprised me by offering me the best teacher award for my Machine Learning Engineering course. Thanks!"
+      },
+      {
         "title": "Paper on OpenML-based benchmarking @ NeurIPS 2021",
         "link": "https://openreview.net/forum?id=OCrD8ycKjG",
         "time": "December 2021",
