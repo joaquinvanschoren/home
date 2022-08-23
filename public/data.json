@@ -471,7 +471,7 @@
       {
         "name": "Bilge Celik",
         "role": "PhD student",
-        "topic": "Online automatic machine learning",
+        "topic": "Continual automatic machine learning",
         "picture": "bilge.jpeg"
       },
       {
@@ -489,13 +489,13 @@
       {
         "name": "Pieter Gijsbers",
         "role": "Research Software Engineer, PostDoc",
-        "topic": "Creator of GAMA and the AutoML Benchmark, OpenML API developer",
+        "topic": "Creator of GAMA, the AutoML Benchmark, and OpenML APIs",
         "picture": "pieter.jpeg"
       },
       {
         "name": "Mert Kilickaya",
         "role": "PostDoc",
-        "topic": "Continual learning ",
+        "topic": "Efficient continual learning",
         "picture": "mert.jpeg"
       },
       {
@@ -505,16 +505,16 @@
         "picture": "marcos.jpg"
       },
       {
-        "name": "Prabhant Singh",
-        "role": "Research Software Engineer",
-        "topic": "OpenML Core Development, AutoML systems developer",
-        "picture": "prabhant.jpg"
-      },
-      {
         "name": "Andrei Simion-Constantinescu",
         "role": "PhD student",
         "topic": "Self-supervised and multi-modal learning",
         "picture": "andrei.jpg"
+      },
+      {
+        "name": "Prabhant Singh",
+        "role": "Research Software Engineer",
+        "topic": "OpenML Core Development, AutoML systems developer",
+        "picture": "prabhant.jpg"
       },
       {
         "name": "Murat Onur Yildirim",
