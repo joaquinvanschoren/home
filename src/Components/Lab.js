@@ -115,7 +115,7 @@ class Lab extends Component {
         <div className="row">
           <div className="columns main-col">
             <h1>Learning to Learn Lab @ TU/e</h1>
-            <img alt="group" src="group.jpeg" width="100%"/>
+            <img alt="group" src="images/group.jpeg" width="100%"/>
             <p>
               I’m fortunate to work with an amazing team. We are working
               together to automate and better understand machine learning, and
