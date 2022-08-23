@@ -436,6 +436,15 @@
       "url": "https://www.springer.com/us/book/9783030053178",
       "amazon": "https://www.amazon.de/dp/3030053172",
       "source": "https://www.automl.org/book"
+    },
+    {
+      "title": "Metalearning",
+      "subtitle": "Applications to AutoML and data mining",
+      "description": "A comprehensive introduction to metalearning techniques in the context of automated machine learning, covering the basic concepts of algorithm selection, hyperparameter optimization, evaluation, and meta-knowledge organization.",
+      "image": "https://m.media-amazon.com/images/I/419Fxr-PWzL.jpg",
+      "url": "https://link.springer.com/book/10.1007/978-3-030-67024-5",
+      "amazon": "https://www.amazon.com/dp/B09TDN48ZG",
+      "source": "https://link.springer.com/content/pdf/10.1007/978-3-030-67024-5.pdf"
     }
   ],
   "courses": [
@@ -462,7 +471,7 @@
       {
         "name": "Bilge Celik",
         "role": "PhD student",
-        "topic": "Online automatic machine learning",
+        "topic": "Continual automatic machine learning",
         "picture": "bilge.jpeg"
       },
       {
@@ -475,18 +484,18 @@
         "name": "Israel Campero Jurado",
         "role": "PhD student",
         "topic": "AutoML for healthcare",
-        "picture": "israel.jpg"
+        "picture": "israel.jpeg"
       },
       {
         "name": "Pieter Gijsbers",
         "role": "Research Software Engineer, PostDoc",
-        "topic": "Creator of GAMA and the AutoML Benchmark, OpenML API developer",
+        "topic": "Creator of GAMA, the AutoML Benchmark, and OpenML APIs",
         "picture": "pieter.jpeg"
       },
       {
         "name": "Mert Kilickaya",
         "role": "PostDoc",
-        "topic": "Continual learning ",
+        "topic": "Efficient continual learning",
         "picture": "mert.jpeg"
       },
       {
@@ -496,16 +505,16 @@
         "picture": "marcos.jpg"
       },
       {
-        "name": "Prabhant Singh",
-        "role": "Research Software Engineer",
-        "topic": "OpenML Core Development, AutoML systems developer",
-        "picture": "prabhant.jpg"
-      },
-      {
         "name": "Andrei Simion-Constantinescu",
         "role": "PhD student",
         "topic": "Self-supervised and multi-modal learning",
         "picture": "andrei.jpg"
+      },
+      {
+        "name": "Prabhant Singh",
+        "role": "Research Software Engineer",
+        "topic": "OpenML Core Development, AutoML systems developer",
+        "picture": "prabhant.jpg"
       },
       {
         "name": "Murat Onur Yildirim",
