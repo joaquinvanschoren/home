@@ -101,8 +101,8 @@ class Software extends Component {
             <p>
               Check out results on the{" "}
               <a href="https://openml.github.io/automlbenchmark">website</a> and
-              learn more about the system in the{" "}
-              <a href="https://openml.github.io/automlbenchmark/paper.html">
+              learn more about the system in the{" "}. 
+              <a href="https://arxiv.org/abs/2207.12560">
                 paper
               </a>
               .
