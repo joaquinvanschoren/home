@@ -153,7 +153,6 @@ class Lab extends Component {
             <div className="row">
               <div className="columns main-col">
                 <h2>Former team members</h2>
-                <p>These padawans have moved on to do even greater things :)</p>
                 <div className="former">{former}</div>
               </div>
             </div>
