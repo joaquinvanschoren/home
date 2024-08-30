@@ -29,6 +29,18 @@
   "news": {
     "news": [
       {
+        "title": "MALIBO gets a Spotlight at ICML 2024",
+        "link": "https://neurips.cc/Conferences/2023/CallForDatasetsBenchmarks",
+        "time": "July 2024",
+        "description": "Don't you hate it when you have to re-optimize model hyperparameters every time you solve a new task? Not anymore! MALIBO is a meta-learning neural network that directly predicts which configurations are most promising, using past experience and task embeddings to generalize over large sets of tasks, much more efficiently than other techniques. Jiarong Pan presented it as a spotlight talk at NeurIPS 2024."
+      },
+      {
+        "title": "NeurIPS 2023 Datasets and Benchmarks Track",
+        "link": "https://neurips.cc/Conferences/2023/CallForDatasetsBenchmarks",
+        "time": "December 2023",
+        "description": "I'll be chairing the NeurIPS track on Datasets and Benchmarks for a third time, this time together with Emily Denton (Google) and Jung-Woo Ha (NAVER)!"
+      },
+      {
         "title": "NeurIPS 2022 Datasets and Benchmarks Track",
         "link": "https://blog.neurips.cc/2022/03/28/call-datasets/",
         "time": "December 2022",
