@@ -248,6 +248,14 @@ ul#nav li.current a {
 #about .contact-details {
   width: 41.66667%;
 }
+#about .thin-border {
+  border: 1px solid #bababa; /* Adds a thin 1px border */
+  padding: 5px; /* Adds 5px spacing inside the border */
+  color: #bababa;
+}
+#about .thin-border b {
+  color: #fafafa;
+}
 #about .download {
   width: 58.33333%;
   padding-top: 6px;

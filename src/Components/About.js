@@ -22,7 +22,7 @@ class About extends Component {
               <a href="https://www.tue.nl/en/research/researchers/joaquin-vanschoren/">
                 associate professor at TU Eindhoven
               </a>
-              . I aim to deeply understand, explain, and democratize AI to build learning systems that help humanity. My team and I build AI systems that learn continually and automatically assemble 
+              . I aim to deeply understand, explain, and democratize AI for the benefit of all humanity. My team and I build AI systems that learn continually and automatically assemble 
               themselves to learn faster and better, often inspired by the human brain. 
               I founded <a href="https://www.openml.org">OpenML</a>, an open science platform to democratize machine learning, 
               started the <a href="https://neuripsconf.medium.com/announcing-the-neurips-2021-datasets-and-benchmarks-track-644e27c1e66c">NeurIPS Datasets and Benchmarks track</a> and <a href="https://data.mlr.press/">DMLR journal</a> to incentivize 
@@ -56,22 +56,21 @@ class About extends Component {
               <div className="columns main-col">
                 <h2>How to contact me</h2>
                 <p className="address">
-                  You can reach to me via email at j.vanschoren{" "}<i className="fas fa-at"></i>{" "}tue.nl. However, <b>please read the following before you do</b>.
+                  You can reach me via email at j.vanschoren{" "}<i className="fas fa-at"></i>{" "}tue.nl. However, <b><i>please read the following before you do</i></b>.
                 </p>
-                <p>
-                  I am always <i>very eager</i> to collaborate with bright people and hear exciting ideas, and will respond as fast as I can.
-                  However, please note that I also have to dedicate large blocks of time to current projects, students and
-                  family. As such, <i>I read email sparingly</i> (and in bursts) and may sometimes take a few days to reply. Below are a few common reasons for why you 
-                  might want to reach out to me, and the optimal action to take. If you have and I don't reply within a few days, please send me a reminder (it helps :)).
+                <div className="thin-border">
+                  I <i>love</i> to meet new people and hear exciting ideas! That said, I do also dedicate large blocks of time to current collaborations, students and family. I read email sparingly and in bursts. Below are tips to minimize overhead for you and
+                  recieve a faster reply from me. If it still takes more than a few days, I might be particularly deep into a project - please send me a reminder (it helps!).
+                  <br />
                   <br />
                   <span>
-                    <b>- Meetings</b>: To book a meeting for an ongoing project or collaboration, please contact our secretary at <b>sec.dai{" "}<i className="fas fa-at"></i>{" "}tue.nl</b>. Please propose Europe-friendly times.
-                     Please note that I need my mornings to do deep work, so I generally prefer meetings in the afternoon. Lunchtime is always great to grab a coffee or have a walking meeting. For emergency meetings, I have prescheduled time at 11:00. Wednesdays are reserved for research meetings with my team. 
+                    <b>- Meetings</b>: To book a meeting, please contact our secretaries at <b>sec.dai{" "}<i className="fas fa-at"></i>{" "}tue.nl</b>. Please propose Europe-friendly times.
+                    Please note that I need my mornings to <a href="https://www.nature.com/articles/d41586-024-02381-x.pdf" target="_blank">do deep work</a>, so I prefer meetings in the afternoon. Lunchtime is always great to grab a coffee or go for a walk together. Wednesdays are always reserved for research meetings with my team. 
                   </span>
                   <br />
                   <span>
-                    <b>- PhD, PostDoc, or Research Engineer applications</b>: I'm <i>honoured</i> that you are considering me as a possible advisor! All our open positions can by found on our {" "}
-                    <a href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3D%26p_category_code_arr%3D6047-461659%26p_category_code_arr%3D6047-461661%26p_category_code_arr%3D6047-461665%26p_category_code_arr%3D6047-461666%26p_category_code_arr%3D6048-461676&page=1">job board</a> (search for my name).
+                    <b>- PhD, PostDoc, or AI Engineer applications</b>: I'm <i>honoured</i> that you are considering me as a possible advisor! Please check out <a href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3Dvanschoren%26p_category_code_arr%3D6047-461659%26p_category_code_arr%3D6047-461661%26p_category_code_arr%3D6047-461665%26p_category_code_arr%3D6047-461666%26p_category_code_arr%3D6048-461676%26_gl%3D1*1tx08a4*_up*MQ..*_ga*OTIwMzU2OTcuMTcyNTAyOTg3Ng..*_ga_JN37M497TT*MTcyNTAyOTg3NS4xLjAuMTcyNTAyOTg3NS4wLjAuMA..&page=1" target="_blank">open positions in my lab</a>, or{" "}
+                    <a href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3D%26p_category_code_arr%3D6047-461659%26p_category_code_arr%3D6047-461661%26p_category_code_arr%3D6047-461665%26p_category_code_arr%3D6047-461666%26p_category_code_arr%3D6048-461676&page=1" target="_blank">other positions at our department</a>.
                     Without an open position, you need to be self-funded or have a scholarship.
                   </span>
                   <br />
@@ -94,12 +93,12 @@ class About extends Component {
                   </span>
                   <br />
                   <span>
-                    <b>- OpenML questions</b>: For questions about OpenML, please post an issue on GitHub (see https://github.com/openml) or Slack (https://www.openml.org/about).
+                    <b>- OpenML questions</b>: For questions about OpenML, please <a href="https://github.com/openml" target="_blank">post an issue on GitHub</a> or <a href="https://www.openml.org/about" target="_blank">ask us on Slack</a>.
                   </span>
                   <br />
                   <span>
                     <b>- Thesis students</b>: I can only supervise thesis topics that are closely related to my research. 
-                    You can check{" "}<a href="https://dai.win.tue.nl/masterprojects/?group=5">example thesis topics here</a>.
+                    You can check{" "}<a href="https://dai.win.tue.nl/masterprojects/?group=5" target="_blank">example thesis topics here</a>.
                     Our research group organizes matchmaking and interviews every semester, and I generally expect students to have obtained good grades for relevant courses.
                   </span>
                   <br />
@@ -108,7 +107,7 @@ class About extends Component {
                     Tuesdays and Thursdays from 16:00 - 17:00. Please ask our secretary to find a good time (see above).
                   </span>
                   <br />
-                </p>
+                </div>
               </div>
             </div>
           </div>
