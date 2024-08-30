@@ -30,15 +30,39 @@
     "news": [
       {
         "title": "MALIBO gets a Spotlight at ICML 2024",
-        "link": "https://neurips.cc/Conferences/2023/CallForDatasetsBenchmarks",
+        "link": "https://icml.cc/virtual/2024/poster/35064",
         "time": "July 2024",
-        "description": "Don't you hate it when you have to re-optimize model hyperparameters every time you solve a new task? Not anymore! MALIBO is a meta-learning neural network that directly predicts which configurations are most promising, using past experience and task embeddings to generalize over large sets of tasks, much more efficiently than other techniques. Jiarong Pan presented it as a spotlight talk at NeurIPS 2024."
+        "description": "Don't you hate it when you have to re-optimize model hyperparameters every time you solve a new task? Not anymore! MALIBO is a meta-learning neural network that directly predicts which configurations are most promising, using past experience and task embeddings to generalize over large sets of tasks, much more efficiently than other techniques. Jiarong Pan will present his work as a spotlight talk at NeurIPS 2024."
+      },
+      {
+        "title": "Continual Learning meets meta-learning at CoLLAs 2024",
+        "link": "https://lifelong-ml.cc/Conferences/2024/acceptedpapersandvideos/conf-2024-22",
+        "time": "July 2024",
+        "description": "Efficient lifelong learning requires that we know which neural connections to strengthen or weaken, so we can learn new skills without forgetting old ones. We show that you can meta-learn exactly which weights to update and how, yielding BOTH better backward transfer (less forgetting) and forward transfer (faster learning) than existing methods! Anna Vettoruzzo did amazing work and will present it at CoLLAs 2024."
+      },
+      {
+        "title": "MLCommons AI Safety working group - first light!",
+        "link": "https://mlcommons.org/working-groups/ai-safety/ai-safety/",
+        "time": "April 2024",
+        "description": "I'm excited to chair the MLCommons AI Safety working group together with Percy Liang (Stanford) and Peter Mattson (Google). Working with an incredibly talented team, we've just released a proof-of-concept of our AI safety benchmark, and aim to release v1.0 in November."
       },
       {
         "title": "NeurIPS 2023 Datasets and Benchmarks Track",
         "link": "https://neurips.cc/Conferences/2023/CallForDatasetsBenchmarks",
         "time": "December 2023",
-        "description": "I'll be chairing the NeurIPS track on Datasets and Benchmarks for a third time, this time together with Emily Denton (Google) and Jung-Woo Ha (NAVER)!"
+        "description": "I'll be chairing the NeurIPS track on Datasets and Benchmarks for a third time, this time together with Emily Denton (Google) and Jung-Woo Ha (NAVER)."
+      },
+      {
+        "title": "Interview on the impact of AI in science in Nature",
+        "link": "https://www.nature.com/articles/d41586-023-03817-6",
+        "time": "December 2023",
+        "description": "Great article by Philip Ball where I'm quoted a few times. I'm underlining that AI comes with many challenges, but with proper research and engineering we can make it safer and truly accellerate science."
+      },
+      {
+        "title": "A new journal is born! The Journal of Data-Centric Machine Learning Research joins the JMLR family.",
+        "link": "https://data.mlr.press/",
+        "time": "October 2023",
+        "description": "It finally happened! JMLR has long been the premier journal for machine learning research, and now it has a dedicated journal for data-centric machine learning research. I'm excited to be Editor in Chief together with Isabelle Guyon, Neil Lawrence, Ce Zhang, and Newsha Ardelani."
       },
       {
         "title": "NeurIPS 2022 Datasets and Benchmarks Track",
