@@ -50,10 +50,10 @@
         "title": "NeurIPS 2023 Datasets and Benchmarks Track",
         "link": "https://neurips.cc/Conferences/2023/CallForDatasetsBenchmarks",
         "time": "December 2023",
-        "description": "I'll be chairing the NeurIPS track on Datasets and Benchmarks for a third time, this time together with Emily Denton (Google) and Jung-Woo Ha (NAVER)."
+        "description": "I'll be chairing the NeurIPS track on Datasets and Benchmarks for a third time, this time together with Emily Denton (Google) and Jung-Woo Ha (NAVER). It's been a great journey and I'm looking forward to many amazing new datasets and benchmarks!"
       },
       {
-        "title": "Interview on the impact of AI in science in Nature",
+        "title": "Nature interview on the impact of AI in science",
         "link": "https://www.nature.com/articles/d41586-023-03817-6",
         "time": "December 2023",
         "description": "Philip Ball interviewed me and other scientists about the risk of AI in science. I'm underlining that AI comes with many challenges, but with proper education, research and engineering we can make it safer and accellerate science."
@@ -217,13 +217,30 @@
     ],
     "invited": [
       {
+        "title": "Keynote, Leuven.AI scientific workshop",
+        "link": "https://ai.kuleuven.be/leuven-ai-scientific-workshop/leuven-ai-scientific-workshop-homepage/2024/leuven-ai-scientific-workshop-2024",
+        "time": "May 2024",
+        "description": "It was great being back at my Alma Mater. I spoke about understanding and democratizing AI using OpenML and AutoML. Thanks to Luc de Raedt for the kind invitation!"},
+      {
+        "title": "NIST Metrology Colloquia",
+        "link": "https://www.nist.gov/video/ai-metrology-presentation-series-systematic-benchmarking-ai-safety-and-machine-learning",
+        "time": "December 2023",
+        "description": "Speaking at the fabled NIST institute about systematic benchmarking for AI safety and machine learning (video available!). Thanks to the organizers for the invitation!"
+      },
+      {
+        "title": "Deep Learning Workshop",
+        "link": "https://dl2023.fbk.eu/home",
+        "time": "June 2023",
+        "description": "Super-interesting invitation-only workshop on deep learning in beautiful Trento. I shared our latest work on combining AutoML and continual learning (video available!). Thanks to the organizers Pierre Baldi, Tomaso Poggio, Marc'Aurelio Ranzato, Alessandro Sperduti, and Paolo Traverso!"
+      },
+      {
         "title": "OECD Workshop on AI and the productivity of science.",
         "link": "https://www.oecd.org/sti/inno/ai-productivity-of-science.htm",
         "time": "November 2021",
         "description": "I'll speak about the role of AutoML in accellerating progress in science. Thanks to Alistan Nolan and Ross King!"
       },
       {
-        "title": "IDEAL 2021",
+        "title": "Keynote, IDEAL 2021",
         "link": "https://ideal-conf.com/ideal2021",
         "time": "November 2021",
         "description": "I will be speaking about OpenML and how it accellerates Automated (Machine) Learning. Thanks to Richard Allmendinger!"
@@ -358,6 +375,20 @@
     ]
   },
   "talks": [
+    {
+      "type": "video",
+      "title": "Systematic benchmarking for AI safety and ML research",
+      "description": "Presented at the NIST AI Metrology Colloquium.",
+      "image": "#",
+      "url": "https://cdnapisec.kaltura.com/p/684682/sp/68468200/embedIframeJs/uiconf_id/31013851/partner_id/684682?iframeembed=true&playerId=iframeVid&entry_id=1_7fimfz28&flashvars[streamerType]=auto"
+    },
+    {
+      "type": "video",
+      "title": "Meta-learning for AutoML",
+      "description": "Hands-on tutorial at the AutoML Fall School.",
+      "image": "#",
+      "url": "https://www.youtube.com/embed/3gcHp7n3Qdw"
+    },
     {
       "type": "video",
       "title": "Spreading good AI practices through AutoML",
