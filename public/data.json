@@ -377,10 +377,17 @@
   "talks": [
     {
       "type": "video",
-      "title": "Systematic benchmarking for AI safety and ML research",
+      "title": "Systematic benchmarking for AI safety",
       "description": "Presented at the NIST AI Metrology Colloquium.",
       "image": "#",
       "url": "https://cdnapisec.kaltura.com/p/684682/sp/68468200/embedIframeJs/uiconf_id/31013851/partner_id/684682?iframeembed=true&playerId=iframeVid&entry_id=1_7fimfz28&flashvars[streamerType]=auto"
+    },
+    {
+      "type": "video",
+      "title": "Auto-Continual Learning",
+      "description": "Presented at the Deep Learning Workshop (DL2023).",
+      "image": "#",
+      "url": "https://drive.google.com/file/d/151MwikDyQflsHlzsOFmfY-cFVoeiGL9O/preview"
     },
     {
       "type": "video",
