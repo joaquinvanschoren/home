@@ -58,8 +58,9 @@ class App extends Component {
         <Software data={this.state.data} />
 
         <Talks data={this.state.data.talks} />
+        <Lab data={this.state.data.lab} />
         <Teaching data={this.state.data.courses} />
-        
+
         <Contact data={this.state.data.main} />
         <Footer data={this.state.data.main} />
       </div>
