@@ -11,6 +11,7 @@ import Books from "./Components/Books";
 import Teaching from "./Components/Teaching";
 import Publications from "./Components/Publications";
 import Talks from "./Components/Talks";
+import Contact from "./Components/Contact";
 import Lab from "./Components/Lab";
 
 class App extends Component {
@@ -57,6 +58,7 @@ class App extends Component {
         <Teaching data={this.state.data.courses} />
         <Lab data={this.state.data.lab} />
         <Publications data={this.state.data.publications} />
+        <Contact data={this.state.data.main} />
         <Footer data={this.state.data.main} />
       </div>
     );

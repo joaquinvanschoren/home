@@ -276,6 +276,51 @@ ul#nav li.current a {
   font-size: 20px;
 }
 
+
+#contact a,
+#contact a:visited {
+  color: #fff;
+}
+#contact a:hover,
+#contact a:focus {
+  color: #11abb0;
+}
+
+#contact h2 {
+  font: 22px/30px "opensans-bold", sans-serif;
+  color: #fff;
+  margin-bottom: 12px;
+  clear: both;
+}
+#contact p {
+  line-height: 30px;
+  color: #bababa;
+}
+#contact .profile-pic {
+  position: relative;
+  width: 220px;
+  height: 220px;
+  border-radius: 100%;
+}
+#contact .contact-details {
+  width: 41.66667%;
+}
+#contact .thin-border {
+  border: 1px solid #bababa; /* Adds a thin 1px border */
+  padding: 5px; /* Adds 5px spacing inside the border */
+  color: #bababa;
+}
+#contact .thin-border b {
+  color: #fafafa;
+}
+#contact .download {
+  width: 58.33333%;
+  padding-top: 6px;
+}
+#contact .main-col {
+  padding-right: 5%;
+}
+
 /* ------------------------------------------------------------------ */
 /* c. Lab Section
 /* ------------------------------------------------------------------ */
@@ -1483,7 +1528,7 @@ call-to-action .button {
   margin: 0 6px;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
 }
 .flex-control-paging li a {
   width: 12px;

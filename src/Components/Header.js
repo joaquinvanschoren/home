@@ -45,6 +45,11 @@ class Header extends Component {
               </a>
             </li>
             <li>
+              <a className="smoothscroll" href="#pubs">
+                Research
+              </a>
+            </li>
+            <li>
               <a className="smoothscroll" href="#software">
                 Software
               </a>
@@ -70,8 +75,8 @@ class Header extends Component {
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#pubs">
-                Publications
+              <a className="smoothscroll" href="#contact">
+                Contact
               </a>
             </li>
           </ul>

@@ -32,7 +32,7 @@
         "title": "MALIBO gets a Spotlight at ICML 2024",
         "link": "https://icml.cc/virtual/2024/poster/35064",
         "time": "July 2024",
-        "description": "Don't you hate it when you have to re-optimize model hyperparameters every time you solve a new task? Not anymore! MALIBO is a meta-learning neural network that directly predicts which configurations are most promising, using past experience and task embeddings to generalize over large sets of tasks, much more efficiently than other techniques. Jiarong Pan will present his work as a spotlight talk at NeurIPS 2024."
+        "description": "MALIBO is a neural network that meta-learns how to tunes hyperparameters, using prior experience to optimize models much more efficiently than other techniques. Jiarong Pan will present his work as a spotlight talk at NeurIPS 2024."
       },
       {
         "title": "Continual Learning meets meta-learning at CoLLAs 2024",
