@@ -48,43 +48,6 @@ class Software extends Component {
           <div className="three columns">
             <img
               className="profile-pic"
-              src="images/gama.png"
-              alt="Profile Pic"
-              style={{borderRadius: 0}}
-            />
-          </div>
-          <div className="nine columns main-col">
-            <h2>GAMA: a flexible library to accellerate AutoML research</h2>
-            <p>
-              The General Automated Machine learning Assistant is an
-              open-source, modular library for AutoML research. It allows
-              researchers to quickly evaluate and monitor new AutoML techniques,
-              and allows end users to automatically build machine learning
-              pipelines on new datasets. It is being developed by{" "}
-              <a href="#lab">Pieter Gijsbers and Prabhant Singh</a>.
-            </p>
-            <p>
-              Learn more in the{" "}
-              <a href="http://joss.theoj.org/papers/10.21105/joss.01132">
-                JOSS paper
-              </a>{" "}
-              and the{" "}
-              <a href="https://openml-labs.github.io/gama/master/">documentation</a>.
-            </p>
-            <a
-              href="https://github.com/openml-labs/gama"
-              className="button pull-right"
-            >
-              <i className="fab fa-github"></i> GAMA on GitHub
-            </a>
-            <br />
-          </div>
-        </div>
-
-        <div className="row">
-          <div className="three columns">
-            <img
-              className="profile-pic"
               src="images/AutoMLbench.png"
               alt="Profile Pic"
               style={{borderRadius: 0}}

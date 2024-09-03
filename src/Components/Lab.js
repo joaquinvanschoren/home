@@ -9,7 +9,7 @@ class Lab extends Component {
         <div className="row">
           <div className="columns main-col">
             <h1>Automated Machine Learning Lab @ TU/e</h1>
-            <img alt="group" src="images/group-image.webp" width="100%"/>
+            <img alt="group" src="images/group_image.webp" width="100%"/>
             <p>
               I’m fortunate to work with an amazing team. We build AI systems that learn continually and automatically assemble themselves to learn faster and better, often inspired by the human brain.
               Our key research topics are Automated Machine Learning (AutoML), including Neural Architecture Search (NAS), Meta-Learning, and Continual Learning, and all possible combinations thereof. We also apply this work for the benefit of society in applications such as Health, Food, Energy, and Mobility.
