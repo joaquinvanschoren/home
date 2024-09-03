@@ -32,13 +32,13 @@
         "title": "MALIBO gets a Spotlight at ICML 2024",
         "link": "https://icml.cc/virtual/2024/poster/35064",
         "time": "July 2024",
-        "description": "MALIBO is a neural network that meta-learns how to tunes hyperparameters, using prior experience to optimize models much more efficiently than other techniques. Jiarong Pan will present his work as a spotlight talk at NeurIPS 2024."
+        "description": "MALIBO is a neural network that meta-learns how to tune hyperparameters - it learns across many prior tasks to tune models much more efficiently than other techniques. Jiarong Pan will present his work as a spotlight talk at NeurIPS 2024."
       },
       {
         "title": "Continual Learning meets meta-learning at CoLLAs 2024",
         "link": "https://lifelong-ml.cc/Conferences/2024/acceptedpapersandvideos/conf-2024-22",
         "time": "July 2024",
-        "description": "Efficient lifelong learning requires that we know which neural connections to strengthen or weaken, so we can learn new skills without forgetting old ones. We show that you can meta-learn exactly which weights to update and how, yielding BOTH better backward transfer (less forgetting) and forward transfer (faster learning) than existing methods! Anna Vettoruzzo did amazing work and will present it at CoLLAs 2024."
+        "description": "In lifelong learning, AI models need to learn new skills without forgetting old ones. Our new method can learn exactly which neural connections to update and which ones not, learning new tasks much faster while also forgetting much less! Anna Vettoruzzo will present her amazing work at CoLLAs 2024."
       },
       {
         "title": "MLCommons AI Safety working group - first light!",

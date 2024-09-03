@@ -35,11 +35,6 @@ class Header extends Component {
               <a>|</a>
             </li>
             <li>
-              <a className="smoothscroll" href="#about">
-                About
-              </a>
-            </li>
-            <li>
               <a className="smoothscroll" href="#news">
                 News
               </a>
@@ -50,16 +45,6 @@ class Header extends Component {
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#software">
-                Software
-              </a>
-            </li>
-            <li>
-              <a className="smoothscroll" href="#books">
-                Books
-              </a>
-            </li>
-            <li>
               <a className="smoothscroll" href="#talks">
                 Talks
               </a>
@@ -67,11 +52,6 @@ class Header extends Component {
             <li>
               <a className="smoothscroll" href="#courses">
                 Teaching
-              </a>
-            </li>
-            <li>
-              <a className="smoothscroll" href="#lab">
-                Lab
               </a>
             </li>
             <li>

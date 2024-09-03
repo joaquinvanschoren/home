@@ -52,12 +52,14 @@ class App extends Component {
         <Header data={this.state.data.main} />
         <About data={this.state.data.main} />
         <News data={this.state.data.news} />
-        <Software data={this.state.data} />
+
+        <Publications data={this.state.data.publications} />
         <Books data={this.state.data.books} />
+        <Software data={this.state.data} />
+
         <Talks data={this.state.data.talks} />
         <Teaching data={this.state.data.courses} />
-        <Lab data={this.state.data.lab} />
-        <Publications data={this.state.data.publications} />
+        
         <Contact data={this.state.data.main} />
         <Footer data={this.state.data.main} />
       </div>
