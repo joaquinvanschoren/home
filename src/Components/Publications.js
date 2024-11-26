@@ -18,7 +18,7 @@ class Publications extends Component {
 
     for (let i = 0; i < this.pubtypes.length; i++) {
       var type = this.pubtypes[i];
-      this.state[type + "_shown"] = 3;
+      this.state[type + "_shown"] = 6;
       this.state[type + "_allShown"] = false;
     }
   }
@@ -53,7 +53,7 @@ class Publications extends Component {
             <div className="citation" key={pubs.title}>
               {pubs.authors}
               <br />
-              <a href={pubs.url}>{pubs.title}</a> <i>{pubs.reference}</i>
+              <a href={pubs.url}>{pubs.title}</a>. <b>{pubs.reference}</b>, {pubs.year}
             </div>
           );
         });
