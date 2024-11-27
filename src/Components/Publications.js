@@ -53,7 +53,7 @@ class Publications extends Component {
             <div className="citation" key={pubs.title}>
               {pubs.authors}
               <br />
-              <a href={pubs.url}>{pubs.title}</a>. <b>{pubs.reference}</b>, {pubs.year}
+              <a href={pubs.url} target="_blank" rel="noreferrer">{pubs.title}</a>. <b>{pubs.reference}</b>, {pubs.year}
             </div>
           );
         });
