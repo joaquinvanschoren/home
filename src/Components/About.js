@@ -21,8 +21,8 @@ class About extends Component {
               <a href="https://www.tue.nl/en/research/researchers/joaquin-vanschoren/">
                 associate professor at TU Eindhoven
               </a>
-              {" "} and head of the <a href="https://openml-labs.github.io/website/" target="_blank" rel="noreferrer">Automated Machine Learning lab</a>. I aim to deeply understand, explain, and democratize AI, and build trustworthy AI systems for the benefit of all humanity. My team and I focus on cutting-edge research to advance the capabilities of AI models, inventing new architectures 
-              and training procedures to learn better and faster, and adapt continually to new tasks and environments. We work on Automated Machine Learning (AutoML), Meta-Learning, Continual Learning, Foundation Models, and many related fields. We also apply this work for the benefit of society in applications such as Health, Food, Energy, and Mobility.
+              {" "} and head of the <a href="https://openml-labs.github.io/website/" target="_blank" rel="noreferrer">Automated Machine Learning lab</a>. We aim to scientifically understand (human-like) intelligence, and build trustworthy AI systems for the benefit of all humanity.
+              We focus on cutting-edge research to advance the capabilities of AI models, inventing new architectures and training procedures to learn better and faster, and adapt continually to new tasks and environments. We work on Automated Machine Learning (AutoML), Meta-Learning, Continual Learning, Foundation Models, and many related fields, and apply our work for the benefit of society.
               You can <a href="#pubs">find our work</a> in top AI conferences and journals, and we build AI models and systems that are widely used by people every day.
               </p>
               <p>I founded <a href="https://www.openml.org">OpenML</a>, a useful open science platform for machine learning, to streamline and accelerate reproducible AI research. 
