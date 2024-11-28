@@ -19,16 +19,16 @@ class Software extends Component {
           <div className="nine columns main-col">
             <h2>OpenML: a worldwide machine learning lab</h2>
             <p>
-              I founded <a href="https://www.openml.org">OpenML.org</a>, a
+              We created <a href="https://www.openml.org">OpenML.org</a>, a
               popular online platform for sharing data, code, models and
               experiments in an open and reproducible way, so that we can all
               learn from our collective past experience and build ever-better
               learning systems. It also offers AI-ready datasets and benchmarks
-              via convenient interfaces to more than 250.000 users.
+              via convenient interfaces to more than 300.000 users.
             </p>
             <p>
               OpenML is being developed and maintained by{" "}
-              <a href="https://www.openml.org/contact">an awesome team</a> of
+              <a href="https://www.openml.org/about">an awesome team</a> of
               researchers and software developers.{" "}
               <b>
                 <i>Join us!</i>
@@ -61,11 +61,10 @@ class Software extends Component {
               Joined work with MLCommons, Google, HuggingFace, Kaggle, and many more.
             </p>
             <p>
-              Learn more about the system in the{" "}. 
+              Learn more about the system in the{" "} 
               <a href="https://neurips.cc/virtual/2024/poster/97627">
-                NeurIPS paper
+                NeurIPS paper.
               </a>
-              .
             </p>
             <a
               href="https://github.com/mlcommons/croissant"
@@ -97,11 +96,10 @@ class Software extends Component {
             <p>
               Check out results on the{" "}
               <a href="https://openml.github.io/automlbenchmark">website</a> and
-              learn more about the system in the{" "}. 
-              <a href="https://arxiv.org/abs/2207.12560">
-                paper
+              learn more about the system in the{" "} 
+              <a href="https://www.jmlr.org/papers/v25/22-0493.html">
+                JMLR paper.
               </a>
-              .
             </p>
             <a
               href="https://github.com/openml/automlbenchmark"
