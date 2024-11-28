@@ -51,9 +51,11 @@ class Publications extends Component {
         pubs[t] = d.slice(0, this.state.sort_year ? 100 : this.state[t + "_shown"]).map(function(pubs) {
           return (
             <div className="citation" key={pubs.title}>
+              <a href={pubs.url} target="_blank" rel="noreferrer">{pubs.title}</a>
+              <br />
               {pubs.authors}
               <br />
-              <a href={pubs.url} target="_blank" rel="noreferrer">{pubs.title}</a>. <b>{pubs.reference}</b>, {pubs.year}
+              <i>{pubs.reference}</i>, {pubs.year}
             </div>
           );
         });
@@ -95,37 +97,45 @@ class Publications extends Component {
               </div>
             </div>
 
+            {(this.state[ty + "_count"] - this.state[ty + "_shown"]) >= 0 && (
             <div className="ten columns main-col pubmore">
               <a
                 onClick={this.show_more}
                 value={ty}
                 className={this.state[ty + "_allShown"] ? "hide" : "show"}
-              >
-                <i className="fa fa-2x fa-angle-double-down"></i>{" "}
+                style={{ cursor: "pointer", display: "flex", alignItems: "center" }}
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="36"
+                    height="36"
+                    viewBox="0 0 24 24"
+                    style={{ marginRight: "5px" }}
+                    fill="currentColor"
+                  >
+                    <path d="M7 10l5 5 5-5H7zm0-6l5 5 5-5H7z"></path>
+                  </svg>
                 {this.state[ty + "_count"] - this.state[ty + "_shown"]} More
               </a>
             </div>
+            )}
           </div>
         );
       }
     }
     return (
       <section id="pubs">
-        <div className="row separated">
+        <div className="row">
           <div className="twelve columns">
             <h2>Publications</h2>
             <div className="toplink">
               Publications ordered by {this.state.sort_year ? "year" : "publication type and date"} (newest first), linked to
-              PDFs. <a href="#" onClick={this.toggleSwitch}>Sort by {this.state.sort_year ? "type and date" : "year"}</a>
+              PDFs. <a href="#" onClick={this.toggleSwitch}><span>Sort by {this.state.sort_year ? "publication type and date" : "year"}</span></a>
               <br />
-              Preprints are listed on{" "}
-              <a href="https://arxiv.org/search/?query=joaquin+vanschoren&searchtype=all&abstracts=show&order=-announced_date_first&size=50">
-                Arxiv
-              </a>
-              . For citations, see{" "}
+              <i>The list may be incomplete. For the complete list and citations, see{" "}
               <a href="http://scholar.google.nl/citations?user=HhDsD9UAAAAJ&hl=en&oi=ao">
-                Google Scholar
-              </a>
+                <span>Google Scholar</span>
+              </a></i>
               .
             </div>
 

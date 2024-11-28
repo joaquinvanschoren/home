@@ -42,8 +42,7 @@ class Lab extends Component {
               <h2>Join us</h2>
               <ul>
                 <li>
-                  <b>PhD, PostDoc, or AI Engineer positions</b>: I'm <i>honoured</i> that you are considering me as a possible advisor! Please check out <a href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3Dvanschoren%26p_category_code_arr%3D6047-461659%26p_category_code_arr%3D6047-461661%26p_category_code_arr%3D6047-461665%26p_category_code_arr%3D6047-461666%26p_category_code_arr%3D6048-461676%26_gl%3D1*1tx08a4*_up*MQ..*_ga*OTIwMzU2OTcuMTcyNTAyOTg3Ng..*_ga_JN37M497TT*MTcyNTAyOTg3NS4xLjAuMTcyNTAyOTg3NS4wLjAuMA..&page=1" target="_blank">open positions in my lab</a>, or{" "}
-                    <a href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3D%26p_category_code_arr%3D6047-461659%26p_category_code_arr%3D6047-461661%26p_category_code_arr%3D6047-461665%26p_category_code_arr%3D6047-461666%26p_category_code_arr%3D6048-461676&page=1" target="_blank">other positions at our department</a>.
+                  <b>PhD, PostDoc, or AI Engineer positions</b>: I'm <i>honoured</i> that you are considering me as a possible advisor! Please check out our <a href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3D%26p_category_code_arr%3D6048-461676&page=1" target="_blank">open positions</a>.
                     Without an open position, you need to be self-funded or have a scholarship.
                 </li><li>
                   <b>Internships</b>: Sadly, our lab is generally not able to support interns. If we do, it will also be posted on the job board above.
@@ -52,6 +51,14 @@ class Lab extends Component {
                     what you want to explore together, how it aligns with our work. Note that we generally expect you to stay for at least a few months. 
                 </li>
               </ul>
+              <p>
+              <a
+                href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3D%26p_category_code_arr%3D6048-461676&page=1"
+                className="button pull-right"
+              >
+                <i className="fa fa-globe"></i> Check open positions
+              </a>
+              </p>
             </div>
           </div>
       </section>
