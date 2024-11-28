@@ -12,23 +12,25 @@ class Lab extends Component {
           </div>
         </div>
         <div className="row">
-          <div className="columns six">
+          <div className="columns four">
           <img alt="group" src="images/group_image.webp" width="100%"/>
           </div>
-          <div className="columns six main-col">
+          <div className="columns eight main-col">
             <p>
-              I’m fortunate to work with an amazing team. We build AI systems that learn continually and automatically assemble themselves to learn faster and better, often inspired by the human brain.
-              Our key research topics are Automated Machine Learning (AutoML), including Neural Architecture Search (NAS), Meta-Learning, and Continual Learning, and all possible combinations thereof. We also apply this work for the benefit of society in applications such as Health, Food, Energy, and Mobility.
-              We perform cutting-edge research but also take pride in good engineering and open science to make our work maximally useful and impactful.
+              I’m fortunate to work with an amazing team. We focus on <a href="#pubs">cutting-edge research</a> to deeply understand and advance the capabilities of AI models, 
+              inventing new neural network architectures and training procedures to learn better and faster, and adapt continually to new tasks and environments. 
+              We work on Automated Machine Learning (AutoML), Meta-Learning, Continual Learning, Foundation Models, Open-Endedness, and many related fields, 
+              and apply our work for the benefit of society. You can <a href="#pubs">find our work</a> in top AI conferences and journals, and 
+              we take pride in good engineering and open science to build AI models and systems that are widely used by people every day.
+              </p><p>
               We are part of the{" "}
-              <a href="https://www.tue.nl/en/research/research-groups/artificial-intelligence/">
+              <a href="https://dai.win.tue.nl/" target="_blank">
                 Data and Artificial Intelligence Cluster
-              </a>
-              .
+              </a> at Eindhoven University of Technology, and collaborate with many other labs and companies worldwide.
             </p>
             <p>
             <a
-              href="https://www.github.com/openml"
+              href="https://openml-labs.github.io/website/" target="_blank"
               className="button pull-right"
             >
               <i className="fa fa-globe"></i> Check our lab website

@@ -21,11 +21,7 @@ class About extends Component {
               <a href="https://www.tue.nl/en/research/researchers/joaquin-vanschoren/">
                 associate professor at TU Eindhoven
               </a>
-              {" "} and head of the <a href="https://openml-labs.github.io/website/" target="_blank" rel="noreferrer">Automated Machine Learning lab</a>. We aim to scientifically understand (human-like) intelligence, and build trustworthy AI systems for the benefit of all humanity.
-              We focus on cutting-edge research to advance the capabilities of AI models, inventing new architectures and training procedures to learn better and faster, and adapt continually to new tasks and environments. We work on Automated Machine Learning (AutoML), Meta-Learning, Continual Learning, Foundation Models, and many related fields, and apply our work for the benefit of society.
-              You can <a href="#pubs">find our work</a> in top AI conferences and journals, and we build AI models and systems that are widely used by people every day.
-              </p>
-              <p>Interesting in joining? <a href="http://localhost:3000/home#lab" target="_blank">Learn more</a>.
+              {" "} and head of the <a href="#lab" target="_blank" rel="noreferrer">Automated Machine Learning lab</a>. We aim to scientifically understand (human-like) intelligence, advance AI capabilities, and democratize AI for the benefit of all humanity.
               </p>
               <p>I founded <a href="https://www.openml.org">OpenML</a>, a useful open science platform for machine learning, to streamline and accelerate reproducible AI research. 
               I was the inaugural chair of the <a href="https://neuripsconf.medium.com/announcing-the-neurips-2021-datasets-and-benchmarks-track-644e27c1e66c" target="_blank" rel="noreferrer">NeurIPS Datasets and Benchmarks track</a> and am editor-in-chief of the <a href="https://data.mlr.press/" target="_blank" rel="noreferrer">DMLR journal</a>, to incentivize and reward good data and evaluation practices in AI.

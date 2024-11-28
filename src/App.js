@@ -51,6 +51,7 @@ class App extends Component {
       <div className="App">
         <Header data={this.state.data.main} />
         <About data={this.state.data.main} />
+        <Lab data={this.state.data.lab} />
         <News data={this.state.data.news} />
 
         <Publications data={this.state.data.publications} />
@@ -58,7 +59,6 @@ class App extends Component {
         <Software data={this.state.data} />
 
         <Talks data={this.state.data.talks} />
-        <Lab data={this.state.data.lab} />
         <Teaching data={this.state.data.courses} />
 
         <Contact data={this.state.data.main} />

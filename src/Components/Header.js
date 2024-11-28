@@ -45,13 +45,18 @@ class Header extends Component {
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#talks">
-                Talks
+              <a className="smoothscroll" href="#books">
+                Books
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#lab">
-                Lab
+              <a className="smoothscroll" href="#software">
+                Software
+              </a>
+            </li>
+            <li>
+              <a className="smoothscroll" href="#talks">
+                Talks
               </a>
             </li>
             <li>

@@ -48,6 +48,39 @@ class Software extends Component {
           <div className="three columns">
             <img
               className="profile-pic"
+              src="images/croissant.png"
+              alt="Croissant Pic"
+              style={{borderRadius: 0}}
+            />
+          </div>
+          <div className="nine columns main-col">
+            <h2>Croissant</h2>
+            <p>
+              Croissant is a new standard for describing machine learning datasets, making it easier 
+              to share and reuse data and load it automatically into AI libraries. 
+              Joined work with MLCommons, Google, HuggingFace, Kaggle, and many more.
+            </p>
+            <p>
+              Learn more about the system in the{" "}. 
+              <a href="https://neurips.cc/virtual/2024/poster/97627">
+                NeurIPS paper
+              </a>
+              .
+            </p>
+            <a
+              href="https://github.com/mlcommons/croissant"
+              className="button pull-right"
+            >
+              <i className="fab fa-github"></i> Croissant on GitHub
+            </a>
+            <br />
+          </div>
+        </div>
+
+        <div className="row">
+          <div className="three columns">
+            <img
+              className="profile-pic"
               src="images/AutoMLbench.png"
               alt="Profile Pic"
               style={{borderRadius: 0}}
