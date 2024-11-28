@@ -41,18 +41,15 @@ class Lab extends Component {
             </div>
             <div className="row">
               <div className="columns main-col">
-              <h2>Join us</h2>
-              <ul>
-                <li>
+              <h2><i>Join us!</i></h2>
+              <p>
                   <b>PhD, PostDoc, or AI Engineer positions</b>: I'm <i>honoured</i> that you are considering me as a possible advisor! Please check out our <a href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3D%26p_category_code_arr%3D6048-461676&page=1" target="_blank">open positions</a>.
                     Without an open position, you need to be self-funded or have a scholarship.
-                </li><li>
-                  <b>Internships</b>: Sadly, our lab is generally not able to support interns. If we do, it will also be posted on the job board above.
-                </li><li>
-                  <b>Visiting researchers</b>: We <i>love</i> discussing new ideas and collaborations! Please clearly explain
-                    what you want to explore together, how it aligns with our work. Note that we generally expect you to stay for at least a few months. 
-                </li>
-              </ul>
+                </p>
+              <p>
+                  <b>Visiting researchers</b>: We <i>love</i> discussing new ideas and collaborations! Note that we generally expect you to stay for at least a few months. 
+                    Our lab is generally not able to offer paid internships.
+                </p>
               <p>
               <a
                 href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3D%26p_category_code_arr%3D6048-461676&page=1"
