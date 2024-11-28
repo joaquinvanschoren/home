@@ -9,10 +9,9 @@ class Contact extends Component {
     return (
       <section id="contact">
         <div className="row">
-            <div className="row">
+            <div className="twelve columns">
 
 
-            <div className="columns main-col">
               <h2>Contact</h2>
                   <p className="address">
                     <span>
@@ -24,12 +23,10 @@ class Contact extends Component {
                       <i className="fas fa-phone"></i> {phone}
                     </span>
                     <br />
-                  </p>          
-            </div>
+                  </p>       
             </div>
 
-            <div className="row">
-              <div className="columns main-col">
+            <div className="twelve columns">
                 <h2>Email</h2>
                 <p className="address">
                   You can reach me via email at j.vanschoren{" "}<i className="fas fa-at"></i>{" "}tue.nl. However, <b><i>please read the following before you do</i></b>.
@@ -45,8 +42,8 @@ class Contact extends Component {
                   </span>
                   <br />
                   <span>
-                    <b>- PhD, PostDoc, or AI Engineer applications</b>: I'm <i>honoured</i> that you are considering me as a possible advisor! Please check out <a href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3Dvanschoren%26p_category_code_arr%3D6047-461659%26p_category_code_arr%3D6047-461661%26p_category_code_arr%3D6047-461665%26p_category_code_arr%3D6047-461666%26p_category_code_arr%3D6048-461676%26_gl%3D1*1tx08a4*_up*MQ..*_ga*OTIwMzU2OTcuMTcyNTAyOTg3Ng..*_ga_JN37M497TT*MTcyNTAyOTg3NS4xLjAuMTcyNTAyOTg3NS4wLjAuMA..&page=1" target="_blank">open positions in my lab</a>, or{" "}
-                    <a href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3D%26p_category_code_arr%3D6047-461659%26p_category_code_arr%3D6047-461661%26p_category_code_arr%3D6047-461665%26p_category_code_arr%3D6047-461666%26p_category_code_arr%3D6048-461676&page=1" target="_blank">other positions at our department</a>.
+                    <b>- PhD, PostDoc, or AI Engineer applications</b>: I'm <i>honoured</i> that you are considering me as a possible advisor! Please check out{" "}
+                    <a href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3D%26p_category_code_arr%3D6048-461676&page=1" target="_blank">open positions in our research group</a>.
                     Without an open position, you need to be self-funded or have a scholarship.
                   </span>
                   <br />
@@ -84,8 +81,7 @@ class Contact extends Component {
                   </span>
                   <br />
                 </div>
-              </div>
-          </div>
+                </div>
         </div>
       </section>
     );
