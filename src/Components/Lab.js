@@ -18,7 +18,7 @@ class Lab extends Component {
           <div className="columns eight main-col">
             <p>
               I’m fortunate to work with an amazing team. We focus on <a href="#pubs">cutting-edge research</a> to deeply understand and advance the capabilities of AI models, 
-              inventing new neural network architectures and training procedures to learn better and faster, and adapt continually to new tasks and environments. 
+              inventing new neural network architectures and training procedures to learn better and faster, and to allow models adapt continually to new tasks and environments. 
               We work on Automated Machine Learning (AutoML), Meta-Learning, Continual Learning, Foundation Models, Open-Endedness, and many related fields, 
               and apply our work for the benefit of society. You can <a href="#pubs">find our work</a> in top AI conferences and journals, and 
               we take pride in good engineering and open science to build AI models and systems that are widely used by people every day.

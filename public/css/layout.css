@@ -1196,6 +1196,14 @@ call-to-action .button {
 /* g. publications
 /* ------------------------------------------------------------------ */
 
+
+#contact {
+  background: #123C69;
+  padding-top: 96px;
+  padding-bottom: 102px;
+  color: #fff;
+}
+
 #publications {
   background: #1f1f1f url(../images/publications-bg.jpg) no-repeat center center;
   background-size: cover !important;
