@@ -30,7 +30,7 @@ class Lab extends Component {
             </p>
             <p>
             <a
-              href="https://openml-labs.github.io/website/" target="_blank"
+              href="https://amore-labs.github.io" target="_blank"
               className="button pull-right"
             >
               <i className="fa fa-globe"></i> Check our lab website
@@ -52,7 +52,7 @@ class Lab extends Component {
                 </p>
               <p>
               <a
-                href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3D%26p_category_code_arr%3D6048-461676&page=1"
+                href="https://amore-labs.github.io/website/join/join.html"
                 className="button pull-right"
               >
                 <i className="fa fa-globe"></i> Check open positions
