@@ -155,7 +155,8 @@ header .scrolldown a:hover {
   top: 0;
 }
 .opaque {
-  background-color: #333;
+  background-color: #AC3B61;
+  color: #fff;
 }
 
 /* hide toggle button */
