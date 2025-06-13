@@ -156,6 +156,9 @@ header .scrolldown a:hover {
 }
 .opaque {
   background-color: #AC3B61;
+}
+
+.opaque ul#nav li a {
   color: #fff;
 }
 
