@@ -71,6 +71,12 @@ class Header extends Component {
             </li>
           </ul>
         </nav>
+        <div className="row banner">
+          <div className="banner-text">
+            <h1 className="responsive-headline">Hi!</h1>
+          </div>
+        </div>
+
         <p className="scrolldown">
           <a className="smoothscroll" href="#about">
             <i className="icon-down-circle"></i>
