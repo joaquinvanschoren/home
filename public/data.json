@@ -29,6 +29,18 @@
   "news": {
     "news": [
       {
+        "title": "Two new papers at CoLLAs 2025",
+        "link": "https://lifelong-ml.cc/Conferences/2025/",
+        "time": "May 2025",
+        "description": "We’re presenting SERENA, a surprisingly efficient neuro-inspired approach for continual learning using sparse models, as well as SuperNet Transfer, a new method that efficiently adapts neural architectures during transfer learning."
+      },
+      {
+        "title": "Three new large projects on open Generative AI",
+        "link": "https://openeurollm.eu/",
+        "time": "February 2025",
+        "description": "We’re joining forces with leading AI labs al over Europe to openly research and build new generations of multilingual large (and small!) language models and multimodal foundation models. We'll be hiring 12 new PhD's, PostDocs and Engineers in our lab."
+      },
+      {
         "title": "NeurIPS 2024 Spotlight for Croissant",
         "link": "https://neurips.cc/virtual/2024/poster/97627",
         "time": "December 2024",

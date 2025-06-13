@@ -8,7 +8,7 @@ class Lab extends Component {
       <section id="lab">
         <div className="row">
           <div className="columns main-col">
-            <h1>Automated Machine Learning Lab @ TU/e</h1>
+            <h1>Artificial Minds research lab @ TU/e</h1>
           </div>
         </div>
         <div className="row">
@@ -17,10 +17,11 @@ class Lab extends Component {
           </div>
           <div className="columns eight main-col">
             <p>
-              I’m fortunate to work with an amazing team. We focus on <a href="#pubs">cutting-edge research</a> to deeply understand and advance the capabilities of AI models, 
-              inventing new neural network architectures and training procedures to learn better and faster, and to allow models adapt continually to new tasks and environments. 
-              We work on Automated Machine Learning (AutoML), Meta-Learning, Continual Learning, Foundation Models, Open-Endedness, and many related fields, 
-              and apply our work for the benefit of society. You can <a href="#pubs">find our work</a> in top AI conferences and journals, and 
+              I’m fortunate to work with an amazing team. Me and my research group on <i>Artificial Minds through Open Research and Engineering</i> (AMORE) 
+              aim to scientifically understand and build AI systems with advanced capabilities, and make AI accessible to benefit all of humanity.
+              We invent new neural network architectures and train them in new ways to learn better and faster, study models systematically, 
+              and use our insights to automate this process so that AI systems can self-assemble and optimize themselves. Everything we create 
+              is open-source and crafted with user-friendliness in mind. You can <a href="#pubs">find our work</a> in top AI conferences and journals, and 
               we take pride in good engineering and open science to build AI models and systems that are widely used by people every day.
               </p><p>
               We are part of the{" "}
@@ -43,7 +44,7 @@ class Lab extends Component {
               <div className="columns main-col">
               <h2><i>Join us!</i></h2>
               <p>
-                  <b>PhD, PostDoc, or AI Engineer positions</b>: I'm <i>honoured</i> that you are considering me as a possible advisor! Please check out our <a href="https://jobs.tue.nl/en/vacancies.html#filter=p_type%3DSEARCH_RESULTS%26p_search%3D%26p_category_code_arr%3D6048-461676&page=1" target="_blank">open positions</a>.
+                  <b>PhD, PostDoc, or AI Engineer positions</b>: I'm <i>honoured</i> that you are considering me as a possible advisor! Please check out our <a href="https://amore-labs.github.io/website/join/join.html" target="_blank">open positions</a>.
                     Without an open position, you need to be self-funded or have a scholarship.
                 </p>
               <p>
