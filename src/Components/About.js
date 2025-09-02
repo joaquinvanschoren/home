@@ -21,7 +21,7 @@ class About extends Component {
               <a href="https://www.tue.nl/en/research/researchers/joaquin-vanschoren/">
                 associate professor at TU Eindhoven
               </a>
-              {" "} and head of the <a href="#lab" target="_blank" rel="noreferrer">Artificial Minds research group</a>. We aim to scientifically understand and build AI systems with advanced capabilities, and make AI accessible to benefit all of humanity.
+              {" "} and head of the research group on <a href="#lab" target="_blank" rel="noreferrer">Advanced Models through Open Research and Engineering (AMORE)</a>. We aim to scientifically understand and build AI systems with advanced capabilities, and make AI accessible to benefit all of humanity.
               </p>
               <p>I founded <a href="https://www.openml.org">OpenML</a>, a useful open science platform for machine learning, to streamline and accelerate reproducible AI research. 
               I was the inaugural chair of the <a href="https://neuripsconf.medium.com/announcing-the-neurips-2021-datasets-and-benchmarks-track-644e27c1e66c" target="_blank" rel="noreferrer">NeurIPS Datasets and Benchmarks track</a> and am editor-in-chief of the <a href="https://data.mlr.press/" target="_blank" rel="noreferrer">DMLR journal</a>, to incentivize and reward good data and evaluation practices in AI.
