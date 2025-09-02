@@ -8,7 +8,7 @@ class Lab extends Component {
       <section id="lab">
         <div className="row">
           <div className="columns main-col">
-            <h1>Artificial Minds research lab @ TU/e</h1>
+            <h1>AMOR/e research lab @ TU/e</h1>
           </div>
         </div>
         <div className="row">
@@ -17,7 +17,7 @@ class Lab extends Component {
           </div>
           <div className="columns eight main-col">
             <p>
-              I’m fortunate to work with an amazing team. Me and my research group on <i>Artificial Minds through Open Research and Engineering</i> (AMORE) 
+              I’m fortunate to work with an amazing team. Me and my research group on <i>Advanced Models through Open Research and Engineering</i> (AMORE) 
               aim to scientifically understand and build AI systems with advanced capabilities, and make AI accessible to benefit all of humanity.
               We invent new neural network architectures and train them in new ways to learn better and faster, study models systematically, 
               and use our insights to automate this process so that AI systems can self-assemble and optimize themselves. Everything we create 
