@@ -5,6 +5,7 @@ class Publications extends Component {
     "journal papers",
     "conference papers",
     "workshop papers",
+    "technical reports",
     "book chapters",
     "books edited",
     "dissertations",
