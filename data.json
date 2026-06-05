@@ -29,6 +29,12 @@
   "news": {
     "news": [
       {
+        "title": "Editor Pick for Patterns",
+        "link": "https://lifelong-ml.cc/Conferences/2025/",
+        "time": "December 2025",
+        "description": "Our article on OpenML in the journal Patterns was selected as one of the Editor Picks for 2025."
+      },
+      {
         "title": "Two new papers at CoLLAs 2025",
         "link": "https://lifelong-ml.cc/Conferences/2025/",
         "time": "May 2025",
@@ -235,6 +241,31 @@
     ],
     "invited": [
       {
+        "title": "International Programme on AI Evaluation: Capabilities and Safety",
+        "link": "https://ai-evaluation.org/programme",
+        "time": "May 2026",
+        "description": "This is an amazing program with many excellent speakers and a very motivated and diverse group of students. I gave two talks, one on benchmarking and another on automated red-teaming. Many thanks to Jose Hernandez-Orallo and the entire team!"},
+      {
+        "title": "SURF Research Day",
+        "link": "https://www.surf.nl/en/agenda/surf-research-day-2026",
+        "time": "May 2026",
+        "description": "Me and Yue Zhao were at the main stage to present OpenML and our plans to create a next-generation infrastructure for AI-driven research."},
+      {
+        "title": "Keynote, Metascience for Machine Learning workshop",
+        "link": "https://metascienceforml.github.io/projects/2_project.html",
+        "time": "October 2025",
+        "description": "Very interesting and intense discussion on creating new incentives for creating datasets and benchmarks"},
+      {
+        "title": "Keynote, Discovery Science 2025",
+        "link": "https://ds-2025.github.io/",
+        "time": "September 2025",
+        "description": "I was honored to give one of the keynotes at Discovery Science and to present our latest work on auto-continual learning. Many thanks to Saso Dzeroski and the other organizers for the kind invitation!"},
+      {
+        "title": "ELLIS-CISPA Summer School on Trustworthy AI",
+        "link": "https://elsa-ai.eu/save-the-date-cispa-ellis-summer-school-2025/",
+        "time": "August 2025",
+        "description": "Excellent summer school on Trustworthy AI and Safe and Secure Foundation Models. Many thanks to Mario Fritz and the entire team!"},
+      {
         "title": "Keynote, Leuven.AI scientific workshop",
         "link": "https://ai.kuleuven.be/leuven-ai-scientific-workshop/leuven-ai-scientific-workshop-homepage/2024/leuven-ai-scientific-workshop-2024",
         "time": "May 2024",
@@ -393,6 +424,13 @@
     ]
   },
   "talks": [
+    {
+      "type": "video",
+      "title": "Safety Benchmarks for General-Purpose AI Models",
+      "description": "Presented at the CISPA ELLIS Summer School 2025.",
+      "image": "#",
+      "url": "https://www.youtube.com/watch?v=WDAVTKmhg5w"
+    },
     {
       "type": "video",
       "title": "Systematic benchmarking for AI safety",
@@ -999,6 +1037,41 @@
   "publications": {
     "journal papers": [
       {
+        "authors": "E. C. Gok Yildirim, M. O. Yildirim, J. Vanschoren",
+        "url": "https://openreview.net/pdf?id=gquE9AOmTb",
+        "title": "Coresets are More Than Replay: A Data-Centric View of Continual Learning",
+        "reference": "Neural Computing and Applications, 2026",
+        "year": 2026
+      },
+      {
+        "authors": "B. Bischl, G. Casalicchio, T. Das, M. Feurer, S. Fischer, P. Gijsbers, S. Mukherjee, A. C. Müller, L. Németh, L. Oala, L. Purucker, S. Ravi, J. N. van Rijn, P. Singh, J. Vanschoren, J. van der Velde, M. Wever",
+        "url": "https://www.cell.com/patterns/fulltext/S2666-3899(25)00165-5",
+        "title": "OpenML: Insights from 10 years and more than a thousand papers",
+        "reference": "Patterns 6(7), 101317, 2025",
+        "year": 2025
+      },
+      {
+        "authors": "P. Singh, P. Gijsbers, E. C. Gok Yildirim, M. O. Yildirim, J. Vanschoren",
+        "url": "https://link.springer.com/article/10.1007/s10994-025-06984-x",
+        "title": "Automated Machine Learning for Unsupervised Tabular Tasks",
+        "reference": "Machine Learning Journal, 115(3), Art. 39",
+        "year": 2025
+      },
+      {
+        "authors": "M. O. Yildirim, E. C. Gok Yildirim, J. Vanschoren",
+        "url": "https://openreview.net/forum?id=OWfWyj6krc",
+        "title": "Unlocking [CLS] Features for Continual Post-Training",
+        "reference": "Transactions on Machine Learning Research, 2026",
+        "year": 2026
+      },
+      {
+        "authors": "A. Cvetkov-Iliev, V. Soulios, L. Xu, G. Merin Abbas, E. Kyrou, L. Havinga, P. J. Hoes, R. Loonen, J. Vanschoren",
+        "url": "https://www.sciencedirect.com/science/article/pii/S037877882500341X",
+        "title": "In-depth sensitivity analysis of heating demand and overheating in Dutch terraced houses using interpretable machine learning.",
+        "reference": "Energy & Buildings, 337, no. 11561",
+        "year": 2025
+      },
+      {
         "authors": "Gijsbers, P., Bueno, M.L.P., Coors, S., LeDell, E., Poirier, S., Thomas, J., Bischl, B., Vanschoren, J.",
         "url": "https://www.jmlr.org/papers/v25/22-0493.html",
         "title": "AMLB: an AutoML Benchmark",
@@ -1203,6 +1276,69 @@
       }
     ],
     "conference papers": [
+      {
+        "authors": "B. Pecher, I. Srba, M. Bielikova, J. Vanschoren",
+        "url": "https://arxiv.org/abs/2402.03038",
+        "title": "Automatic Combination of Sample Selection Strategies for Few-Shot Learning",
+        "reference": "Findings of the Association for Computational Linguistics (ACL 2026)",
+        "year": 2026
+      },
+      {
+        "authors": "P. Singh, S. Hess, J. Vanschoren",
+        "url": "https://openreview.net/pdf?id=ZHKVPkJMSI",
+        "title": "How NOT to benchmark your SITE metric: Beyond Static Leaderboards and Towards Realistic Evaluation",
+        "reference": "International Conference on Learning Representations (ICLR 2026)",
+        "year": 2026
+      },
+      {
+        "authors": "L. Mainardi, S. Sandikci, J. Vanschoren",
+        "url": "https://aclanthology.org/2026.eacl-long.255/",
+        "title": "An Empirical Study of Speculative Decoding for Small Language Models",
+        "reference": "Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)",
+        "year": 2026
+      },
+      {
+        "authors": "E. C. Gok Yildirim, M. O. Yildirim, J. Vanschoren",
+        "url": "https://openreview.net/forum?id=eGofyQoLrr#discussion",
+        "title": "Pruned Adaptation Modules: A Simple yet Strong Baseline for Continual Foundation Models",
+        "reference": "Conference on Parsimony and Learning (CPAL 2026)",
+        "year": 2026
+      },
+      {
+        "authors": "G. Manolache, G. Schouten, J. Vanschoren",
+        "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/0216c27a05dc3ca81677734fca1f7aca-Abstract-Datasets_and_Benchmarks_Track.html",
+        "title": "CrypticBio: A Large Multimodal Dataset for Visually Confusing Species",
+        "reference": "Advances in Neural Information Processing Systems (NeurIPS 2025)",
+        "year": 2025
+      },
+      {
+        "authors": "D. Onuțu, Y. Zhao, J. Vanschoren, V. Menkovski",
+        "url": "https://link.springer.com/content/pdf/10.1007/978-3-032-05461-6_2.pdf",
+        "title": "Score Matching on Large Geometric Graphs for Cosmology Generation",
+        "reference": "International Conference on Discovery Science, 17-31, 2025",
+        "year": 2025
+      },
+      {
+        "authors": "A. Vettoruzzo, L. Braccaioli, J. Vanschoren, M. Nowaczyk",
+        "url": "https://openreview.net/pdf?id=Jprs1v2wPA",
+        "title": "Unsupervised Meta-Learning via In-Context Learning",
+        "reference": "International Conference on Learning Representations (ICLR)",
+        "year": 2025
+      },
+      {
+        "authors": "M. O. Yildirim, E. C. Gok Yildirim, D. C. Mocanu, J. Vanschoren",
+        "url": "https://arxiv.org/abs/2403.14684",
+        "title": "Self-Regulated Neurogenesis for Online Data-Incremental Learning",
+        "reference": "Conference on Lifelong Learning Agents (CoLLAs)",
+        "year": 2025
+      },
+      {
+        "authors": "P. Singh, J. Vanschoren",
+        "url": "https://lifelong-ml.cc/Conferences/2025/acceptedpapersandvideos/conf-2025-3",
+        "title": "On Supernet Transfer Learning for Effective Task Adaptation",
+        "reference": "Conference on Lifelong Learning Agents (CoLLAs 2025)",
+        "year": 2025
+      },
       {
         "authors": "Akhtar, M., Benjelloun, O., Conforti, C., Gijsbers, P., Giner-Miguelez, J., Jain, N., Kuchnik, M., Lhoest, Q., Marcenac, P., Maskey, M., Mattson, P., Oala, L., Ruyssen, P., Shinde, R., Simperl, E., Thomas, G., Tykhonov, S., Vanschoren, J., van der Velde, J., Vogler, S., Wu, C.-J.",
         "url": "https://kclpure.kcl.ac.uk/ws/portalfiles/portal/311276594/Croissant_A_Metadata_Format_for_ML-Ready_Datasets.pdf",
@@ -1543,6 +1679,34 @@
     ],
     "workshop papers": [
       {
+        "authors": "P. Singh, T. G. H. Khuong, V. Sikimić, B. K. Rachmat, K. Ayonrinde, I. Ullah, C. Lioma, L. Oala, K. Q. Lin, L. Cao, N. F. Abernethy, H. Weerts, J. Vanschoren",
+        "url": "https://openreview.net/forum?id=xz1gOOOh9Z",
+        "title": "Position: AI Should Verify, Not Judge, Scientific Work",
+        "reference": "ICML 2026 AI for Science Workshop (ICML WS 2026)",
+        "year": 2026
+      },
+      {
+        "authors": "B. Celik, A. Vettoruzzo, J. Vanschoren",
+        "url": "https://openreview.net/forum?id=MYsSeRRRpm",
+        "title": "Route, Reuse, Repurpose: Continual Adaptation of LLMs with Bounded Adapter Pools",
+        "reference": "ICML 2026 Workshop on Continual Adaptation at Scale (ICML WS 2026)",
+        "year": 2026
+      },
+      {
+        "authors": "P. Singh, J. Vanschoren",
+        "url": "https://openreview.net/forum?id=hFfOiaMkF3",
+        "title": "Agentic Thought Collectives: Multi-Agent Communities For Open-Ended Scientific Discovery",
+        "reference": "Post-AGI Science and Society Workshop (ICLR WS 2026)",
+        "year": 2026
+      },
+      {
+        "authors": "P. Singh, Y. Li, Y. Al Khalil",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-032-08009-7_9",
+        "title": "Analysis of Transferability Estimation Metrics for Surgical Phase Recognition",
+        "reference": "3rd Workshop in Data Engineering in Medical Imaging (DEMI) MICCAI-2025 Workshop (Spotlight)",
+        "year": 2025
+      },
+      {
         "authors": "Akhtar, M., Benjelloun, O., Conforti, C., Gijsbers, P., Giner-Miguelez, J., Jain, N., Kuchnik, M., Lhoest, Q., Marcenac, P., Maskey, M., Mattson, P., Oala, L., Ruyssen, P., Shinde, R., Simperl, E., Thomas, G., Tykhonov, V., Vanschoren, J., Vogler, S., Wu, C.-J.",
         "url": "https://dl.acm.org/doi/10.1145/3650203.3663326",
         "title": "Croissant: A Metadata Format for ML-Ready Datasets",
@@ -1774,6 +1938,29 @@
         "year": 2009
       }
     ],
+    "technical reports": [
+    { 
+      "authors": "J. Vanschoren",
+      "url": "https://data.europa.eu/doi/10.2760/1807342",
+      "title": "The Role of AI Safety Benchmarks in Evaluating Systemic Risks in General-Purpose AI Models",
+      "reference": "JRC Technical Report, Publications Office of the European Union, Luxembourg",
+      "year": 2025
+    },
+    {
+      "authors": "M. Hobbhahn, D. Hovy, J. Vanschoren",
+      "url": "https://data.europa.eu/doi/10.2760/1807342",
+      "title": "A Proposal to Identify High-Impact Capabilities in General-Purpose AI Models",
+      "reference": "JRC Technical Report, Publications Office of the European Union, Luxembourg",
+      "year": 2025
+    },
+    {
+      "authors": "P. Röttger, D. Hovy, D. Nozza, J. Vanschoren",
+      "url": "https://data.europa.eu/doi/10.2760/1807342",
+      "title": "General-Purpose AI Model Reach as a Criterion for Systemic Risk",
+      "reference": "JRC Technical Report, Publications Office of the European Union, Luxembourg",
+      "year": 2025
+    }
+    ],
     "book chapters": [
       {
         "authors": "Vanschoren, J.",
@@ -1942,6 +2129,69 @@
       }
     ],
     "preprints": [
+      {
+        "authors": "H. Xie, J. Liu, Z. Qiao, J. Vanschoren",
+        "url": "https://arxiv.org/pdf/2605.25745v1",
+        "title": "Selective Latent Thinking: Adaptive Compression of LLM Reasoning Chains",
+        "reference": "arXiv preprint arXiv:2605.25745, 2026",
+        "year": 2026
+      },
+      {
+        "authors": "O. Benjelloun, L. Martins Bianco, I. Guyon, T.G.H. Khuong, J. Lebensold, S. Lobentanzer, L. Oala, B. Kent Rachmat, I. Ullah, P. Vahidi, J. Vanschoren",
+        "url": "https://arxiv.org/abs/2605.29786",
+        "title": "Croissant Tasks: A Metadata Format for Reproducible Machine Learning Evaluations",
+        "reference": "arXiv preprint arXiv:2605.29786, 2026",
+        "year": 2026
+      },
+      {
+        "authors": "M.L.P. Bueno, J. Vanschoren",
+        "url": "https://arxiv.org/abs/2602.00412",
+        "title": "Robustness of AutoML on Dirty Categorical Data",
+        "reference": "arXiv preprint arXiv:2602.00412, 2026",
+        "year": 2026
+      },
+      {
+        "authors": "R. Al Attrach, R. Fani, S. Lobentanzer, J. Giner-Miguelez, D. Das, V. H.K., N. Sarwar, R. Ghosh, A. Archit, S. Motghare, C. Conrad Parry, L. Oala, L. Grosso, J. Vanschoren, S. Vogler, S. Goswami, E.S. Rosenthal, M. Ghassemi, M. McDermott, T. Pollard",
+        "url": "https://arxiv.org/abs/2605.15079",
+        "title": "Croissant Baker: Metadata Generation for Discoverable, Governable, and Reusable ML Datasets",
+        "reference": "arXiv preprint arXiv:2605.15079, 2026",
+        "year": 2026
+      },
+      {
+        "authors": "L. Braccaioli, A. Vettoruzzo, P. Singh, J. Vanschoren, M. R. Bouguelia, N. Conci",
+        "url": "https://arxiv.org/abs/2507.05019",
+        "title": "Meta-Learning Transformers to Improve In-Context Generalization",
+        "reference": "arXiv preprint arXiv:2507.05019, 2025",
+        "year": 2025
+      },
+      {
+        "authors": "I. C. Jurado, P. Gijsbers, J. Vanschoren",
+        "url": "https://arxiv.org/abs/2504.01222",
+        "title": "AutoML Benchmark with shorter time constraints and early stopping",
+        "reference": "arXiv preprint arXiv:2504.01222, 2025",
+        "year": 2025
+      },
+      {
+        "authors": "P. Singh, S. Hess, J. Vanschoren",
+        "url": "https://arxiv.org/abs/2502.06925",
+        "title": "Occam's model: Selecting simpler representations for better transferability estimation",
+        "reference": "arXiv preprint arXiv:2502.06925, 2025",
+        "year": 2025
+      },
+      {
+        "authors": "S. Ghosh, H. Frase, A. Williams, ..., P. Mattson, P. Liang, J. Vanschoren",
+        "url": "https://arxiv.org/abs/2503.05731",
+        "title": "AILuminate: Introducing v1.0 of the AI risk and reliability benchmark from MLCommons",
+        "reference": "arXiv preprint arXiv:2503.05731, 2025",
+        "year": 2025
+      },
+      {
+        "authors": "D. Juodelyte, E. Ferrante, P. Singh, J. Vanschoren, V. Cheplygina",
+        "url": "https://arxiv.org/pdf/2412.20172",
+        "title": "On dataset transferability in medical image classification",
+        "reference": "arXiv preprint arXiv:2412.20172v1, 2024",
+        "year": 2024
+      },
       {
         "authors": "Jain, N., Akhtar, M., Giner-Miguelez, J., Shinde, R., Vanschoren, J., Vogler, S., Goswami, S., Rao, Y., Santos, T., Oala, L., and others.",
         "url": "https://arxiv.org/abs/2407.16883",
